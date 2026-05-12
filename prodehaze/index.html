@@ -1,0 +1,434 @@
+<!--
+  Copyright 2018 The Distill Template Authors
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<!doctype html>
+
+<style>
+.base-grid,
+.n-header,
+.n-byline,
+.n-title,
+.n-article,
+.n-footer {
+    display: grid;
+    justify-items: stretch;
+    grid-template-columns: [screen-start] 8px [page-start kicker-start text-start gutter-start middle-start] 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr [text-end page-end gutter-end kicker-end middle-end] 8px [screen-end];
+    grid-column-gap: 8px;
+}
+
+.grid {
+  display: grid;
+  grid-column-gap: 8px;
+}
+
+@media(min-width: 768px) {
+    .base-grid,
+    .n-header,
+    .n-byline,
+    .n-title,
+    .n-article,
+    .n-footer {
+        display: grid;
+        justify-items: stretch;
+        grid-template-columns: [screen-start] 1fr [page-start kicker-start middle-start text-start] 45px 45px 45px 45px 45px 45px 45px 45px [ kicker-end text-end gutter-start] 45px [middle-end] 45px [page-end gutter-end] 1fr [screen-end];
+        grid-column-gap: 16px;
+    }
+
+    .grid {
+        grid-column-gap: 16px;
+    }
+}
+
+@media(min-width: 1000px) {
+    .base-grid,
+    .n-header,
+    .n-byline,
+    .n-title,
+    .n-article,
+    .n-footer {
+        display: grid;
+        justify-items: stretch;
+        grid-template-columns: [screen-start] 1fr [page-start kicker-start] 50px [middle-start] 50px [text-start kicker-end] 50px 50px 50px 50px 50px 50px 50px 50px [text-end gutter-start] 50px [middle-end] 50px [page-end gutter-end] 1fr [screen-end];
+        grid-column-gap: 16px;
+    }
+
+    .grid {
+        grid-column-gap: 16px;
+    }
+}
+
+@media (min-width: 1180px) {
+    .base-grid,
+    .n-header,
+    .n-byline,
+    .n-title,
+    .n-article,
+    .n-footer {
+        display: grid;
+        justify-items: stretch;
+        grid-template-columns: [screen-start] 1fr [page-start kicker-start] 60px [middle-start] 60px [text-start kicker-end] 60px 60px 60px 60px 60px 60px 60px 60px [text-end gutter-start] 60px [middle-end] 60px [page-end gutter-end] 1fr [screen-end];
+        grid-column-gap: 32px;
+    }
+    .grid {
+        grid-column-gap: 32px;
+    }
+
+}
+
+.base-grid {
+  grid-column: screen;
+}
+
+/* default grid column assignments */
+.n-title > *  {
+  grid-column: text;
+}
+
+.n-article > *  {
+  grid-column: text;
+}
+
+.n-title {
+    padding: 4rem 0 0.5rem;
+}
+
+.l-page {
+    grid-column: page;
+}
+
+.l-article {
+    grid-column: text;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+
+.pixelated {
+    image-rendering: pixelated;
+}
+
+strong {
+    font-weight: 600;
+}
+
+/*------------------------------------------------------------------*/
+/* title */
+.n-title h1 {
+    font-family: "Barlow",system-ui,Arial,sans-serif;
+/*    color:#082333;*/
+    color: rgb(250,250,250);
+    grid-column: text;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.1em;
+    margin: 0 0 0.5rem;
+    text-align: center;
+}
+
+.n-title h2 {
+    color: rgb(250,250,250);
+    font-weight: 550;
+    line-height: 1.1em;
+    margin: 0 0 0.5rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .n-title h1 {
+        font-size: 35px;
+    }
+}
+
+
+.n-byline {
+  contain: style;
+  overflow: hidden;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 0.8rem;
+  line-height: 1.8em;
+  padding: 1.5rem 0;
+  min-height: 1.8em;
+}
+
+.n-byline .byline {
+  grid-column: text;
+}
+
+.byline {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.grid {
+    display: grid;
+    grid-column-gap: 8px;
+}
+
+@media (min-width: 768px) {
+.grid {
+    grid-column-gap: 16px;
+}
+}
+
+.n-byline p {
+  margin: 0;
+}
+
+.n-byline h3 {
+    font-size: 0.6rem;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+    text-transform: uppercase;
+}
+.n-byline .authors-affiliations {
+  grid-column-end: span 2;
+  grid-template-columns: 1fr 1fr;
+}
+
+ul.authors {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+ul.authors li {
+    padding: 0 0.5rem;
+    display: inline-block;
+}
+
+ul.authors sup {
+    color: rgb(206,206,206);
+}
+
+ul.authors.affiliations  {
+    margin-top: 0.5rem;
+}
+
+ul.authors.affiliations > li > a{
+    color: rgb(186,186,206, 0.8);
+    text-decoration:none; 
+}
+
+.authors.bottom > li > a {
+    text-decoration:none;
+    color: inherit;
+    color: rgb(255,255,255);
+    font-size: 14px;
+}
+
+.authors.bottom > li > a:hover {
+    text-decoration:none;
+    color: inherit;
+    color: rgb(255,255,255);
+/*    text-decoration:underline;*/
+    transition: 0.s;
+
+    padding-bottom: 0px;
+    border-bottom: 0px solid #fff;
+}
+
+ul.authors.affiliations > li > a:hover {
+    text-decoration:none; 
+    color: rgb(206,206,226, 1);
+    padding-bottom: 0px;
+    border-bottom: 0px solid #fff;
+}
+
+.n-title, .n-byline{
+  background:  #004050;
+  color: rgb(210,210,210);
+  font-family: Quando;
+  font-weight: 300;
+  width: 100%;
+}
+
+p > a, .authors > li > a {
+    text-decoration:none;
+    color: inherit;
+    color: rgb(200,200,200);
+}
+
+p > a:hover, .authors > li > a:hover {
+    text-decoration:none;
+    color: inherit;
+    color: rgb(255,255,255);
+/*    text-decoration:underline;*/
+    transition: 0.2s;
+
+    padding-bottom: 1px;
+    border-bottom: 1px solid #fff;
+}
+
+div.overlines {
+    border-top: 1px solid rgba(0, 0, 0, 0.1); 
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+
+</style>
+<head>
+    <title>ProDehaze</title>
+    <script src="template.v2.js"></script>
+    <meta property="og:title" content="ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing">
+    <meta property="og:type" content="website">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="./images/favicon.png">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+    </script>
+    <script type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <meta charset="utf8">
+</head>
+
+<body>
+  <div class="n-title">
+   <h1>
+    ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing
+   </h1>
+   <!-- <h2 style="text-align: center">
+    &mdash; ProDehaze &mdash;
+   </h2> -->
+   <h3 style="text-align: center"> International Conference on Multimedia & Expo (ICME), 2025 </h3>
+   <p style="text-align: center"> [<a href = "https://arxiv.org/abs/2503.17488"><b>Paper</b></a>]  [<a href = "https://github.com/TianwenZhou/ProDehaze"><b>Code</b></a>] </p>
+  </div>
+  <div class="n-byline">
+    <div class="byline">
+        <ul class="authors">
+          <li>
+            <a href="https://zhoutianwen.com/">Tianwen Zhou<sup>✦</sup></a>
+          </li>
+          <li>
+            <a>Jing Wang<sup>†</sup></a>
+          </li>
+          <li>
+            <a>Songtao Wu<sup>†</sup></a>
+          </li>
+          <li>
+            <a>Kuankong Xu<sup>†</sup></a>
+          </li>
+        </ul>
+        <ul class="authors affiliations">
+          <li>
+            <sup>✦</sup> <a href="https://ucl.ac.uk/">Department of Computer Science, University College London</a>
+          </li>
+          <li>
+            <sup>†</sup> <a href="https://sony.ai/">Research and Development Center, Sony (China)</a>
+          </li>
+        </ul>
+      </div>
+  </div>
+  <d-article>
+    <figure  style="grid-column: text">
+        <img src="images/overview.png" style="width: 100%;display: block; margin-left: auto; margin-right: auto;"/>
+        <figcaption >  <b>Framework of ProDehaze.</b> We employ a two-phase finetuning strategy for faithful dehazing. In the first phase, we train the Structure-Prompted Restorer (SPR) in the latent space using a structural prompt generated by a Haar Feature Extractor (HFE) from the hazy input $x_{in}$. It is then concatenated with the latent representation of $x_{in}$ and injected into the trainable adapter $\mathcal{N}$ to provide structural guidance. In the second phase, we finetune the Haze-aware Self-Correcting Refiner (HCR) in the decoding process. The haze-aware prompt, initialized by Dark Channel Prior (DCP), produces a sparse mask $M_s$ that emphasizes the clearer areas in $x_{in}$. It is used to modulate the attention map of the window swin transformer (WST) in the decoder $\mathcal{D}$. Finally, $\mathcal{D}$ and the refine network are jointly trained for better alignment between the clearer regions in $x_{in}$ and the output $x_{r}$. </figcaption>
+    </figure>
+    <h3 style="text-align: center;" >Abstract</h3>
+    <p style="text-align: justify;">
+        We propose ProDehaze, a dehazing framework that leverages internal image priors to guide large-scale pretrained diffusion models. It introduces two selective priors: a Structure-Prompted Restorer in latent space to focus on structure-rich regions, and a Haze-Aware Self-Correcting Refiner during decoding to align distributions between clear input areas and output.
+    </p>
+
+
+    <h3>Structure-prompted Restorer (SPR)</h3>
+    <p>Structure-prompted Restorer (SPR) utilizes high-frequency internal priors to guide the dehazing process. In the latent space of pretrained diffusion models, we extract high-frequency components using Haar Discrete Wavelet Transform (Haar DWT) and a learnable convolution kernel to generate a high-frequency feature <i>x<sub>high</sub></i>. This feature is concatenated with the input <i>x<sub>in</sub></i> and fed into the model as a conditioning signal <i>c<sub>f</sub></i> for improved dehazing. The model is fine-tuned using the objective function:</p>
+    
+    <div style="text-align:center;">
+      <p>
+        <i>$L_{SPR} = E_{x_{in}, t, c_f,\epsilon \sim N(0,1)} ||\epsilon - \epsilon_{\theta}(z_t, t, N(c_f))||^2$</i>
+      </p>
+    </div>
+    
+    <p>Where $\epsilon_{\theta}$ is the pretrained denoising UNet, and $N$ is the trainable adaptor.</p>
+    
+    <h3>Haze-aware Self-correcting Refiner (HCR)</h3>
+    <p><strong>Haze-aware Self-correcting Refiner (HCR)</strong> introduces a self-correction mechanism to enhance dehazing fidelity by leveraging haze-aware priors. We incorporate self-attention (SA) blocks into the decoder, modulated by priors based on haze density. These priors focus on areas with thinner haze, while deprioritizing dense haze regions. We initialize the haze-aware prior using the Dark Channel Prior (DCP), and calculate the correlation map <i>M<sub>corr,l</sub></i> for interaction between haze-affected regions. We sparsify the map using a top-k selection to emphasize clearer areas. The mask is generated as follows:</p>
+    
+    <div style="text-align:center;">
+      <p>   
+        <i>
+          $M_s^{ij} =
+          \begin{cases}
+          -\infty, & (i, j) \in I \\
+          1 - M_{\text{corr},ij}, & (i, j) \notin I
+          \end{cases}$
+        </i>
+      </p>
+    </div>
+    
+    <p>Where $I$ is the set of indices corresponding to the top-k haze-affected regions, and $M_{corr}$ is the correlation map. The sparsified mask $M_s$ is then used to modulate the self-attention in the decoder.</p>
+    
+    <h3>Results</h3>
+    <figure style="grid-column: text">
+        <img src="images/qual.png" style="width: 100%; display: block; margin-left: auto; margin-right: auto;"/>
+        <figcaption style="text-align: center;">Qualitative result on I-Haze, O-Haze, DenseHaze, NhHaze.</figcaption>
+    </figure>
+    <figure style="grid-column: text">
+        <img src="images/qual.png" style="width: 100%; display: block; margin-left: auto; margin-right: auto;"/>
+        <figcaption style="text-align: center;">Qualitative result on RTTS.</figcaption>
+    </figure>
+
+    <h3>Related Projects</h3>
+    <ul>
+      <li>This template is built upon <a href="https://github.com/IceClear/StableSR/">StableSR: Exploiting Diffusion Prior for Real-World Image Super-Resolution</a>.</li>
+    </ul>
+      
+
+    <h3>Citation</h3>
+    
+    <code>
+        @article{zhou2025prodehaze,
+      <div style="padding-left: 5%; margin: 0">
+        title={ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing},</br>
+        author={Zhou, Tianwen and Wang, Jing and Wu, Songtao and Xu, Kuanhong},</br>
+        journal={arXiv preprint arXiv:2503.17488},</br>
+        year={2025}</br>
+          }
+      </div>
+      }<br/>
+    </code>
+<span style="margin-bottom: 10%"></span>
+</d-article>
+
+<div class="n-byline">
+   <div class="byline">
+    <ul class="authors bottom">
+     <li>
+      <a>Tianwen Zhou</a>
+     </li>
+     <li>
+      <a>Jing Wang</a>
+     </li>
+     <li>
+      <a>Songtao Wu</a>
+     </li>
+     <li>
+      <a>Kuanhong Xu</a>
+     </li>
+     <li>
+        &bull; &emsp; <a>2025</a>
+     </li>
+    </ul>
+   </div>
+  </div>
+
+</body>

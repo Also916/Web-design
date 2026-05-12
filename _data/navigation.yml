@@ -1,0 +1,30 @@
+main:
+  - title: "Bio"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Experience"
+    url: "/#experience"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Academic Service"
+    url: "/#academic-service"
+
+  - title: "Patents"
+    url: "/#patents"
+
+  - title: "Events"
+    url: "/#events"
+    
+  - title: "Agent"
+    url: "/Agent"

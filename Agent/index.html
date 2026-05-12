@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agent Dashboard</title>
+    <meta
+      name="description"
+      content="查看天气、时间、世界风景、新闻和高质量 AI 论文精选。"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260422-3" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <div class="app-layout">
+        <aside class="sidebar" aria-label="Primary">
+          <div class="sidebar-brand">
+            <p class="sidebar-kicker">Agent</p>
+            <h1>Dashboard</h1>
+          </div>
+
+          <section class="sidebar-status-card" aria-labelledby="refreshPanelTitle">
+            <div class="sidebar-status-copy">
+              <p class="sidebar-status-kicker">Data</p>
+              <h2 id="refreshPanelTitle" class="sidebar-status-title">最新同步</h2>
+              <p id="generatedAt" class="sidebar-status-time">数据更新时间：--</p>
+              <p id="refreshStatus" class="sidebar-status-note">可立即触发 GitHub Actions 更新数据</p>
+            </div>
+            <button id="refreshDataButton" class="sidebar-refresh-button" type="button">
+              立即更新数据
+            </button>
+          </section>
+
+          <nav class="sidebar-nav" aria-label="Dashboard Sections">
+            <button class="sidebar-link is-active" type="button" data-view-target="home">
+              <span class="sidebar-link-kicker">01</span>
+              <span class="sidebar-link-copy">
+                <strong>Home</strong>
+              </span>
+            </button>
+            <button class="sidebar-link" type="button" data-view-target="news">
+              <span class="sidebar-link-kicker">02</span>
+              <span class="sidebar-link-copy">
+                <strong>News</strong>
+              </span>
+            </button>
+            <button class="sidebar-link" type="button" data-view-target="nba">
+              <span class="sidebar-link-kicker">03</span>
+              <span class="sidebar-link-copy">
+                <strong>NBA</strong>
+              </span>
+            </button>
+            <button class="sidebar-link" type="button" data-view-target="papers">
+              <span class="sidebar-link-kicker">04</span>
+              <span class="sidebar-link-copy">
+                <strong>Papers</strong>
+              </span>
+            </button>
+          </nav>
+        </aside>
+
+        <main class="dashboard">
+          <section id="homeView" class="dashboard-view is-active" data-view="home">
+            <section class="widget-grid widget-grid-top">
+              <section class="panel compact-weather-panel" aria-labelledby="weatherTitle">
+                <div class="panel-heading compact-heading">
+                  <div>
+                    <p class="panel-kicker">Weather & Clock</p>
+                    <h2 id="weatherTitle">Weather &amp; Time</h2>
+                  </div>
+                  <span class="panel-tag">Haidian / Asia/Shanghai</span>
+                </div>
+                <div id="weatherCurrent" class="weather-current weather-hero skeleton">
+                  <div class="weather-visual">
+                    <img
+                      id="weatherVisual"
+                      class="weather-visual-media"
+                      alt="Weather animation"
+                      loading="eager"
+                    />
+                  </div>
+                  <div class="weather-hero-body">
+                    <div class="weather-hero-top">
+                      <span id="weatherCondition" class="weather-chip">--</span>
+                      <span id="weatherLocation" class="panel-tag">--</span>
+                    </div>
+                    <div class="weather-hero-main">
+                      <div class="weather-hero-copy">
+                        <strong id="weatherTemperature">--&deg;C</strong>
+                        <p id="weatherDescription">--</p>
+                      </div>
+                      <div class="weather-hero-clock">
+                        <p id="currentTime" class="time-value">--:--:--</p>
+                        <p id="currentDate" class="time-date">--</p>
+                        <p class="time-meta">北京时间 · 每 4 小时同步</p>
+                      </div>
+                    </div>
+                    <div class="weather-metrics">
+                      <span id="weatherWind">Wind --</span>
+                      <span id="weatherRange">Temp -- / --</span>
+                      <span id="weatherRain">Rain --</span>
+                    </div>
+                  </div>
+                </div>
+                <div id="weatherDaily" class="weather-daily"></div>
+                <div class="calendar-toolbar" aria-label="Calendar navigation">
+                  <div class="calendar-toolbar-copy">
+                    <p class="calendar-kicker">Calendar</p>
+                    <p id="calendarRangeHint" class="calendar-range-hint">当前与下一个月</p>
+                  </div>
+                  <div class="calendar-toolbar-actions">
+                    <button id="calendarPrev" class="calendar-nav-button" type="button">上一月</button>
+                    <button id="calendarToday" class="calendar-nav-button is-primary" type="button">
+                      回到今天
+                    </button>
+                    <button id="calendarNext" class="calendar-nav-button" type="button">下一月</button>
+                  </div>
+                </div>
+                <div class="weather-calendars">
+                  <section class="calendar-card" aria-labelledby="currentMonthTitle">
+                    <div class="calendar-card-head">
+                      <div>
+                        <p class="calendar-kicker">Current Month</p>
+                        <h3 id="currentMonthTitle" class="calendar-title">This Month</h3>
+                      </div>
+                      <span id="currentMonthLabel" class="calendar-badge">--</span>
+                    </div>
+                    <div id="currentMonthCalendar" class="calendar-grid"></div>
+                  </section>
+
+                  <section class="calendar-card" aria-labelledby="nextMonthTitle">
+                    <div class="calendar-card-head">
+                      <div>
+                        <p class="calendar-kicker">Next Month</p>
+                        <h3 id="nextMonthTitle" class="calendar-title">Next Month</h3>
+                      </div>
+                      <span id="nextMonthLabel" class="calendar-badge">--</span>
+                    </div>
+                    <div id="nextMonthCalendar" class="calendar-grid"></div>
+                  </section>
+                </div>
+                <section class="history-card" aria-labelledby="historyTodayTitle">
+                  <div class="history-card-head">
+                    <div>
+                      <p class="calendar-kicker">On This Day</p>
+                      <h3 id="historyTodayTitle" class="calendar-title">历史上的今天</h3>
+                    </div>
+                    <span id="historyTodayMeta" class="calendar-badge">--</span>
+                  </div>
+                  <div id="historyTodayList" class="history-today-list">
+                    <p>正在整理今天的历史切片...</p>
+                  </div>
+                </section>
+              </section>
+
+              <div class="top-side-stack">
+                <section class="panel scenic-hero-panel" aria-labelledby="featuredPlaceTitle">
+                  <div class="panel-heading scenic-heading">
+                    <div>
+                      <p class="panel-kicker">Daily Escape</p>
+                      <h2 id="featuredPlaceTitle">Scenic View</h2>
+                    </div>
+                    <span class="panel-tag">Daily Refresh</span>
+                  </div>
+                  <div id="featuredPlacePanel" class="featured-place-hero skeleton"></div>
+                </section>
+
+                <section class="panel quote-panel" aria-labelledby="classicQuoteTitle">
+                  <div class="panel-heading compact-heading">
+                    <div>
+                      <p class="panel-kicker">Classic Lines</p>
+                      <h2 id="classicQuoteTitle">Classic Quote</h2>
+                    </div>
+                    <span class="panel-tag">Daily Quote</span>
+                  </div>
+                  <div id="classicQuoteCard" class="quote-card skeleton">
+                    <p id="classicQuoteText" class="quote-text">--</p>
+                    <div class="quote-meta">
+                      <p id="classicQuoteSource" class="quote-source">--</p>
+                      <p id="classicQuoteNote" class="quote-note">--</p>
+                    </div>
+                    <section class="book-excerpt-block" aria-labelledby="bookExcerptTitle">
+                      <div class="book-excerpt-head">
+                        <p class="book-excerpt-kicker">Book Passage</p>
+                        <h3 id="bookExcerptTitle" class="book-excerpt-title">书籍句子摘抄</h3>
+                      </div>
+                      <p id="bookExcerptText" class="book-excerpt-text">--</p>
+                      <p id="bookExcerptSource" class="book-excerpt-source">--</p>
+                    </section>
+                  </div>
+                </section>
+              </div>
+            </section>
+          </section>
+
+          <section id="newsView" class="dashboard-view" data-view="news">
+            <section class="widget-grid widget-grid-news">
+              <section class="panel" aria-labelledby="chinaTopNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">China</p>
+                    <h2 id="chinaTopNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">CN</span>
+                      <span>China News</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 5</span>
+                </div>
+                <div id="chinaTopNews" class="news-list premium-news-list"></div>
+              </section>
+
+              <section class="panel" aria-labelledby="chinaSocietyNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">China</p>
+                    <h2 id="chinaSocietyNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">SH</span>
+                      <span>China Society</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 5</span>
+                </div>
+                <div id="chinaSocietyNews" class="news-list premium-news-list"></div>
+              </section>
+
+              <section class="panel" aria-labelledby="chinaFinanceNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">China</p>
+                    <h2 id="chinaFinanceNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">FX</span>
+                      <span>China Finance</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 5</span>
+                </div>
+                <div id="chinaFinanceNews" class="news-list premium-news-list"></div>
+              </section>
+
+              <section class="panel" aria-labelledby="worldTopNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">World</p>
+                    <h2 id="worldTopNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">GL</span>
+                      <span>World News</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 5</span>
+                </div>
+                <div id="worldTopNews" class="news-list premium-news-list"></div>
+              </section>
+
+              <section class="panel" aria-labelledby="worldBusinessNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">World</p>
+                    <h2 id="worldBusinessNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">FX</span>
+                      <span>World Business</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 5</span>
+                </div>
+                <div id="worldBusinessNews" class="news-list premium-news-list"></div>
+              </section>
+
+              <section class="panel" aria-labelledby="worldTechNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">World</p>
+                    <h2 id="worldTechNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">IT</span>
+                      <span>World Tech</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 5</span>
+                </div>
+                <div id="worldTechNews" class="news-list premium-news-list"></div>
+              </section>
+            </section>
+          </section>
+
+          <section id="nbaView" class="dashboard-view" data-view="nba">
+            <section class="widget-grid widget-grid-nba">
+              <section class="panel nba-score-panel" aria-labelledby="nbaGamesTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">NBA</p>
+                    <h2 id="nbaGamesTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">NBA</span>
+                      <span>Games &amp; Leaders</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Live Board</span>
+                </div>
+                <div id="nbaScoreboard" class="scoreboard-panel"></div>
+              </section>
+
+              <section class="panel nba-news-panel" aria-labelledby="nbaNewsTitle">
+                <div class="panel-heading news-panel-heading">
+                  <div>
+                    <p class="panel-kicker">NBA</p>
+                    <h2 id="nbaNewsTitle" class="panel-title-line">
+                      <span class="panel-icon" aria-hidden="true">NBA</span>
+                      <span>NBA News</span>
+                    </h2>
+                  </div>
+                  <span class="panel-tag">Top 6</span>
+                </div>
+                <div id="nbaNews" class="news-list premium-news-list"></div>
+              </section>
+            </section>
+          </section>
+
+          <section id="papersView" class="dashboard-view" data-view="papers">
+            <section class="panel panel-wide" aria-labelledby="papersTitle">
+              <div class="panel-heading">
+                <div>
+                  <p class="panel-kicker">Paper Picks</p>
+                  <h2 id="papersTitle">Curated Papers</h2>
+                  <p class="panel-subtitle">
+                    Curated from landmark conferences and influential work instead of a raw arXiv firehose.
+                  </p>
+                </div>
+                <span id="paperRotationLabel" class="panel-tag">Daily Rotation</span>
+              </div>
+              <div id="paperHighlights" class="paper-list"></div>
+            </section>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <div id="chatDock" class="chat-dock">
+      <button
+        id="chatToggleButton"
+        class="chat-dock-toggle"
+        type="button"
+        data-chat-drag-handle
+        aria-expanded="false"
+        aria-controls="chatFloatingPanel"
+      >
+        <span class="chat-dock-toggle-icon" aria-hidden="true">AI</span>
+        <span id="chatToggleLabel" class="chat-dock-toggle-label">Chat</span>
+        <span id="chatUnreadBadge" class="chat-unread-badge" hidden>0</span>
+      </button>
+
+      <section
+        id="chatFloatingPanel"
+        class="panel chat-panel"
+        aria-labelledby="chatPanelTitle"
+      >
+        <div
+          id="chatDragHandle"
+          class="panel-heading compact-heading chat-panel-heading"
+          data-chat-drag-handle
+        >
+          <div>
+            <p class="panel-kicker">Quick Chat</p>
+            <h2 id="chatPanelTitle">Agent Chat</h2>
+          </div>
+          <div class="chat-panel-actions">
+            <span id="chatAvailability" class="panel-tag">Not Configured</span>
+            <button
+              id="chatCollapseButton"
+              class="chat-collapse-button"
+              type="button"
+              aria-label="Collapse chat"
+            >
+              -
+            </button>
+          </div>
+        </div>
+        <div class="chat-peek-strip">
+          <p class="chat-peek-meta">Quick Access</p>
+          <p id="chatPeekText" class="chat-peek-text">Chat about NBA, news, and papers.</p>
+        </div>
+        <div class="chat-panel-body">
+          <div id="chatMessages" class="chat-messages" aria-live="polite"></div>
+          <div class="chat-composer">
+            <div class="chat-shortcuts">
+              <button class="chat-shortcut" type="button" data-chat-shortcut="总结今天的 NBA 焦点">
+                NBA 焦点
+              </button>
+              <button class="chat-shortcut" type="button" data-chat-shortcut="今天 AI 论文里最值得看什么？">
+                AI 论文
+              </button>
+              <button class="chat-shortcut" type="button" data-chat-shortcut="随便和我轻松聊两句">
+                随便聊聊
+              </button>
+            </div>
+            <form id="chatForm" class="chat-form">
+              <label class="sr-only" for="chatInput">Chat Input</label>
+              <textarea
+                id="chatInput"
+                class="chat-input"
+                rows="3"
+                maxlength="400"
+                placeholder="想问新闻、NBA、论文，或者随便聊两句都可以。"
+              ></textarea>
+              <div class="chat-form-footer">
+                <p id="chatHint" class="chat-hint">简短对话，默认保留最近几轮。</p>
+                <button id="chatSendButton" class="chat-send-button" type="submit">发送</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <div id="petDock" class="pet-dock" aria-label="Cyber pet lane">
+      <div id="petCompanion" class="pet-companion">
+        <section class="pet-hover-card" aria-labelledby="petPanelTitle">
+          <div class="pet-hover-head">
+            <div>
+              <p class="panel-kicker">3D Companion</p>
+              <h2 id="petPanelTitle">Neo Cat</h2>
+            </div>
+            <span id="petMoodBadge" class="panel-tag">Roaming</span>
+          </div>
+
+          <p id="petStatusText" class="pet-status-text">A tiny 3D cat is patrolling the bottom edge of your dashboard.</p>
+          <p class="pet-model-credit">
+            3D model by
+            <a href="https://poly.pizza/m/6dM1J6f6pm9" target="_blank" rel="noreferrer">Poly Pizza</a>
+          </p>
+        </section>
+
+        <div id="petStage" class="pet-stage" tabindex="0" aria-label="3D cat companion">
+          <div class="pet-grid"></div>
+          <div class="pet-model-shell" aria-hidden="true">
+            <model-viewer
+              id="petModel"
+              class="pet-model-viewer"
+              src="./assets/pet-cat.glb"
+              poster="./assets/pet-cat-poster.jpg"
+              alt="A small 3D cat companion"
+              camera-orbit="0deg 78deg 3.4m"
+              field-of-view="28deg"
+              shadow-intensity="0.85"
+              exposure="1.08"
+              environment-image="neutral"
+              interaction-prompt="none"
+              disable-zoom
+            ></model-viewer>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <template id="emptyStateTemplate">
+      <div class="empty-state">
+        <p>今天的内容还没准备好，请稍后再试。</p>
+      </div>
+    </template>
+
+    <script src="./chat-config.js?v=20260423-1"></script>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+    <script type="module" src="./app.js?v=20260423-1"></script>
+  </body>
+</html>
