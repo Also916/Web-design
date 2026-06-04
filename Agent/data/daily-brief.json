@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-06-04T18:25:44.016Z",
+  "generatedAt": "2026-06-04T21:49:10.447Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 16,
-      "weatherCode": 0,
-      "windSpeed": 1
+      "temperature": 15,
+      "weatherCode": 1,
+      "windSpeed": 4
     },
     "today": {
       "date": "2026-06-05",
       "weatherCode": 3,
       "description": "阴天",
-      "max": 26,
-      "min": 14,
+      "max": 27,
+      "min": 15,
       "precipitationProbability": 7
     },
     "forecast": [
@@ -20,38 +20,38 @@
         "date": "2026-06-05",
         "weatherCode": 3,
         "description": "阴天",
-        "max": 26,
-        "min": 14,
+        "max": 27,
+        "min": 15,
         "precipitationProbability": 7
       },
       {
         "date": "2026-06-06",
         "weatherCode": 61,
         "description": "小雨",
-        "max": 20,
-        "min": 13,
+        "max": 22,
+        "min": 14,
         "precipitationProbability": 98
       },
       {
         "date": "2026-06-07",
         "weatherCode": 51,
         "description": "毛毛雨",
-        "max": 24,
-        "min": 11,
+        "max": 25,
+        "min": 12,
         "precipitationProbability": 25
       },
       {
         "date": "2026-06-08",
         "weatherCode": 51,
         "description": "毛毛雨",
-        "max": 28,
-        "min": 13,
+        "max": 29,
+        "min": 14,
         "precipitationProbability": 29
       },
       {
         "date": "2026-06-09",
-        "weatherCode": 2,
-        "description": "局部多云",
+        "weatherCode": 1,
+        "description": "基本晴",
         "max": 27,
         "min": 16,
         "precipitationProbability": 24
@@ -299,43 +299,43 @@
     ],
     "worldTop": [
       {
+        "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+        "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+        "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa4/live/71ba3610-605d-11f1-b682-cf91850925ea.jpg",
+        "publishedAt": "2026-06-04T21:34:49.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+        "publishedAt": "2026-06-04T21:34:14.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
         "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
-        "publishedAt": "2026-06-04T17:54:06.000Z",
+        "publishedAt": "2026-06-04T20:37:46.000Z",
         "source": "BBC"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security offic...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
-        "publishedAt": "2026-06-04T17:50:20.000Z",
+        "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
+        "link": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Police raided the suspects' homes after tip-offs from German and UK authorities.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/f4402fe0-6030-11f1-9792-c579e9d62a5f.jpg",
+        "publishedAt": "2026-06-04T17:48:36.000Z",
         "source": "BBC"
       },
       {
-        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-        "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-        "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6465/live/58a61730-600c-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-06-04T14:46:36.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-        "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3055/live/708bc170-600b-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-06-04T10:18:49.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Russia ramps up aerial attacks as it struggles on the ground in Ukraine",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnlYMnJKaTZkNmxTRi16bWpGQzZObEVSeERZcE45NDRhRG5mR01oVXNfeU1OZ3oxekdZTTdmZ3ZBVmVZSEFQMmVGTFpoQU0xWVVpbGNWQnBXYkN5TDVoMVpzMVM2aDVuRmR6b3lacDNhOVUxSVRsaHVkNmJOd3JBSGRad0xTejZqOWxmX1ln?oc=5",
+        "title": "Steven Seagal, Candace Owens and Trump’s ballroom commissioner appear at Russia’s top economic forum",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2RGNVc5Y1NWVEFNS0h0SmF5QTduS1g4ZEx6ZWdnSXF2bExiVGxpM3pQMXg2TzlBTGN3U2k5UWJpc0tjbEdXNW5sdDY1dFZQM2ZwQXlkQV9WMXdEVFM1UktZZkFFeDEwNnU5Z3NvZ09LdUIxZHRSd09DRU1DdEpsUmI0LUNFeThEOWYydml2aHQ?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-06-04T06:42:33.000Z",
+        "publishedAt": "2026-06-04T17:10:32.000Z",
         "source": "CNN"
       }
     ],
@@ -467,43 +467,43 @@
     ],
     "international": [
       {
+        "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+        "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+        "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa4/live/71ba3610-605d-11f1-b682-cf91850925ea.jpg",
+        "publishedAt": "2026-06-04T21:34:49.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+        "publishedAt": "2026-06-04T21:34:14.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
         "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
-        "publishedAt": "2026-06-04T17:54:06.000Z",
+        "publishedAt": "2026-06-04T20:37:46.000Z",
         "source": "BBC"
       },
       {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security offic...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
-        "publishedAt": "2026-06-04T17:50:20.000Z",
+        "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
+        "link": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Police raided the suspects' homes after tip-offs from German and UK authorities.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/f4402fe0-6030-11f1-9792-c579e9d62a5f.jpg",
+        "publishedAt": "2026-06-04T17:48:36.000Z",
         "source": "BBC"
       },
       {
-        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-        "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-        "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6465/live/58a61730-600c-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-06-04T14:46:36.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-        "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3055/live/708bc170-600b-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-06-04T10:18:49.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Russia ramps up aerial attacks as it struggles on the ground in Ukraine",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnlYMnJKaTZkNmxTRi16bWpGQzZObEVSeERZcE45NDRhRG5mR01oVXNfeU1OZ3oxekdZTTdmZ3ZBVmVZSEFQMmVGTFpoQU0xWVVpbGNWQnBXYkN5TDVoMVpzMVM2aDVuRmR6b3lacDNhOVUxSVRsaHVkNmJOd3JBSGRad0xTejZqOWxmX1ln?oc=5",
+        "title": "Steven Seagal, Candace Owens and Trump’s ballroom commissioner appear at Russia’s top economic forum",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2RGNVc5Y1NWVEFNS0h0SmF5QTduS1g4ZEx6ZWdnSXF2bExiVGxpM3pQMXg2TzlBTGN3U2k5UWJpc0tjbEdXNW5sdDY1dFZQM2ZwQXlkQV9WMXdEVFM1UktZZkFFeDEwNnU5Z3NvZ09LdUIxZHRSd09DRU1DdEpsUmI0LUNFeThEOWYydml2aHQ?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-06-04T06:42:33.000Z",
+        "publishedAt": "2026-06-04T17:10:32.000Z",
         "source": "CNN"
       }
     ],
