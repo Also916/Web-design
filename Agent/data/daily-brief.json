@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-06T17:22:24.379Z",
+  "generatedAt": "2026-06-06T21:11:53.022Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 13,
+      "temperature": 11,
       "weatherCode": 0,
-      "windSpeed": 3
+      "windSpeed": 2
     },
     "today": {
       "date": "2026-06-07",
@@ -26,25 +26,25 @@
       },
       {
         "date": "2026-06-08",
-        "weatherCode": 53,
-        "description": "小雨",
-        "max": 28,
+        "weatherCode": 51,
+        "description": "毛毛雨",
+        "max": 27,
         "min": 13,
         "precipitationProbability": 47
       },
       {
         "date": "2026-06-09",
-        "weatherCode": 2,
-        "description": "局部多云",
-        "max": 27,
+        "weatherCode": 53,
+        "description": "小雨",
+        "max": 24,
         "min": 15,
         "precipitationProbability": 33
       },
       {
         "date": "2026-06-10",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 25,
+        "weatherCode": 2,
+        "description": "局部多云",
+        "max": 26,
         "min": 15,
         "precipitationProbability": 14
       },
@@ -301,42 +301,42 @@
       {
         "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
         "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-        "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
-        "publishedAt": "2026-06-06T17:14:03.000Z",
+        "publishedAt": "2026-06-06T20:50:40.000Z",
         "source": "BBC"
       },
       {
-        "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-        "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
-        "publishedAt": "2026-06-06T17:12:39.000Z",
+        "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+        "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europ...",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/00068510-61dd-11f1-a211-b739dafd566d.png",
+        "publishedAt": "2026-06-06T20:32:08.000Z",
         "source": "BBC"
       },
       {
-        "title": "Andreeva wins French Open as Chwalinska fairytale ends",
-        "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e11/live/9acf5bf0-61bd-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-06-06T15:44:24.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg",
-        "publishedAt": "2026-06-06T14:46:20.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Ukraine targets Russian navy base near St. Petersburg on last day of ‘Putin’s Davos’",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBYzFPMWhvZTUwYnJDeVVQb3FKTVRqTmpVY0tScDU5ZEsxenVFcGdYN2xhM2NiTkxjTkNyMk9sVWh6WGJXbWRPa01Ia2JQeHZfNmlibUh4T3IwTS02cGNkcDNiU005amVvWVg0aE8tb0NiWXBQbzIycGhvN2M?oc=5",
+        "title": "Canada may be the forgotten co-host of the World Cup, but it’s just happy to be here",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVM5T2o3cE9YanZDX2tibHQydmtvUHpnRG5rSmdYZTZiaHV5bldlaklLRHBzUlVpNFIxb25kRUNxTllqRFRzdVN1MnRPRmk2anhaREhjTDNQNjAwRE9NM3BCTjdNQlphc01falRwRThnUUlGRF9mZEdwcTFCZVRQQmJGaVQ?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-06-06T11:48:56.000Z",
+        "publishedAt": "2026-06-06T20:29:28.000Z",
         "source": "CNN"
+      },
+      {
+        "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+        "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+        "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57df/live/389640b0-61d7-11f1-a211-b739dafd566d.jpg",
+        "publishedAt": "2026-06-06T19:57:42.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+        "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+        "summary": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473f/live/8e6e1370-61cb-11f1-8c97-a551be738222.jpg",
+        "publishedAt": "2026-06-06T18:34:26.000Z",
+        "source": "BBC"
       }
     ],
     "worldBusiness": [
@@ -357,6 +357,14 @@
         "source": "BBC"
       },
       {
+        "title": "Remaining ‘60 Minutes’ correspondents say they’re staying",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcHB3bDduUTR4a2o3LTA0b1dRMm1oM2o2dVYxd3FkRm9UZVdTTDlIZmJTOVFQTVYzQU42UlljaUZEcm5HbFBCcDRKN25hU0hzY1BGcC0xNVdicXlsZDJuWTFjWjJnT0lvZXU1ajRzeGlRaXhHSElDdjdUd1R1QzQ2R1h1M3cyelRKWC1VMTRBaV8?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-06-05T16:20:14.000Z",
+        "source": "CNN"
+      },
+      {
         "title": "Hospitality jobs boom as US prepares for World Cup",
         "link": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
         "summary": "It is the third month in a row US jobs figures have beaten expectations.",
@@ -370,14 +378,6 @@
         "summary": "",
         "image": "",
         "publishedAt": "2026-06-05T11:53:57.000Z",
-        "source": "CNN"
-      },
-      {
-        "title": "Big banks’ gloves come off in their fight with crypto",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xcHdJQ2NlU2lWNTJsdm9VWUlJc0tLWlJ3alI4WkN1bUt2ZU4xbmlyMDVuTXl0N3hMUm5vTXVwRmMzSFUtcndjbEp1RUowekNsZzJjSkhRTlM4dmQybTBkdWJwWE5pTndONUl6QjVvRjR3NFpRU3c?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-06-05T11:00:07.000Z",
         "source": "CNN"
       }
     ],
@@ -469,42 +469,42 @@
       {
         "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
         "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-        "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
-        "publishedAt": "2026-06-06T17:14:03.000Z",
+        "publishedAt": "2026-06-06T20:50:40.000Z",
         "source": "BBC"
       },
       {
-        "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-        "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
-        "publishedAt": "2026-06-06T17:12:39.000Z",
+        "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+        "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europ...",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/00068510-61dd-11f1-a211-b739dafd566d.png",
+        "publishedAt": "2026-06-06T20:32:08.000Z",
         "source": "BBC"
       },
       {
-        "title": "Andreeva wins French Open as Chwalinska fairytale ends",
-        "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e11/live/9acf5bf0-61bd-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-06-06T15:44:24.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg",
-        "publishedAt": "2026-06-06T14:46:20.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Ukraine targets Russian navy base near St. Petersburg on last day of ‘Putin’s Davos’",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBYzFPMWhvZTUwYnJDeVVQb3FKTVRqTmpVY0tScDU5ZEsxenVFcGdYN2xhM2NiTkxjTkNyMk9sVWh6WGJXbWRPa01Ia2JQeHZfNmlibUh4T3IwTS02cGNkcDNiU005amVvWVg0aE8tb0NiWXBQbzIycGhvN2M?oc=5",
+        "title": "Canada may be the forgotten co-host of the World Cup, but it’s just happy to be here",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVM5T2o3cE9YanZDX2tibHQydmtvUHpnRG5rSmdYZTZiaHV5bldlaklLRHBzUlVpNFIxb25kRUNxTllqRFRzdVN1MnRPRmk2anhaREhjTDNQNjAwRE9NM3BCTjdNQlphc01falRwRThnUUlGRF9mZEdwcTFCZVRQQmJGaVQ?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-06-06T11:48:56.000Z",
+        "publishedAt": "2026-06-06T20:29:28.000Z",
         "source": "CNN"
+      },
+      {
+        "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+        "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+        "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57df/live/389640b0-61d7-11f1-a211-b739dafd566d.jpg",
+        "publishedAt": "2026-06-06T19:57:42.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+        "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+        "summary": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473f/live/8e6e1370-61cb-11f1-8c97-a551be738222.jpg",
+        "publishedAt": "2026-06-06T18:34:26.000Z",
+        "source": "BBC"
       }
     ],
     "nba": [
@@ -521,7 +521,7 @@
         "link": "https://www.espn.com/nba/story/_/id/48980267/knicks-hold-spurs-comeback-game-2-seize-2-0-lead-nba-finals",
         "summary": "Karl-Anthony Towns carried the Knicks on both ends of the floor as New York held off San Antonio in Game 2 and became just the third team to win the f...",
         "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0606%2Fr1668840_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-06T08:51:01.000Z",
+        "publishedAt": "2026-06-06T18:36:09.000Z",
         "source": "ESPN"
       },
       {
@@ -529,7 +529,7 @@
         "link": "https://www.espn.com/nba/story/_/id/48981597/wemby-rues-costly-turnover-spurs-fall-game-2-nba-finals",
         "summary": "Spurs star Victor Wembanyama admitted urgency got the better of him when he committed a late turnover in Friday's Game 2 loss, but he said he would us...",
         "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0606%2Fr1668857_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-06T18:02:06.000Z",
+        "publishedAt": "2026-06-06T20:21:06.000Z",
         "source": "ESPN"
       },
       {
@@ -537,7 +537,7 @@
         "link": "https://www.espn.com/nba/story/_/id/48977481/sources-nba-interviews-leonard-adviser-aspiration-case",
         "summary": "\\Kawhi Leonard and his business adviser have been interviewed by NBA investigators amid the league's inquiry into allegations the Clippers circumvente...",
         "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0129%2Fr1607512_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-06T08:51:01.000Z",
+        "publishedAt": "2026-06-06T18:36:10.000Z",
         "source": "ESPN"
       },
       {
@@ -545,7 +545,7 @@
         "link": "https://www.espn.com/nba/story/_/id/48978218/viewership-nba-finals-game-1-90-vs-2025-opener",
         "summary": "Game 1 of the finals matchup between the Spurs and Knicks averaged nearly 17 million viewers on Wednesday night.",
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0605%2Fr1668730_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-06T08:51:01.000Z",
+        "publishedAt": "2026-06-06T18:36:10.000Z",
         "source": "ESPN"
       },
       {
@@ -553,7 +553,7 @@
         "link": "https://www.espn.com/nba/story/_/id/48966429/court-storming-fan-gets-life-ban-nba-selfie-quest",
         "summary": "Two fans involved in a selfie-seeking incident during Game 1 of the NBA Finals on Wednesday night have been given lifetime bans from all NBA arenas, a...",
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0604%2Fr1667967_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-06T08:51:01.000Z",
+        "publishedAt": "2026-06-06T18:36:09.000Z",
         "source": "ESPN"
       }
     ]
