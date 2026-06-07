@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-07T17:26:13.848Z",
+  "generatedAt": "2026-06-07T21:20:39.647Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 14,
+      "temperature": 13,
       "weatherCode": 0,
-      "windSpeed": 2
+      "windSpeed": 4
     },
     "today": {
       "date": "2026-06-08",
@@ -26,9 +26,9 @@
       },
       {
         "date": "2026-06-09",
-        "weatherCode": 53,
-        "description": "小雨",
-        "max": 26,
+        "weatherCode": 51,
+        "description": "毛毛雨",
+        "max": 25,
         "min": 15,
         "precipitationProbability": 52
       },
@@ -36,8 +36,8 @@
         "date": "2026-06-10",
         "weatherCode": 51,
         "description": "毛毛雨",
-        "max": 24,
-        "min": 14,
+        "max": 25,
+        "min": 15,
         "precipitationProbability": 34
       },
       {
@@ -299,27 +299,35 @@
     ],
     "worldTop": [
       {
+        "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+        "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+        "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed85/live/bc540b70-62a0-11f1-b682-cf91850925ea.jpg",
+        "publishedAt": "2026-06-07T19:55:49.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+        "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949b/live/890af750-62a1-11f1-96bd-c1bed4b24e0c.jpg",
+        "publishedAt": "2026-06-07T18:49:17.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Eriksen conscious after collapsing in Denmark game",
+        "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+        "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c1/live/235a5cd0-62a0-11f1-96bd-c1bed4b24e0c.jpg",
+        "publishedAt": "2026-06-07T18:31:56.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Armenia votes as Russia piles pressure on pro-West government",
         "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
         "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/353c/live/d82787d0-6185-11f1-b682-cf91850925ea.jpg",
         "publishedAt": "2026-06-07T17:11:54.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-        "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff48/live/318f54e0-6287-11f1-a012-97de4dc8804e.jpg",
-        "publishedAt": "2026-06-07T16:42:18.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-        "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c12/live/9aaeaf20-626e-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-06-07T16:03:38.000Z",
         "source": "BBC"
       },
       {
@@ -329,14 +337,6 @@
         "image": "",
         "publishedAt": "2026-06-07T13:00:08.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-        "link": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce61/live/a900c290-6249-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-06-07T10:27:15.000Z",
-        "source": "BBC"
       }
     ],
     "worldBusiness": [
@@ -467,27 +467,35 @@
     ],
     "international": [
       {
+        "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+        "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+        "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed85/live/bc540b70-62a0-11f1-b682-cf91850925ea.jpg",
+        "publishedAt": "2026-06-07T19:55:49.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+        "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949b/live/890af750-62a1-11f1-96bd-c1bed4b24e0c.jpg",
+        "publishedAt": "2026-06-07T18:49:17.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Eriksen conscious after collapsing in Denmark game",
+        "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+        "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c1/live/235a5cd0-62a0-11f1-96bd-c1bed4b24e0c.jpg",
+        "publishedAt": "2026-06-07T18:31:56.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Armenia votes as Russia piles pressure on pro-West government",
         "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
         "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/353c/live/d82787d0-6185-11f1-b682-cf91850925ea.jpg",
         "publishedAt": "2026-06-07T17:11:54.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-        "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff48/live/318f54e0-6287-11f1-a012-97de4dc8804e.jpg",
-        "publishedAt": "2026-06-07T16:42:18.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-        "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c12/live/9aaeaf20-626e-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-06-07T16:03:38.000Z",
         "source": "BBC"
       },
       {
@@ -497,14 +505,6 @@
         "image": "",
         "publishedAt": "2026-06-07T13:00:08.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-        "link": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce61/live/a900c290-6249-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-06-07T10:27:15.000Z",
-        "source": "BBC"
       }
     ],
     "nba": []
