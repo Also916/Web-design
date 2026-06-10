@@ -1,29 +1,21 @@
 {
-  "generatedAt": "2026-06-10T15:58:17.521Z",
+  "generatedAt": "2026-06-10T18:36:18.349Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 18,
-      "weatherCode": 1,
-      "windSpeed": 2
+      "temperature": 16,
+      "weatherCode": 0,
+      "windSpeed": 3
     },
     "today": {
-      "date": "2026-06-10",
-      "weatherCode": 63,
-      "description": "中雨",
-      "max": 26,
-      "min": 14,
-      "precipitationProbability": 92
+      "date": "2026-06-11",
+      "weatherCode": 2,
+      "description": "局部多云",
+      "max": 31,
+      "min": 15,
+      "precipitationProbability": 0
     },
     "forecast": [
-      {
-        "date": "2026-06-10",
-        "weatherCode": 63,
-        "description": "中雨",
-        "max": 26,
-        "min": 14,
-        "precipitationProbability": 92
-      },
       {
         "date": "2026-06-11",
         "weatherCode": 2,
@@ -55,32 +47,49 @@
         "max": 32,
         "min": 18,
         "precipitationProbability": 20
+      },
+      {
+        "date": "2026-06-15",
+        "weatherCode": 51,
+        "description": "毛毛雨",
+        "max": 30,
+        "min": 21,
+        "precipitationProbability": 37
       }
     ]
   },
   "classicQuote": {
-    "id": "taoteching-self",
-    "text": "知人者智，自知者明；胜人者有力，自胜者强。",
-    "source": "《道德经》",
-    "author": "老子",
-    "note": "比起和别人比较，更重要的是把自己的节奏稳住。"
+    "id": "zhuangzi-time",
+    "text": "人生天地之间，若白驹之过隙，忽然而已。",
+    "source": "《庄子》",
+    "author": "庄周",
+    "note": "事情很多的时候，更值得把注意力放在真正重要的事上。"
   },
   "bookExcerpt": {
-    "id": "norwegian-wood-rain",
-    "text": "雨还在下，细得像雾，落在草地和树叶上，世界像被一种安静的潮气轻轻包住。",
-    "book": "《挪威的森林》",
-    "author": "村上春树"
+    "id": "one-hundred-years-yellow",
+    "text": "许多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会想起父亲带他去见识冰块的那个遥远的下午。",
+    "book": "《百年孤独》",
+    "author": "加西亚·马尔克斯"
   },
   "featuredPlace": {
-    "id": "202606091600",
-    "title": "赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛",
+    "id": "202606101600",
+    "title": "退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙",
     "location": "Bing Daily Image",
     "region": "Daily Scenic",
-    "summary": "一抹蓝色",
-    "image": "https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-    "link": "https://www.bing.com/search?q=%E5%86%B0%E5%B2%9B%E8%B5%AB%E7%91%99%E8%90%A8%E6%B3%A2%E9%B2%81%E5%B0%94&form=hpcapt&mkt=zh-cn"
+    "summary": "沉静的力量",
+    "image": "https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "link": "https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B9%8C%E5%B0%94%E8%90%A8%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn"
   },
   "featuredPlaces": [
+    {
+      "id": "202606101600",
+      "title": "退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙",
+      "location": "Bing Daily Image",
+      "region": "Daily Scenic",
+      "summary": "沉静的力量",
+      "image": "https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+      "link": "https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B9%8C%E5%B0%94%E8%90%A8%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn"
+    },
     {
       "id": "202606091600",
       "title": "赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛",
@@ -143,30 +152,21 @@
       "summary": "优雅羽饰",
       "image": "https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
       "link": "https://www.bing.com/search?q=%E9%9B%AA%E9%B9%AD&form=hpcapt&mkt=zh-cn"
-    },
-    {
-      "id": "202606021600",
-      "title": "骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙",
-      "location": "Bing Daily Image",
-      "region": "Daily Scenic",
-      "summary": "路之所止，行之所启",
-      "image": "https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-      "link": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%97%A5&form=hpcapt&mkt=zh-cn"
     }
   ],
   "todayInHistory": {
-    "dateKey": "2026-06-10",
-    "dateLabel": "6月10日",
+    "dateKey": "2026-06-11",
+    "dateLabel": "6月11日",
     "items": [
       {
-        "year": "2025",
-        "text": "奥地利施蒂里亚州首府格拉茨三卫巷联邦高级中学（德语：）发生校园枪击案，包括枪手在内的10人死亡，另有11人受伤。",
-        "link": "https://zh.wikipedia.org/wiki/2025%E5%B9%B4"
+        "year": "2017",
+        "text": "西班牙選手拉斐尔·纳达尔獲得2017年法國網球公開賽男子单打比赛的冠軍，成為史上第一位能在單一大滿貫拿下十座冠軍的網球選手。",
+        "link": "https://zh.wikipedia.org/wiki/2017%E5%B9%B4"
       },
       {
-        "year": "2022",
-        "text": "中国河北省唐山市一家烧烤店发生打人事件，以男子陈继志为首的9人对店内的4名进行暴力殴打，造成对方受伤。事件牵连出当地大量涉黑案件，同时引发中国互联网的讨论。",
-        "link": "https://zh.wikipedia.org/wiki/2022%E5%B9%B4"
+        "year": "2015",
+        "text": "中共中央政治局常委、中央政法委书记周永康的系列案件由天津市第一中级人民法院宣判，周永康被判处无期徒刑，剥夺政治权利终身，并处没收个人财产，“刑不上常委”的规矩正式被打破。",
+        "link": "https://zh.wikipedia.org/wiki/2015%E5%B9%B4"
       }
     ]
   },
@@ -299,6 +299,22 @@
     ],
     "worldTop": [
       {
+        "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+        "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+        "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c87/live/ab3d00b0-64eb-11f1-a1ac-711fb29896f6.png",
+        "publishedAt": "2026-06-10T17:48:54.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump says US will hit Iran 'hard' again today",
+        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb3/live/8abd1d80-64f9-11f1-96e1-83394d865b23.jpg",
+        "publishedAt": "2026-06-10T17:33:22.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
         "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
         "summary": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
@@ -315,37 +331,21 @@
         "source": "BBC"
       },
       {
-        "title": "Trump and Iran trade new threats after strikes exchanged",
-        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127b/live/d754c2e0-64c4-11f1-8f51-b550443b533b.jpg",
-        "publishedAt": "2026-06-10T14:15:39.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-        "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-        "summary": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/e4085170-64b3-11f1-8e1d-bbbb1017d210.jpg",
-        "publishedAt": "2026-06-10T14:08:28.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Ukraine says missiles hit military plant deep inside Russia",
-        "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc7/live/e5079930-64d8-11f1-b1db-af71d47507d6.jpg",
-        "publishedAt": "2026-06-10T11:43:40.000Z",
+        "title": "Three questions Bill Gates could face as he testifies to Congress on Epstein",
+        "link": "https://www.bbc.com/news/articles/crr892qp255o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Microsoft co-founder has repeatedly denied any wrongdoing or knowledge of his former associate's illegal activity.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d7/live/6aef90a0-64d6-11f1-aa53-952ce05f4e6c.jpg",
+        "publishedAt": "2026-06-10T14:14:16.000Z",
         "source": "BBC"
       }
     ],
     "worldBusiness": [
       {
-        "title": "US inflation surges to three-year high of 4.2%",
+        "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
         "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
         "summary": "Consumers are increasingly feeling the strain of the US Israel war in Iran.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c69/live/f9097760-64c8-11f1-8f51-b550443b533b.jpg",
-        "publishedAt": "2026-06-10T14:08:23.000Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fba/live/32abefd0-64f5-11f1-96e1-83394d865b23.jpg",
+        "publishedAt": "2026-06-10T17:50:06.000Z",
         "source": "BBC"
       },
       {
@@ -467,6 +467,22 @@
     ],
     "international": [
       {
+        "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+        "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+        "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c87/live/ab3d00b0-64eb-11f1-a1ac-711fb29896f6.png",
+        "publishedAt": "2026-06-10T17:48:54.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump says US will hit Iran 'hard' again today",
+        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb3/live/8abd1d80-64f9-11f1-96e1-83394d865b23.jpg",
+        "publishedAt": "2026-06-10T17:33:22.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
         "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
         "summary": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
@@ -483,89 +499,20 @@
         "source": "BBC"
       },
       {
-        "title": "Trump and Iran trade new threats after strikes exchanged",
-        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127b/live/d754c2e0-64c4-11f1-8f51-b550443b533b.jpg",
-        "publishedAt": "2026-06-10T14:15:39.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-        "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-        "summary": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/e4085170-64b3-11f1-8e1d-bbbb1017d210.jpg",
-        "publishedAt": "2026-06-10T14:08:28.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Ukraine says missiles hit military plant deep inside Russia",
-        "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc7/live/e5079930-64d8-11f1-b1db-af71d47507d6.jpg",
-        "publishedAt": "2026-06-10T11:43:40.000Z",
+        "title": "Three questions Bill Gates could face as he testifies to Congress on Epstein",
+        "link": "https://www.bbc.com/news/articles/crr892qp255o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Microsoft co-founder has repeatedly denied any wrongdoing or knowledge of his former associate's illegal activity.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d7/live/6aef90a0-64d6-11f1-aa53-952ce05f4e6c.jpg",
+        "publishedAt": "2026-06-10T14:14:16.000Z",
         "source": "BBC"
       }
     ],
-    "nba": [
-      {
-        "title": "Bare feet, a Hamlet sculpture and quiet fire: How ...",
-        "link": "https://www.espn.com/nba/story/_/id/49012293/how-victor-wembanyama-san-antonio-spurs-fought-madison-square-garden-new-york-knicks-noise-won",
-        "summary": "In the biggest city in the NBA, the league's biggest man found a rare moment of peace -- and used it to drive his team back into an NBA Finals most ex...",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0609%2Fr1670410_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-10T15:50:33.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "LeBron on GOAT debate: Taking nobody over me",
-        "link": "https://www.espn.com/nba/story/_/id/49019758/lebron-james-goat-debate-not-taking-me",
-        "summary": "LeBron James, when asked for his take on the basketball GOAT debate, said: \"I'm not taking nobody over me.\"",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0419%2Fr1646071_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-10T16:38:05.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Wemby avoids flagrant foul for shoving Brunson",
-        "link": "https://www.espn.com/nba/story/_/id/49015213/victor-wembanyama-avoids-flagrant-foul-shoving-brunson",
-        "summary": "Spurs star Victor Wembanyama will not receive a flagrant foul for his shove to the upper body of Knicks guard Jalen Brunson in Game 3.",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0610%2Fr1670599_1024x576_16%2D9.jpg",
-        "publishedAt": "2026-06-10T16:00:19.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Wemby condemns violence against Spurs fans",
-        "link": "https://www.espn.com/nba/story/_/id/49012236/wembanyama-other-players-condemn-violence-spurs-fans",
-        "summary": "Victor Wembanyama was among players on both the Spurs and Knicks to condemn the videos permeating social media of apparent New York fans physically at...",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0609%2Fr1670139_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-10T16:00:19.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Brown: 'Extremely important' to get KAT involved",
-        "link": "https://www.espn.com/nba/story/_/id/49013840/mike-brown-extremely-important-get-towns-more-touches",
-        "summary": "The Knicks called getting Karl-Anthony Towns more involved late in games a priority after their offense stalled in the Game 3 loss to the Spurs.",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0609%2Fr1670509_1023x575_16%2D9.jpg",
-        "publishedAt": "2026-06-10T16:00:19.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Spurs stun Knicks in MSG to revive Finals hopes",
-        "link": "https://www.espn.com/nba/story/_/id/49005881/wembanyama-spurs-stun-knicks-msg-revive-finals-hopes",
-        "summary": "Victor Wembanyama had 32 points, eight rebounds and six assists in his first NBA Finals win Monday night as the Spurs returned to their \"brand of bask...",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0609%2Fr1670106_1024x576_16%2D9.jpg",
-        "publishedAt": "2026-06-10T16:00:19.000Z",
-        "source": "ESPN"
-      }
-    ]
+    "nba": []
   },
   "nbaScoreboard": {
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "currentIndex": 4,
     "days": [
-      {
-        "date": "2026-06-06",
-        "games": []
-      },
       {
         "date": "2026-06-07",
         "games": []
@@ -861,100 +808,16 @@
       {
         "date": "2026-06-14",
         "games": []
+      },
+      {
+        "date": "2026-06-15",
+        "games": []
       }
     ],
-    "games": [
-      {
-        "id": "401859966",
-        "link": "https://www.espn.com/nba/game/_/gameId/401859966/spurs-knicks",
-        "startTime": "2026-06-11T00:30Z",
-        "state": "pre",
-        "statusText": "Scheduled",
-        "detail": "6/10 - 8:30 PM EDT",
-        "note": "NBA Finals - Game 4",
-        "homeTeam": {
-          "abbreviation": "NY",
-          "displayName": "New York Knicks",
-          "score": "0",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "leaderContext": "Season Leaders",
-          "leaders": [
-            {
-              "label": "PPG",
-              "value": "26.0",
-              "player": "Jalen Brunson",
-              "position": "G",
-              "jersey": "11",
-              "summary": "",
-              "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3934672.png",
-              "link": "https://www.espn.com/nba/player/_/id/3934672/jalen-brunson"
-            },
-            {
-              "label": "RPG",
-              "value": "11.9",
-              "player": "Karl-Anthony Towns",
-              "position": "C",
-              "jersey": "32",
-              "summary": "",
-              "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3136195.png",
-              "link": "https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns"
-            },
-            {
-              "label": "APG",
-              "value": "6.8",
-              "player": "Jalen Brunson",
-              "position": "G",
-              "jersey": "11",
-              "summary": "",
-              "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3934672.png",
-              "link": "https://www.espn.com/nba/player/_/id/3934672/jalen-brunson"
-            }
-          ]
-        },
-        "awayTeam": {
-          "abbreviation": "SA",
-          "displayName": "San Antonio Spurs",
-          "score": "0",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "leaderContext": "Season Leaders",
-          "leaders": [
-            {
-              "label": "PPG",
-              "value": "25.0",
-              "player": "Victor Wembanyama",
-              "position": "F",
-              "jersey": "1",
-              "summary": "",
-              "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
-              "link": "https://www.espn.com/nba/player/_/id/5104157/victor-wembanyama"
-            },
-            {
-              "label": "RPG",
-              "value": "11.5",
-              "player": "Victor Wembanyama",
-              "position": "F",
-              "jersey": "1",
-              "summary": "",
-              "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
-              "link": "https://www.espn.com/nba/player/_/id/5104157/victor-wembanyama"
-            },
-            {
-              "label": "APG",
-              "value": "7.4",
-              "player": "Stephon Castle",
-              "position": "G",
-              "jersey": "5",
-              "summary": "",
-              "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4845367.png",
-              "link": "https://www.espn.com/nba/player/_/id/4845367/stephon-castle"
-            }
-          ]
-        }
-      }
-    ]
+    "games": []
   },
   "aiPapers": {
-    "rotationLabel": "Curated Rotation · 2026-06-10",
+    "rotationLabel": "Curated Rotation · 2026-06-11",
     "sections": [
       {
         "id": "data-storage",
@@ -962,27 +825,6 @@
         "description": "数据库、分布式存储、向量检索与数据系统方向的经典与高影响力论文。",
         "rotationHint": "每日轮换 3 篇",
         "items": [
-          {
-            "id": "data-storage-3",
-            "sectionId": "data-storage",
-            "title": "Dynamo: Amazon's Highly Available Key-value Store",
-            "authors": [
-              "Giuseppe DeCandia",
-              "Deniz Hastorun",
-              "Madan Jampani",
-              "Gunavardhan Kakulapati"
-            ],
-            "venue": "SOSP",
-            "year": 2007,
-            "quality": "顶会",
-            "categories": [
-              "key-value",
-              "distributed systems"
-            ],
-            "link": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
-            "summary": "高可用键值存储系统的代表作，对后来的 NoSQL 和云数据库设计影响极大。",
-            "trackLabel": "今日主推"
-          },
           {
             "id": "data-storage-4",
             "sectionId": "data-storage",
@@ -1002,7 +844,7 @@
             ],
             "link": "https://research.google/pubs/pub36632/",
             "summary": "交互式大数据分析系统代表作，也是现代列式分析引擎思路的重要来源。",
-            "trackLabel": "轮换精选"
+            "trackLabel": "今日主推"
           },
           {
             "id": "data-storage-5",
@@ -1023,6 +865,27 @@
             "link": "https://arxiv.org/abs/2401.08281",
             "summary": "向量检索领域最常用的基础库之一，理解它有助于把握向量数据库背后的核心算法。",
             "trackLabel": "轮换精选"
+          },
+          {
+            "id": "data-storage-6",
+            "sectionId": "data-storage",
+            "title": "DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node",
+            "authors": [
+              "Neelesh Gupta",
+              "Leland Willard",
+              "Xiangyao Yu",
+              "Yuri N."
+            ],
+            "venue": "NeurIPS",
+            "year": 2019,
+            "quality": "高影响力",
+            "categories": [
+              "vector search",
+              "ANN"
+            ],
+            "link": "https://papers.nips.cc/paper_files/paper/2019/hash/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Abstract.html",
+            "summary": "大规模向量检索的代表性工作，兼顾磁盘索引、精度和吞吐，工程价值非常高。",
+            "trackLabel": "轮换精选"
           }
         ]
       },
@@ -1032,27 +895,6 @@
         "description": "视觉基础模型、识别、检测、分割和多模态视觉方向的代表论文。",
         "rotationHint": "每日轮换 3 篇",
         "items": [
-          {
-            "id": "computer-vision-4",
-            "sectionId": "computer-vision",
-            "title": "Learning Transferable Visual Models From Natural Language Supervision",
-            "authors": [
-              "Alec Radford",
-              "Jong Wook Kim",
-              "Chris Hallacy",
-              "Aditya Ramesh"
-            ],
-            "venue": "ICML",
-            "year": 2021,
-            "quality": "顶会",
-            "categories": [
-              "vision-language",
-              "foundation model"
-            ],
-            "link": "https://arxiv.org/abs/2103.00020",
-            "summary": "CLIP 是视觉语言预训练的经典代表，也是今天多模态大模型非常重要的前序工作。",
-            "trackLabel": "今日主推"
-          },
           {
             "id": "computer-vision-5",
             "sectionId": "computer-vision",
@@ -1072,7 +914,7 @@
             ],
             "link": "https://arxiv.org/abs/2304.02643",
             "summary": "SAM 把分割推向基础模型化，是近年视觉领域最有代表性的高影响力工作之一。",
-            "trackLabel": "轮换精选"
+            "trackLabel": "今日主推"
           },
           {
             "id": "computer-vision-6",
@@ -1094,6 +936,27 @@
             "link": "https://arxiv.org/abs/2304.07193",
             "summary": "近年非常强的视觉表示学习工作，实际应用和迁移能力都很突出。",
             "trackLabel": "轮换精选"
+          },
+          {
+            "id": "computer-vision-1",
+            "sectionId": "computer-vision",
+            "title": "Deep Residual Learning for Image Recognition",
+            "authors": [
+              "Kaiming He",
+              "Xiangyu Zhang",
+              "Shaoqing Ren",
+              "Jian Sun"
+            ],
+            "venue": "CVPR",
+            "year": 2016,
+            "quality": "顶会",
+            "categories": [
+              "image recognition",
+              "backbone"
+            ],
+            "link": "https://arxiv.org/abs/1512.03385",
+            "summary": "ResNet 是现代视觉 backbone 的里程碑，理解它基本等于理解深层网络训练的拐点。",
+            "trackLabel": "轮换精选"
           }
         ]
       },
@@ -1103,27 +966,6 @@
         "description": "RAG、长期记忆、外部记忆和知识增强方向的高质量论文。",
         "rotationHint": "每日轮换 3 篇",
         "items": [
-          {
-            "id": "llm-memory-5",
-            "sectionId": "llm-memory",
-            "title": "LongMem: Scaling Language Model Context with Memory-Augmented Retrieval",
-            "authors": [
-              "Zeqiu Wu",
-              "Yizhong Wang",
-              "Jiacheng Liu",
-              "Yelong Shen"
-            ],
-            "venue": "ACL Findings",
-            "year": 2024,
-            "quality": "新近代表作",
-            "categories": [
-              "memory",
-              "long context"
-            ],
-            "link": "https://arxiv.org/abs/2306.07174",
-            "summary": "把长期记忆和检索结合起来，比较贴近真正可用的记忆库系统设计。",
-            "trackLabel": "今日主推"
-          },
           {
             "id": "llm-memory-6",
             "sectionId": "llm-memory",
@@ -1143,7 +985,7 @@
             ],
             "link": "https://arxiv.org/abs/2409.05591",
             "summary": "更贴近“记忆库”概念的工作，适合关注长期知识积累与调用策略时轮换展示。",
-            "trackLabel": "轮换精选"
+            "trackLabel": "今日主推"
           },
           {
             "id": "llm-memory-1",
@@ -1165,6 +1007,27 @@
             "link": "https://arxiv.org/abs/2005.11401",
             "summary": "RAG 的奠基论文，今天绝大多数知识增强问答、企业知识库方案都能追溯到这篇。",
             "trackLabel": "轮换精选"
+          },
+          {
+            "id": "llm-memory-2",
+            "sectionId": "llm-memory",
+            "title": "Memorizing Transformers",
+            "authors": [
+              "Yuhuai Wu",
+              "Markus N. Rabe",
+              "DeLesley Hutchins",
+              "Christian Szegedy"
+            ],
+            "venue": "ICLR",
+            "year": 2022,
+            "quality": "顶会",
+            "categories": [
+              "memory",
+              "long context"
+            ],
+            "link": "https://arxiv.org/abs/2203.08913",
+            "summary": "将外部记忆机制引入 Transformer，是长期记忆和可扩展上下文方向的重要代表作。",
+            "trackLabel": "轮换精选"
           }
         ]
       },
@@ -1174,27 +1037,6 @@
         "description": "自主智能体、工具调用、多 Agent 协同与软件 Agent 的代表论文。",
         "rotationHint": "每日轮换 3 篇",
         "items": [
-          {
-            "id": "agents-6",
-            "sectionId": "agents",
-            "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
-            "authors": [
-              "John Yang",
-              "Carlos E. Jimenez",
-              "Alexander Wettig",
-              "Karthik Narasimhan"
-            ],
-            "venue": "ICLR",
-            "year": 2025,
-            "quality": "新近代表作",
-            "categories": [
-              "software agent",
-              "benchmark"
-            ],
-            "link": "https://arxiv.org/abs/2405.15793",
-            "summary": "软件工程 Agent 的代表性论文之一，影响力和可落地性都很强。",
-            "trackLabel": "今日主推"
-          },
           {
             "id": "agents-1",
             "sectionId": "agents",
@@ -1215,7 +1057,7 @@
             ],
             "link": "https://arxiv.org/abs/2210.03629",
             "summary": "Agent 方向的经典必读，把推理链和行动步骤结合起来，影响极大。",
-            "trackLabel": "轮换精选"
+            "trackLabel": "今日主推"
           },
           {
             "id": "agents-2",
@@ -1236,6 +1078,27 @@
             ],
             "link": "https://arxiv.org/abs/2302.04761",
             "summary": "工具调用主线论文之一，今天很多 function calling 和 agent tool use 都能和它对上脉络。",
+            "trackLabel": "轮换精选"
+          },
+          {
+            "id": "agents-3",
+            "sectionId": "agents",
+            "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+            "authors": [
+              "Joon Sung Park",
+              "Joseph O'Brien",
+              "Carrie Cai",
+              "Meredith Ringel Morris"
+            ],
+            "venue": "UIST",
+            "year": 2023,
+            "quality": "顶会",
+            "categories": [
+              "agent society",
+              "memory"
+            ],
+            "link": "https://arxiv.org/abs/2304.03442",
+            "summary": "Agent 社会模拟的代表作，对长期记忆、规划和多主体交互都有直接启发。",
             "trackLabel": "轮换精选"
           }
         ]
