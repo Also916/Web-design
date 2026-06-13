@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-06-13T17:39:42.095Z",
+  "generatedAt": "2026-06-13T21:22:55.802Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 20,
-      "weatherCode": 51,
-      "windSpeed": 4
+      "temperature": 17,
+      "weatherCode": 1,
+      "windSpeed": 3
     },
     "today": {
       "date": "2026-06-14",
       "weatherCode": 51,
       "description": "毛毛雨",
       "max": 28,
-      "min": 19,
+      "min": 17,
       "precipitationProbability": 20
     },
     "forecast": [
@@ -21,14 +21,14 @@
         "weatherCode": 51,
         "description": "毛毛雨",
         "max": 28,
-        "min": 19,
+        "min": 17,
         "precipitationProbability": 20
       },
       {
         "date": "2026-06-15",
-        "weatherCode": 3,
-        "description": "阴天",
-        "max": 31,
+        "weatherCode": 80,
+        "description": "阵雨",
+        "max": 30,
         "min": 20,
         "precipitationProbability": 33
       },
@@ -36,7 +36,7 @@
         "date": "2026-06-16",
         "weatherCode": 53,
         "description": "小雨",
-        "max": 30,
+        "max": 28,
         "min": 21,
         "precipitationProbability": 65
       },
@@ -44,7 +44,7 @@
         "date": "2026-06-17",
         "weatherCode": 51,
         "description": "毛毛雨",
-        "max": 32,
+        "max": 31,
         "min": 21,
         "precipitationProbability": 55
       },
@@ -299,6 +299,14 @@
     ],
     "worldTop": [
       {
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg",
+        "publishedAt": "2026-06-13T18:39:26.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Switzerland to vote on plan to cap population at 10 million",
         "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
         "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
@@ -307,12 +315,12 @@
         "source": "BBC"
       },
       {
-        "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/461c5450-6712-11f1-8546-8f19e4fe30f4.jpg",
-        "publishedAt": "2026-06-13T11:15:18.000Z",
-        "source": "BBC"
+        "title": "‘She’s a gift’: How Epstein exploited his fashion world connections to reach young women",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUdlRHd4STJjcjFvMVhpU3o1RjM1X0QwWjJCMVlod1NSaXRmeHZZOGRBRkJYSDNJVzl6dkdvYlM5YjREMkpvaXVza25wVFVLMFdDYmpTYnExQ1gyd0pid2dYQlBzUG1JQzRRUUl3dUpFd3hnX1ZRM3F6TWdUeWZKMHI1ODBaZw?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-06-13T11:32:38.000Z",
+        "source": "CNN"
       },
       {
         "title": "Brazil hopes to end a 24-year wait for World Cup glory. The pressure has never been greater",
@@ -329,14 +337,6 @@
         "image": "",
         "publishedAt": "2026-06-13T10:00:09.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "‘She’s a gift’: How Epstein exploited his fashion world connections to reach young women",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUdlRHd4STJjcjFvMVhpU3o1RjM1X0QwWjJCMVlod1NSaXRmeHZZOGRBRkJYSDNJVzl6dkdvYlM5YjREMkpvaXVza25wVFVLMFdDYmpTYnExQ1gyd0pid2dYQlBzUG1JQzRRUUl3dUpFd3hnX1ZRM3F6TWdUeWZKMHI1ODBaZw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-06-13T10:00:08.000Z",
-        "source": "CNN"
       }
     ],
     "worldBusiness": [
@@ -346,6 +346,14 @@
         "summary": "",
         "image": "",
         "publishedAt": "2026-06-12T22:11:22.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "By the numbers: Here’s what you might have missed in SpaceX’s record market debut",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mdEZUeXMwSV9GWloyZ2VCMHFCREN1ZFBNRHdUem1mUWpjSlBPeDZELS1EbnBwZTRUYk83ME5zZ2V2WUpwSjVlc3VKeFpLcWZWU2xYdjFWX1lWNHJlbUpKWndlQUduVkZhVkMzZUxoVlpSYV8tQ19uTQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-06-12T22:04:35.000Z",
         "source": "CNN"
       },
       {
@@ -371,14 +379,6 @@
         "image": "",
         "publishedAt": "2026-06-12T14:06:22.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "UK economy contracts as Iran war impact felt",
-        "link": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce7/live/edd669e0-657f-11f1-9f01-693d064aea27.jpg",
-        "publishedAt": "2026-06-12T10:01:11.000Z",
-        "source": "BBC"
       }
     ],
     "worldTech": [
@@ -467,6 +467,14 @@
     ],
     "international": [
       {
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg",
+        "publishedAt": "2026-06-13T18:39:26.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Switzerland to vote on plan to cap population at 10 million",
         "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
         "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
@@ -475,12 +483,12 @@
         "source": "BBC"
       },
       {
-        "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/461c5450-6712-11f1-8546-8f19e4fe30f4.jpg",
-        "publishedAt": "2026-06-13T11:15:18.000Z",
-        "source": "BBC"
+        "title": "‘She’s a gift’: How Epstein exploited his fashion world connections to reach young women",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUdlRHd4STJjcjFvMVhpU3o1RjM1X0QwWjJCMVlod1NSaXRmeHZZOGRBRkJYSDNJVzl6dkdvYlM5YjREMkpvaXVza25wVFVLMFdDYmpTYnExQ1gyd0pid2dYQlBzUG1JQzRRUUl3dUpFd3hnX1ZRM3F6TWdUeWZKMHI1ODBaZw?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-06-13T11:32:38.000Z",
+        "source": "CNN"
       },
       {
         "title": "Brazil hopes to end a 24-year wait for World Cup glory. The pressure has never been greater",
@@ -497,66 +505,9 @@
         "image": "",
         "publishedAt": "2026-06-13T10:00:09.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "‘She’s a gift’: How Epstein exploited his fashion world connections to reach young women",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUdlRHd4STJjcjFvMVhpU3o1RjM1X0QwWjJCMVlod1NSaXRmeHZZOGRBRkJYSDNJVzl6dkdvYlM5YjREMkpvaXVza25wVFVLMFdDYmpTYnExQ1gyd0pid2dYQlBzUG1JQzRRUUl3dUpFd3hnX1ZRM3F6TWdUeWZKMHI1ODBaZw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-06-13T10:00:08.000Z",
-        "source": "CNN"
       }
     ],
-    "nba": [
-      {
-        "title": "Knicks in five or Spurs survive? What you need to ...",
-        "link": "https://www.espn.com/nba/story/_/id/49029549/2026-nba-finals-game-5-preview-predictions-new-york-knicks-san-antonio-spurs-wembanyama-brunson-mvp",
-        "summary": "The Knicks have a chance Saturday to win their first NBA title since 1973. Victor Wembanyama and the Spurs, however, are standing in their way.",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0611%2Fr1671491_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-13T13:09:28.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Why Victor Wembanyama's most dominant skill remain...",
-        "link": "https://www.espn.com/nba/story/_/id/48857143/why-san-antonio-spurs-victor-wembanyama-most-dominant-skill-remains-mystery-western-conference-finals",
-        "summary": "What makes Wemby so dangerous isn't that he blocks shots. He prevents players from shooting in the first place.",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0524%2Fr1662665_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-13T13:09:28.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Harden charged with unlawful carrying of weapon",
-        "link": "https://www.espn.com/nba/story/_/id/49051311/cavaliers-harden-charged-unlawful-carrying-weapon",
-        "summary": "Cavaliers guard James Harden was arrested early Saturday morning in Houston and has been charged with a misdemeanor unlawful carrying of a weapon.",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0509%2Fr1655917_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-13T18:04:03.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Spurs' Johnson believes in Fox ahead of Game 5",
-        "link": "https://www.espn.com/nba/story/_/id/49042941/mitch-johnson-emphasizes-belief-deaaron-fox-ahead-game-5",
-        "summary": "Spurs coach Mitch Johnson emphasized his belief in De'Aaron Fox on the heels of his rough showing in Game 4.",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0612%2Fr1672002_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-13T18:04:03.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Knicks fans target Wemby with egg, jeers at hotel",
-        "link": "https://www.espn.com/nba/story/_/id/49031479/knicks-fans-direct-jeers-flying-egg-spurs-victor-wembanyama",
-        "summary": "A brutal night for the Spurs' Victor Wembanyama continued after he returned to his hotel, as he was pelted with boos from Knicks fans and nearly hit b...",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0611%2Fr1671385_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-13T18:04:03.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Shoot your shot: Big3 to sell stock later this yea...",
-        "link": "https://www.espn.com/nba/story/_/id/49040407/big3-league-go-public-290-million-valuation",
-        "summary": "The Big3 basketball league, co-founded by rapper Ice Cube, is eyeing a $290 million valuation as it plans to go public later this year.",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0518%2Fr700014_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-06-13T18:04:03.000Z",
-        "source": "ESPN"
-      }
-    ]
+    "nba": []
   },
   "nbaScoreboard": {
     "date": "2026-06-14",
