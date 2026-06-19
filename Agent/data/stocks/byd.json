@@ -7,7 +7,7 @@
     "currency": "CNY"
   },
   "source": "AKShare: Eastmoney primary, Sina fallback",
-  "generatedAt": "2026-06-18T18:20:46+08:00",
+  "generatedAt": "2026-06-19T14:18:48+08:00",
   "quote": {
     "price": 88.13,
     "change": 0.66,
@@ -15195,12 +15195,12 @@
     "1mo": [
       {
         "time": "2015-07-31T15:00:00+08:00",
-        "open": 17.22,
+        "open": 15.54,
         "high": 19.39,
         "low": 13.44,
         "close": 17.66,
-        "volume": 479677057.0,
-        "amount": 24962646720.0
+        "volume": 449749617.0,
+        "amount": 23445470016.0
       },
       {
         "time": "2015-08-31T15:00:00+08:00",
