@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-27T17:19:08.453Z",
+  "generatedAt": "2026-06-27T21:13:40.786Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 26,
+      "temperature": 23,
       "weatherCode": 3,
-      "windSpeed": 2
+      "windSpeed": 7
     },
     "today": {
       "date": "2026-06-28",
@@ -299,19 +299,27 @@
     ],
     "worldTop": [
       {
-        "title": "Europe's deadly heatwave breaks German record and halts public events",
-        "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ef7/live/9635ade0-7187-11f1-bcec-7f8ed2660388.jpg",
-        "publishedAt": "2026-06-27T16:51:17.000Z",
+        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+        "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg",
+        "publishedAt": "2026-06-27T21:12:51.000Z",
         "source": "BBC"
       },
       {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg",
-        "publishedAt": "2026-06-27T14:22:37.000Z",
+        "title": "Heatwave breaks more records in northern and central Europe",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+        "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg",
+        "publishedAt": "2026-06-27T20:48:16.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump's face is added to select US passports for America's 250th birthday",
+        "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a0/live/b6678a80-725d-11f1-b4a5-2d0098f6c080.jpg",
+        "publishedAt": "2026-06-27T20:03:26.000Z",
         "source": "BBC"
       },
       {
@@ -321,14 +329,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg",
         "publishedAt": "2026-06-27T10:40:38.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "A small plane slammed into the tallest skyscraper in China’s capital. Hours later, it was like nothing had happened.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXlJQzVOUjFXVldOUVk0cFBjN3ZCc0cwc1o1NDJLakt3MWZ5dkFBZHRGYkZuaHI3MXpiazNwaGFoOXcyY0Q0WjRTOTF1a29STXlTczAyTGVGWFpkNmVfY1lqdGdsbmRwaDdHRmZPckZoaG05Rm5mSjFLcFJwUnhIMlBUWmdNOW1fUk9CaHVuYzVGaHB0TmpyLWJn?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-06-27T09:56:13.000Z",
-        "source": "CNN"
       },
       {
         "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
@@ -373,11 +373,11 @@
         "source": "CNN"
       },
       {
-        "title": "AI stocks melt down again. What’s going on?",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SR1FsMWdNSnB1eGo2bDFBMUlIS2ZGTmVvNXZNVWNjMEFmdjd1REJDMGxZWjJBdl9wODhHVzlUNkU0UWprd2hqRUZvYloxYVI0ZURubTlnTW16emMxbFVUakRfcXBiaHdvV3FfWnd6NldWZ0U?oc=5",
+        "title": "Volkswagen reportedly planning to axe 100,000 jobs",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zRGgtdWFud19MMmpmMDJKbEluU2pkX011SDJTdk9rX0tUSlFMSnZqSEZtVDd5NkxzNUtGa3lDMTJKY2pTYTZ6MDFVenhaS3FENmVrRVdRNU4zRnhTS0dCcVpRNFJ0T1pLSUE?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-06-26T12:15:15.000Z",
+        "publishedAt": "2026-06-26T12:23:58.000Z",
         "source": "CNN"
       }
     ],
@@ -467,19 +467,27 @@
     ],
     "international": [
       {
-        "title": "Europe's deadly heatwave breaks German record and halts public events",
-        "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ef7/live/9635ade0-7187-11f1-bcec-7f8ed2660388.jpg",
-        "publishedAt": "2026-06-27T16:51:17.000Z",
+        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+        "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg",
+        "publishedAt": "2026-06-27T21:12:51.000Z",
         "source": "BBC"
       },
       {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg",
-        "publishedAt": "2026-06-27T14:22:37.000Z",
+        "title": "Heatwave breaks more records in northern and central Europe",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+        "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg",
+        "publishedAt": "2026-06-27T20:48:16.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump's face is added to select US passports for America's 250th birthday",
+        "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a0/live/b6678a80-725d-11f1-b4a5-2d0098f6c080.jpg",
+        "publishedAt": "2026-06-27T20:03:26.000Z",
         "source": "BBC"
       },
       {
@@ -489,14 +497,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg",
         "publishedAt": "2026-06-27T10:40:38.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "A small plane slammed into the tallest skyscraper in China’s capital. Hours later, it was like nothing had happened.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXlJQzVOUjFXVldOUVk0cFBjN3ZCc0cwc1o1NDJLakt3MWZ5dkFBZHRGYkZuaHI3MXpiazNwaGFoOXcyY0Q0WjRTOTF1a29STXlTczAyTGVGWFpkNmVfY1lqdGdsbmRwaDdHRmZPckZoaG05Rm5mSjFLcFJwUnhIMlBUWmdNOW1fUk9CaHVuYzVGaHB0TmpyLWJn?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-06-27T09:56:13.000Z",
-        "source": "CNN"
       },
       {
         "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
