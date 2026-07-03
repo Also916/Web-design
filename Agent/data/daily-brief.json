@@ -1,62 +1,18 @@
 {
-  "generatedAt": "2026-07-03T17:41:13.188Z",
+  "generatedAt": "2026-07-03T21:16:24.764Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 25,
-      "weatherCode": 3,
-      "windSpeed": 4
+      "temperature": "--",
+      "weatherCode": 0,
+      "windSpeed": "--"
     },
     "today": {
-      "date": "2026-07-04",
-      "weatherCode": 51,
-      "description": "毛毛雨",
-      "max": 35,
-      "min": 24,
-      "precipitationProbability": 35
+      "max": "--",
+      "min": "--",
+      "precipitationProbability": "--"
     },
-    "forecast": [
-      {
-        "date": "2026-07-04",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 35,
-        "min": 24,
-        "precipitationProbability": 35
-      },
-      {
-        "date": "2026-07-05",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 33,
-        "min": 25,
-        "precipitationProbability": 71
-      },
-      {
-        "date": "2026-07-06",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 35,
-        "min": 22,
-        "precipitationProbability": 51
-      },
-      {
-        "date": "2026-07-07",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 33,
-        "min": 24,
-        "precipitationProbability": 70
-      },
-      {
-        "date": "2026-07-08",
-        "weatherCode": 95,
-        "description": "雷暴",
-        "max": 34,
-        "min": 22,
-        "precipitationProbability": 49
-      }
-    ]
+    "forecast": []
   },
   "classicQuote": {
     "id": "analects-learning",
@@ -299,6 +255,14 @@
     ],
     "worldTop": [
       {
+        "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+        "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+        "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d94/live/7466db40-7721-11f1-aedc-e7917f776e03.jpg",
+        "publishedAt": "2026-07-03T21:00:53.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Polish PM warns critical months ahead in face of Russian threat",
         "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
         "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
@@ -321,14 +285,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/803c/live/25f634f0-76fa-11f1-b976-0b9c15b0ccfc.jpg",
         "publishedAt": "2026-07-03T14:56:30.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "Russia’s latest attack on Kyiv was exceptionally deadly – here is why",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGxjV1VuQlRsV2t4ZC1fTUFVMnUzZGRpYjhFYXpRVGpNMEx5LXc3UlZCYXVwNUF2LUotZXJfT2dDQURySHNNZ3VZRmF1bXY0NnJfeWViWE9peDRtMTZLbEpsNXo1WWlWWHYwMUc5Wkg0TUZNbTJTaUd5ZFRDYmpRemp6TQ?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-03T12:33:25.000Z",
-        "source": "CNN"
       },
       {
         "title": "How the new World Cup ball helped knock Croatia out with use of technology",
@@ -357,14 +313,6 @@
         "source": "BBC"
       },
       {
-        "title": "Why America is obsessed with a grandpa in high-waisted pants who is building sidewalks",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVWVPVjZSQlpyMDBISk1yaGI4SjZCVW5KODVjelNzQWo0VkY2d0wxZ2VTWnFOZS1wZnFRM3BDMkFPa1gxQzdLMWNrU2xiOWJ4N0pySHdMaTVxa0NhTUVNRlRvdXByeGQ4Qk0xVWFaYXRwektMZ2wyeU9iNEdmanpCUUxIcw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-03T11:00:26.000Z",
-        "source": "CNN"
-      },
-      {
         "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
         "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
         "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
@@ -379,6 +327,14 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/420a/live/847a2120-76c4-11f1-bd3f-0f791277aaa0.jpg",
         "publishedAt": "2026-07-03T09:50:56.000Z",
         "source": "BBC"
+      },
+      {
+        "title": "Trump gave crypto the red-carpet treatment. It’s crashing anyway",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SRndYenBEVEtYd1BoS183bGNoZ0dxdkl5VG1ZS2NqSUMtWXk2Y2ZtS202VUtiNlVnd2RPMUlSdlkxdTE2bG96ZjliWHFSODMxS3k0SXl6N0xRMDF0eGZ6Z0NrLVJTZ3RWU29F?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-03T09:00:26.000Z",
+        "source": "CNN"
       }
     ],
     "worldTech": [
@@ -467,6 +423,14 @@
     ],
     "international": [
       {
+        "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+        "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+        "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d94/live/7466db40-7721-11f1-aedc-e7917f776e03.jpg",
+        "publishedAt": "2026-07-03T21:00:53.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Polish PM warns critical months ahead in face of Russian threat",
         "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
         "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
@@ -491,14 +455,6 @@
         "source": "BBC"
       },
       {
-        "title": "Russia’s latest attack on Kyiv was exceptionally deadly – here is why",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGxjV1VuQlRsV2t4ZC1fTUFVMnUzZGRpYjhFYXpRVGpNMEx5LXc3UlZCYXVwNUF2LUotZXJfT2dDQURySHNNZ3VZRmF1bXY0NnJfeWViWE9peDRtMTZLbEpsNXo1WWlWWHYwMUc5Wkg0TUZNbTJTaUd5ZFRDYmpRemp6TQ?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-03T12:33:25.000Z",
-        "source": "CNN"
-      },
-      {
         "title": "How the new World Cup ball helped knock Croatia out with use of technology",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWk5Szh6TEJ1TDYtUnAyMTdZMVdoYkVlR0ZpN2ZlemZaWEpfS0l2blcwbEdvVk0zOEVMX2lGRnNSTW5GSVd1Z1ZJRjlqQk9UVzhOSEhqdTJPV1IwdVZRQjBocEVIekYwc1k3NVh1ZGZPdHVmdmM2SXZJSzEwNS1OYTY5dXk0cTlWNUZmQ2tR?oc=5",
         "summary": "",
@@ -507,56 +463,7 @@
         "source": "CNN"
       }
     ],
-    "nba": [
-      {
-        "title": "Windhorst: NBA execs on the Brown trade, big-money...",
-        "link": "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
-        "summary": "After the Jaylen Brown trade, hundreds of millions spent on centers and a shocking cap development, here's the latest NBA buzz as we enter Week 2 of f...",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0703%2Fr1683696_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-07-03T15:47:43.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Sources: 76ers, with Brown on board, eye LeBron",
-        "link": "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add",
-        "summary": "One day after trading for Jaylen Brown, the 76ers have entered the mix for LeBron James and are attempting to pitch him, sources said.",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0129%2Fr1123835_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-07-03T14:56:33.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "C's pick up Queta's option, add $56M extension",
-        "link": "https://www.espn.com/nba/story/_/id/49258502/celtics-picking-queta-option-adding-4-year-56m-extension",
-        "summary": "The Celtics have picked up their option on center Neemias Queta for next season and are adding a four-year, $56 million extension, his agent, Bill Duf...",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0222%2Fr1618801_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-07-03T14:56:33.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Brown 'excited and disappointed' for 76ers trade",
-        "link": "https://www.espn.com/nba/story/_/id/49250597/jaylen-brown-excited-disappointed-trade-76ers",
-        "summary": "Former Celtics star Jaylen Brown says he is \"excited and disappointed\" over his trade to the 76ers.",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0412%2Fr1477606_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-07-03T14:56:33.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Sources: Eason, Rockets agree to 5-years, $81.5M",
-        "link": "https://www.espn.com/nba/story/_/id/49253596/sources-eason-return-rockets-5-year-815m-deal",
-        "summary": "Restricted free agent Tari Eason has agreed to a five-year, $81.5 million deal to return to the Houston Rockets, sources told ESPN's Shams Charania on...",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1115%2Fr1575934_1023x575_16%2D9.jpg",
-        "publishedAt": "2026-07-03T14:56:33.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Sources: Donovan to be lead assistant for Spurs",
-        "link": "https://www.espn.com/nba/story/_/id/49253152/sources-billy-donovan-become-lead-assistant-spurs",
-        "summary": "Billy Donovan agreed to become the lead assistant coach for San Antonio and head coach Mitch Johnson, sources said.",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1129%2Fr1099165_1023x575_16%2D9.jpg",
-        "publishedAt": "2026-07-03T14:56:33.000Z",
-        "source": "ESPN"
-      }
-    ]
+    "nba": []
   },
   "nbaScoreboard": {
     "date": "2026-07-04",
