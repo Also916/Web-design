@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-04T17:15:24.295Z",
+  "generatedAt": "2026-07-04T21:07:47.859Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 26,
+      "temperature": 23,
       "weatherCode": 3,
-      "windSpeed": 5
+      "windSpeed": 6
     },
     "today": {
       "date": "2026-07-05",
-      "weatherCode": 95,
-      "description": "雷暴",
-      "max": 32,
-      "min": 24,
+      "weatherCode": 80,
+      "description": "阵雨",
+      "max": 33,
+      "min": 23,
       "precipitationProbability": 48
     },
     "forecast": [
       {
         "date": "2026-07-05",
-        "weatherCode": 95,
-        "description": "雷暴",
-        "max": 32,
-        "min": 24,
+        "weatherCode": 80,
+        "description": "阵雨",
+        "max": 33,
+        "min": 23,
         "precipitationProbability": 48
       },
       {
         "date": "2026-07-06",
-        "weatherCode": 51,
-        "description": "毛毛雨",
+        "weatherCode": 95,
+        "description": "雷暴",
         "max": 33,
-        "min": 21,
+        "min": 23,
         "precipitationProbability": 37
       },
       {
         "date": "2026-07-07",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 33,
+        "max": 32,
         "min": 23,
         "precipitationProbability": 90
       },
       {
         "date": "2026-07-08",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 33,
-        "min": 22,
+        "weatherCode": 96,
+        "description": "天气更新中",
+        "max": 31,
+        "min": 21,
         "precipitationProbability": 45
       },
       {
         "date": "2026-07-09",
-        "weatherCode": 55,
-        "description": "中雨",
-        "max": 34,
-        "min": 22,
+        "weatherCode": 51,
+        "description": "毛毛雨",
+        "max": 33,
+        "min": 24,
         "precipitationProbability": 35
       }
     ]
@@ -299,6 +299,30 @@
     ],
     "worldTop": [
       {
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+        "publishedAt": "2026-07-04T18:41:25.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Injury ends Williams' Wimbledon comeback",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
+        "publishedAt": "2026-07-04T17:22:46.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Egypt uncovers lost Byzantine-era city in the western desert",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2RTM0JZOHVJallIUV9KeENSWk1mSktKeVhnaGhzMXZSV0pUamRZN3cwN25JWW5RVnJXWWNyZEE0a0l3ZDhEXzVwbnB4X1JHVWtvekxKUzZzSm01cWZtY0RlU0FkN2hISVVyb09NUk1lMmVadThoZC1ybmQwOUZIYlNwcTRHRnlEeVBV?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-04T15:58:46.000Z",
+        "source": "CNN"
+      },
+      {
         "title": "Former chess champion Kramnik banned over cheating remarks",
         "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
         "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
@@ -307,36 +331,12 @@
         "source": "BBC"
       },
       {
-        "title": "Injury ends Williams' Wimbledon comeback",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
-        "publishedAt": "2026-07-04T15:06:26.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
-        "publishedAt": "2026-07-04T14:07:31.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Far-right Alternative for Germany party reelects leaders as protesters and police clash",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yRVpkSVFIT0djMWZlWTZPdk5tcFdTRWluN0hTSHNQVmtKNkhlQ3lsWmpPS0w3WkZaOFZBRmxTbWJaMTlmRFNMNURaSjc2RUxJMXN2UF9hd1pGSmJzdl9XdlZrVndTSVRZalh1d192SG5CU2hlMGFCZ0VjSUJ4UQ?oc=5",
+        "title": "After a magical day of World Cup action, the Round of 16 kicks off",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fUzhYamltYnhpeHRpMGxBOHRmOXBhbmpEeHVWMWxzaElCelh4Z01vSUdGT0RzMDdseEVYbEQ2Zkkyd0JfenBtR0dXcmo1bzhVRXFDeE5SVXQ1cXVMZjhnaUs1b2xUaWNiMWwzN0c0Yw?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-07-04T09:47:54.000Z",
+        "publishedAt": "2026-07-04T15:16:58.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-        "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c6f/live/071927b0-7789-11f1-a146-99f41269c606.jpg",
-        "publishedAt": "2026-07-04T09:45:55.000Z",
-        "source": "BBC"
       }
     ],
     "worldBusiness": [
@@ -467,6 +467,30 @@
     ],
     "international": [
       {
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+        "publishedAt": "2026-07-04T18:41:25.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Injury ends Williams' Wimbledon comeback",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
+        "publishedAt": "2026-07-04T17:22:46.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Egypt uncovers lost Byzantine-era city in the western desert",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2RTM0JZOHVJallIUV9KeENSWk1mSktKeVhnaGhzMXZSV0pUamRZN3cwN25JWW5RVnJXWWNyZEE0a0l3ZDhEXzVwbnB4X1JHVWtvekxKUzZzSm01cWZtY0RlU0FkN2hISVVyb09NUk1lMmVadThoZC1ybmQwOUZIYlNwcTRHRnlEeVBV?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-04T15:58:46.000Z",
+        "source": "CNN"
+      },
+      {
         "title": "Former chess champion Kramnik banned over cheating remarks",
         "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
         "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
@@ -475,36 +499,12 @@
         "source": "BBC"
       },
       {
-        "title": "Injury ends Williams' Wimbledon comeback",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
-        "publishedAt": "2026-07-04T15:06:26.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
-        "publishedAt": "2026-07-04T14:07:31.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Far-right Alternative for Germany party reelects leaders as protesters and police clash",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yRVpkSVFIT0djMWZlWTZPdk5tcFdTRWluN0hTSHNQVmtKNkhlQ3lsWmpPS0w3WkZaOFZBRmxTbWJaMTlmRFNMNURaSjc2RUxJMXN2UF9hd1pGSmJzdl9XdlZrVndTSVRZalh1d192SG5CU2hlMGFCZ0VjSUJ4UQ?oc=5",
+        "title": "After a magical day of World Cup action, the Round of 16 kicks off",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fUzhYamltYnhpeHRpMGxBOHRmOXBhbmpEeHVWMWxzaElCelh4Z01vSUdGT0RzMDdseEVYbEQ2Zkkyd0JfenBtR0dXcmo1bzhVRXFDeE5SVXQ1cXVMZjhnaUs1b2xUaWNiMWwzN0c0Yw?oc=5",
         "summary": "",
         "image": "",
-        "publishedAt": "2026-07-04T09:47:54.000Z",
+        "publishedAt": "2026-07-04T15:16:58.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-        "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c6f/live/071927b0-7789-11f1-a146-99f41269c606.jpg",
-        "publishedAt": "2026-07-04T09:45:55.000Z",
-        "source": "BBC"
       }
     ],
     "nba": []
