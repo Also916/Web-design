@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-07-08T17:46:54.248Z",
+  "generatedAt": "2026-07-08T21:17:44.161Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 25,
-      "weatherCode": 0,
-      "windSpeed": 3
+      "temperature": 24,
+      "weatherCode": 1,
+      "windSpeed": 4
     },
     "today": {
       "date": "2026-07-09",
-      "weatherCode": 95,
-      "description": "雷暴",
-      "max": 35,
+      "weatherCode": 96,
+      "description": "天气更新中",
+      "max": 36,
       "min": 24,
       "precipitationProbability": 56
     },
     "forecast": [
       {
         "date": "2026-07-09",
-        "weatherCode": 95,
-        "description": "雷暴",
-        "max": 35,
+        "weatherCode": 96,
+        "description": "天气更新中",
+        "max": 36,
         "min": 24,
         "precipitationProbability": 56
       },
@@ -28,15 +28,15 @@
         "date": "2026-07-10",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 30,
-        "min": 25,
+        "max": 31,
+        "min": 24,
         "precipitationProbability": 97
       },
       {
         "date": "2026-07-11",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 31,
+        "max": 32,
         "min": 24,
         "precipitationProbability": 94
       },
@@ -44,15 +44,15 @@
         "date": "2026-07-12",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 30,
+        "max": 31,
         "min": 25,
         "precipitationProbability": 98
       },
       {
         "date": "2026-07-13",
-        "weatherCode": 95,
-        "description": "雷暴",
-        "max": 30,
+        "weatherCode": 96,
+        "description": "天气更新中",
+        "max": 28,
         "min": 24,
         "precipitationProbability": 54
       }
@@ -299,6 +299,14 @@
     ],
     "worldTop": [
       {
+        "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
+        "publishedAt": "2026-07-08T21:08:26.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
         "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
         "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
@@ -307,12 +315,12 @@
         "source": "BBC"
       },
       {
-        "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-        "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-        "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/574a8a30-7ab8-11f1-b976-0b9c15b0ccfc.jpg",
-        "publishedAt": "2026-07-08T17:01:49.000Z",
-        "source": "BBC"
+        "title": "Flight school pilot jumps to his death midair, leaving student to land plane",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UdXNCUVk5c2xWR1RtYUt6OTNTeGNrSV9MUDN6b1ozejZfa3VpdU4wMmZoTVJqTmRpR3dsODhTRHlWUDIxMV9DeWQxVHZCYUgwVW9OeDdVemtSOFlXWmF3OXNuc1NpMmFIU2dydUdlUmFxTEw0UW9wZEVVNA?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-08T15:29:30.000Z",
+        "source": "CNN"
       },
       {
         "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
@@ -323,20 +331,12 @@
         "source": "BBC"
       },
       {
-        "title": "German doctor jailed for murder of 15 patients and suspected of more",
-        "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf0/live/9a971ed0-1aa0-11f0-b1b3-7358f8d35a35.jpg",
-        "publishedAt": "2026-07-08T14:25:25.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "US strikes target Iranian military boats",
-        "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a58/live/59564310-7a94-11f1-932b-1f29e7985956.jpg",
-        "publishedAt": "2026-07-08T05:42:37.000Z",
-        "source": "BBC"
+        "title": "Explained: Egypt’s fiery accusations after controversial World Cup defeat",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lS3ZpaF9ONXdRWHRSdV9fLTFNNUYwX2hQUkJHd1dmNEVZdC1hYXNRcndrZmxtV28wM2hMZ1hJbHU3UkRHM2ZTLVpNN01Dc3N2b2lteHNzZFFCYXVxcmhaZ1JkLU1CMEJvSmtrLTBrNA?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-08T15:00:25.000Z",
+        "source": "CNN"
       }
     ],
     "worldBusiness": [
@@ -345,8 +345,16 @@
         "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
         "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fecf/live/40016180-7ace-11f1-a130-2b898c796aa9.jpg",
-        "publishedAt": "2026-07-08T16:27:42.000Z",
+        "publishedAt": "2026-07-08T19:23:33.000Z",
         "source": "BBC"
+      },
+      {
+        "title": "Trump is playing with economic fire by calling the peace deal with Iran ‘over’",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5Tk9GdGtTbEt3RWRLUUNXbUdKRXQ4a2xYcWpwUEpnT3M2Q3JxZ2UzRzc2RGRRNldVVnBLbGxfT3diVEtqX0ZPZjNVVTgySi1HbVhSQ3BEMVR6aW5iV2lxU0NvNHlGdjhlbkpjY1NkcTRSdkdVajd2R2tuUQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-08T14:14:25.000Z",
+        "source": "CNN"
       },
       {
         "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
@@ -370,14 +378,6 @@
         "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6272/live/5288e910-7a2c-11f1-9510-1546718f668b.png",
         "publishedAt": "2026-07-08T09:31:56.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-        "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-        "summary": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b4e/live/7543c880-7a68-11f1-b3a0-9d60633dee75.jpg",
-        "publishedAt": "2026-07-08T01:04:44.000Z",
         "source": "BBC"
       }
     ],
@@ -407,19 +407,19 @@
         "source": "BBC"
       },
       {
+        "title": "'NATO is not well-adapted yet to the air and missile defense challenge' posed by Russia, says analyst",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDNZakVPTDk2X0RjZERuNUx6NU40YkVncjdlMVFVZTFhUENwdUpfRGRFVm5LVUNOZ1BHeWQwdldRYU9Rd0lSMERrb2NjYnRTeTBlVUZaRDBqbGhDQXBkUm9CRGZMd25fekFMNjRxNzRoRGF2YllJd1NvZ2ZueU4wdUpVWFZvWjEtRi1qdkZjYm5wd1NXbWtIMEEyQkFqeEFBcGZ2LTVfc2xhdk5RLTF4Vnl6TQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-06T17:53:31.000Z",
+        "source": "CNN"
+      },
+      {
         "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
         "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
         "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc35/live/26aac8a0-794f-11f1-bfee-d367081f1131.jpg",
         "publishedAt": "2026-07-06T15:18:53.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-        "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef8/live/2a1f8cf0-76f2-11f1-b9cc-bd5880081b3f.jpg",
-        "publishedAt": "2026-07-03T15:57:42.000Z",
         "source": "BBC"
       }
     ],
@@ -467,6 +467,14 @@
     ],
     "international": [
       {
+        "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
+        "publishedAt": "2026-07-08T21:08:26.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
         "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
         "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
@@ -475,12 +483,12 @@
         "source": "BBC"
       },
       {
-        "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-        "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-        "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/574a8a30-7ab8-11f1-b976-0b9c15b0ccfc.jpg",
-        "publishedAt": "2026-07-08T17:01:49.000Z",
-        "source": "BBC"
+        "title": "Flight school pilot jumps to his death midair, leaving student to land plane",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UdXNCUVk5c2xWR1RtYUt6OTNTeGNrSV9MUDN6b1ozejZfa3VpdU4wMmZoTVJqTmRpR3dsODhTRHlWUDIxMV9DeWQxVHZCYUgwVW9OeDdVemtSOFlXWmF3OXNuc1NpMmFIU2dydUdlUmFxTEw0UW9wZEVVNA?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-08T15:29:30.000Z",
+        "source": "CNN"
       },
       {
         "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
@@ -491,20 +499,12 @@
         "source": "BBC"
       },
       {
-        "title": "German doctor jailed for murder of 15 patients and suspected of more",
-        "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf0/live/9a971ed0-1aa0-11f0-b1b3-7358f8d35a35.jpg",
-        "publishedAt": "2026-07-08T14:25:25.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "US strikes target Iranian military boats",
-        "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a58/live/59564310-7a94-11f1-932b-1f29e7985956.jpg",
-        "publishedAt": "2026-07-08T05:42:37.000Z",
-        "source": "BBC"
+        "title": "Explained: Egypt’s fiery accusations after controversial World Cup defeat",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lS3ZpaF9ONXdRWHRSdV9fLTFNNUYwX2hQUkJHd1dmNEVZdC1hYXNRcndrZmxtV28wM2hMZ1hJbHU3UkRHM2ZTLVpNN01Dc3N2b2lteHNzZFFCYXVxcmhaZ1JkLU1CMEJvSmtrLTBrNA?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-08T15:00:25.000Z",
+        "source": "CNN"
       }
     ],
     "nba": []
