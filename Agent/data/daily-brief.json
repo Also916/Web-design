@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-09T04:04:57.344Z",
+  "generatedAt": "2026-07-09T07:54:38.541Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 33,
+      "temperature": 35,
       "weatherCode": 3,
-      "windSpeed": 8
+      "windSpeed": 9
     },
     "today": {
       "date": "2026-07-09",
@@ -28,7 +28,7 @@
         "date": "2026-07-10",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 32,
+        "max": 31,
         "min": 25,
         "precipitationProbability": 96
       },
@@ -36,14 +36,14 @@
         "date": "2026-07-11",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 32,
+        "max": 31,
         "min": 25,
         "precipitationProbability": 98
       },
       {
         "date": "2026-07-12",
-        "weatherCode": 95,
-        "description": "雷暴",
+        "weatherCode": 96,
+        "description": "天气更新中",
         "max": 32,
         "min": 25,
         "precipitationProbability": 98
@@ -52,8 +52,8 @@
         "date": "2026-07-13",
         "weatherCode": 95,
         "description": "雷暴",
-        "max": 27,
-        "min": 25,
+        "max": 29,
+        "min": 24,
         "precipitationProbability": 67
       }
     ]
@@ -173,173 +173,189 @@
   "news": {
     "chinaTop": [
       {
-        "title": "开局“十五五” 奋楫新征程丨农业产业 集群成势",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655745.shtml",
-        "summary": "天山网-新疆日报记者 刘毅",
+        "title": "中国将在上海举办2026世界人工智能大会暨人工智能全球治理高级别会议",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655992.shtml",
+        "summary": "中新网北京7月9日电 (记者 谢雁冰)中国外交部发言人毛宁7月9日主持例行记者会。有记者就中国与全球南方国家在人工智能领域合作提问。",
         "image": "",
-        "publishedAt": "2026-07-09T03:19:38.000Z",
+        "publishedAt": "2026-07-09T07:54:29.000Z",
         "source": "中新网"
       },
       {
-        "title": "两院院士热议“科技三会”：为中国建设世界科技强国指明方向",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655758.shtml",
-        "summary": "中新网北京7月9日电 (记者 孙自法)“这些重要论述为新时代中国科技创新发展和建设世界科技强国指明了方向”“做研究既要‘顶天’又要‘立地’”“科技创新是建设科技强国最重要的支撑”“科技创新进入AI引领的模式变革新时代”……",
+        "title": "中方：西藏事务纯属中国内政，任何外国无权干涉",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655987.shtml",
+        "summary": "中新网北京7月9日电 (记者 谢雁冰)中国外交部发言人毛宁7月9日主持例行记者会。",
         "image": "",
-        "publishedAt": "2026-07-09T03:11:50.000Z",
+        "publishedAt": "2026-07-09T07:49:57.000Z",
         "source": "中新网"
       },
       {
-        "title": "国家防总组织多部门联合会商 研究部署超强台风“巴威”防御工作",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655760.shtml",
-        "summary": "中新网7月9日电 据应急管理部网站消息，7月8日，国家防总在中央气象台组织应急管理部、中国气象局、自然资源部、住房城乡建设部、交通运输部、水利部、农业农村部等部门和上海、浙江、福建等重点省份进行联合会商，研判超强台风“巴威”发展趋势及影响，研究部署防汛防台风工作。",
+        "title": "中方：美方应认真倾听国际社会正义呼声，立即停止对古巴封锁制裁",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655986.shtml",
+        "summary": "中新网北京7月9日电 (记者 谢雁冰 李京泽)中国外交部发言人毛宁7月9日主持例行记者会。",
         "image": "",
-        "publishedAt": "2026-07-09T03:07:55.000Z",
+        "publishedAt": "2026-07-09T07:49:53.000Z",
         "source": "中新网"
       },
       {
-        "title": "贵州磷化(集团)有限责任公司原党委书记何光亮接受审查调查",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655709.shtml",
-        "summary": "中新网7月9日电 据贵州省纪委监委消息：贵州磷化(集团)有限责任公司原党委书记、董事长何光亮涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
+        "title": "中共中央办公厅、国务院办公厅印发《关于全力做好防汛抗旱工作的通知》",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655988.shtml",
+        "summary": "新华社北京7月9日电#8195;近日，中共中央办公厅、国务院办公厅印发《关于全力做好防汛抗旱工作的通知》(以下简称《通知》)，对全力做好防汛抗旱、抢险救灾各项工作作出部署。",
         "image": "",
-        "publishedAt": "2026-07-09T02:44:42.000Z",
+        "publishedAt": "2026-07-09T07:49:49.000Z",
         "source": "中新网"
       },
       {
-        "title": "人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655734.shtml",
-        "summary": "中新网7月9日电 据“人力资源和社会保障部”微信公众号消息，近日，人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》(以下简称《规划》)。《规划》深入贯彻党的二十届四中全会精神，细化落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》中关于人社领域的战略任务，是“十五五”时期...",
-        "image": "",
-        "publishedAt": "2026-07-09T02:44:22.000Z",
+        "title": "江西严查“两客一危”企业动态监控 整治各类违法违规问题",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655937.shtml",
+        "summary": "中新网南昌7月9日电 (朱熹 刘建珍)江西省交通运输执法局9日消息，该局已在江西全省范围内组织开展“两客一危”企业动态监控专项执法行动，系统整治动态监控方面各类违法违规问题。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/7ffef2f9-b2fa-405c-aa31-afb073a74696_zsite.jpg",
+        "publishedAt": "2026-07-09T07:46:21.000Z",
         "source": "中新网"
       }
     ],
     "chinaSociety": [
       {
-        "title": "广东省“文脉薪传·馆校共育”项目在广州国家版本馆启动",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655797.shtml",
-        "summary": "中新网广州7月9日电 (记者 程景伟)广东省“文脉薪传·馆校共育”项目启动暨课程发布会8日下午在广州国家版本馆举行。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/e447b395-c352-4f7e-8b12-3bf9596d20cb_zsite.jpg",
-        "publishedAt": "2026-07-09T03:29:03.000Z",
+        "title": "陕西高温天气“超长待机” 多地升级发布红色预警",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655924.shtml",
+        "summary": "中新网西安7月9日电 (李一璠)连日来，陕西遭遇大范围持续性高温天气。9日，西安、渭南等多地升级发布高温红色预警信号，预计今天白天部分街道(乡镇)最高气温将升至40摄氏度以上。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/17bf6959-9f0b-4d81-8049-7c995d7c338f_zsite.JPG",
+        "publishedAt": "2026-07-09T07:42:16.000Z",
         "source": "中新网"
       },
       {
-        "title": "煤城荒滩蝶变星空营地：鹤岗以生态人文激活小城文旅",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655794.shtml",
-        "summary": "中新网鹤岗7月9日电 题：煤城荒滩蝶变星空营地：鹤岗以生态人文激活小城文旅",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/69fb7544-96ec-4cf9-b4de-633695e89fb9_zsite.jpg",
-        "publishedAt": "2026-07-09T03:28:35.000Z",
+        "title": "凤栖“鸡”“西”——鸡西城市LOGO在北疆旅发盛会亮相",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655904.shtml",
+        "summary": "中新网鸡西7月9日电(记者 王妮娜 王琳)第八届黑龙江省旅游产业发展大会8日晚在鸡西市启幕。大会首次发布的鸡西城市LOGO与吉祥物“吉小喜”惊艳亮相。9日，大会城市品牌IP总设计师、深圳市设际邹工业设计创始人邹镇孟接受中新网采访，讲述这一主视觉设计背后的匠心巧思。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/53f96155-4fb2-4df3-a9c1-cd11595e99b8_zsite.jpeg",
+        "publishedAt": "2026-07-09T07:34:14.000Z",
         "source": "中新网"
       },
       {
-        "title": "海南自贸港“样板间”推进教育科技人才一体发展",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655781.shtml",
-        "summary": "中新网儋州7月9日电(王子谦 傅旖旎)儋州市是海南自贸港的“样板间”和“工业心脏”，“十五五”承担壮大产业集群，加速培育新质生产力的重要任务。儋州市8日召开新闻发布会介绍，该市集成推出“1+3+N”教育科技人才一体发展政策体系，全方位赋能产业高质量发展。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/d8509dd9-48af-4b97-86a7-94298656c52f_zsite.jpg",
-        "publishedAt": "2026-07-09T03:26:06.000Z",
+        "title": "（乡村行·看振兴）广东九龙镇：小木薯串起富民产业链",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655916.shtml",
+        "summary": "中新网清远7月9日电 (张璐 余冰冰 李子麟)时下，粤北丘陵坡地绿意翻涌。走进广东清远市英德市九龙镇木薯示范田，连片藤蔓顺着田垄铺展，饱满的木薯根块在疏松的泥土里悄然膨大，农户们弯腰清杂、查看长势，一派忙碌的景象。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/9e4aaa2e-9c1e-4feb-bc84-b385207d94f8_zsite.jpg",
+        "publishedAt": "2026-07-09T07:17:23.000Z",
         "source": "中新网"
       },
       {
-        "title": "桂鄂甘等地防汛救灾工作加紧进行",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655766.shtml",
-        "summary": "视频：桂鄂甘等地防汛救灾工作加紧进行来源：央视综合",
-        "image": "https://video.chinanews.com/tvmining/News/MP4ZXW/test/2026/07/08/iQt6m62_1783511310040_Je3Xlj4_6269.mp4",
-        "publishedAt": "2026-07-09T03:24:10.000Z",
+        "title": "禁牧之后，祁连山下的牧民这样转型",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655913.shtml",
+        "summary": "中新网张掖7月9日电 (程兆)站在甘肃省张掖市肃南裕固族自治县白银蒙古族乡东牛毛村，放眼望去，最近处是连片玉米地，青绿色叶片在风里起伏；再往远处，是七彩相间的丹霞；更远处，祁连山脉横亘天际。群山、地貌与村庄产业，在同一幅画面里铺展开来。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/a2c56b4a-198d-4854-b22d-c7f0022979f9_zsite.jpg",
+        "publishedAt": "2026-07-09T07:04:54.000Z",
         "source": "中新网"
       },
       {
-        "title": "2026年海峡两岸南海仲裁案“裁决”批驳学术研讨会在海口举行",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655764.shtml",
-        "summary": "中新网海口7月9日电 (王子谦 傅旖旎)2026年海峡两岸南海仲裁案“裁决”批驳学术研讨会8日在海口举行，来自海峡两岸智库、高校和企业界的专家学者围绕“南海仲裁案‘裁决’十年影响评估”“‘历史性权利’与两岸南海维权的法理共识”“构建南海争端解决机制的新思路”等议题进行研讨交流。",
-        "image": "",
-        "publishedAt": "2026-07-09T03:19:00.000Z",
+        "title": "福建宁德启动防台风IV级应急响应 全力做好防御台风工作",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-09/10655907.shtml",
+        "summary": "中新网宁德7月9日电 (吴允杰 陈绘羽 叶华明)今年第9号台风“巴威”9日8时中心位于台湾基隆市东南方向约1140公里的洋面上，中心附近最大风力16级(55米/秒，超强台风级)。当天上午，宁德市气象台发布“台风预警IV级”，市防指启动防台风IV级应急响应。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/95cc0681-c8e3-4326-9321-13ab341e111e_zsite.jpg",
+        "publishedAt": "2026-07-09T07:04:06.000Z",
         "source": "中新网"
       }
     ],
     "chinaFinance": [
       {
-        "title": "A股午评：超4600只个股飘绿，创业板指收涨，沪指、深指收跌",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655804.shtml",
-        "summary": "A股午评：超4600只个股飘绿，创业板指收涨，沪指、深指收跌，科创50涨超3%；半导体、能源设备、电脑硬件上涨；稀土、锂矿、贵金属下跌",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/07/09/4b3bede9228f496f8cf738b2d47fcc82.png",
-        "publishedAt": "2026-07-09T03:39:41.000Z",
+        "title": "沐曦股份股价盘中突破千元 发布澄清公告并提示风险",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655943.shtml",
+        "summary": "中新网北京7月9日电(左雨晴) 7月9日，GPU龙头股沐曦股份-U盘中大幅拉升，最高价报1008元，冲击涨停。截至收盘涨幅为16.88%，收报981.88元。",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/07/09/4662e7cbb7bb4e15830c2a6ac2711391.jpg",
+        "publishedAt": "2026-07-09T07:52:45.000Z",
         "source": "中新网"
       },
       {
-        "title": "（活力中国调研行）“三公里”内的创新闭环：上海科创企业的“芯”动力",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655787.shtml",
-        "summary": "中新网上海7月9日电(记者 马佳佳 杨海燕)一家成立仅6年的GPU芯片企业已累计销售超过5.5万颗芯片，产品部署于10余个智算集群；一家从麻省理工学院实验室走出来的光子芯片企业，刚于今年4月登陆港交所，成为“全球AI硅光芯片第一股”。它们分别是沐曦集成电路(上海)股份有限公司与上海曦智科技股份有限公...",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/91911e2b-003c-4249-806e-220e0df13448_zsite.jpg",
-        "publishedAt": "2026-07-09T03:27:47.000Z",
+        "title": "甘肃临夏官方邀客商同登台∶讲创业 晒成绩 结同行",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655972.shtml",
+        "summary": "中新网兰州7月9日电 (马文)第三十二届中国兰州投资贸易洽谈会9日在兰州开幕，其间在甘肃省临夏回族自治州招商引资产业对接大会现场，一改传统招商“官方讲、客商听”的模式，三位企业家应邀走上发言台，以自身真实的创业经历和发展成果作“活名片”，向在场客商分享投资体验，发出携手发展的邀约。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/7dd8c8bd-e600-4fba-a36b-5b867f03bea4_zsite.jpg",
+        "publishedAt": "2026-07-09T07:51:45.000Z",
         "source": "中新网"
       },
       {
-        "title": "林毅夫：两岸合作空间巨大 台湾从贸易中得到更大好处",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655768.shtml",
-        "summary": "中新网天津7月9日电 (记者 孙玲玲)第十七届津台投资合作洽谈会8日在天津开幕，北京大学新结构经济学研究院院长林毅夫在开幕式上发表演讲称，大陆和台湾有着巨大的合作空间，2025年两岸贸易额继续增长，台湾享有贸易顺差，在这当中，台湾得到的好处更大。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/40190564-f414-4a68-a8ab-01fd75cda8ce_zsite.jpg",
-        "publishedAt": "2026-07-09T03:22:34.000Z",
+        "title": "从工业重镇到“场景招商” “铜城”白银迈向“多彩城”",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655958.shtml",
+        "summary": "中新网兰州7月9日电 (杨娜)第三十二届中国兰州投资贸易洽谈会9日在兰州启幕，素有“铜城”美誉之称的甘肃省白银市，日前向外界亮出“场景招商”新名片——立足有色稀土、循环化工、新型材料、清洁能源、文旅体验、特色农业六大领域，以全域场景开放汇聚产业资源，以全链发展思维激发创新动能。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/e8f0119e-704a-4fd6-97a8-3072b5420dc1_zsite.jpg",
+        "publishedAt": "2026-07-09T07:34:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "世界电压等级最高、输送容量最大的海上柔性直流换流站启锚",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655755.shtml",
-        "summary": "中新网广州7月9日电(王华 沈甸)南方电网广东电网公司8日通报，目前世界电压等级最高、输送容量最大的海上柔性直流换流站——(广东)阳江三山岛海上风电柔直输电工程(简称：三山岛工程)海上换流站，启锚开航，标志着该工程陆地建造阶段全部完成，转向海上运输、安装阶段。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/ababaabc-988d-4819-be53-e000dbde937b_zsite.jpg",
-        "publishedAt": "2026-07-09T03:16:28.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "中国9部门支持加快零售业创新发展",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655743.shtml",
-        "summary": "中新社北京7月9日电 (记者 尹倩芸)中国商务部等9部门9日对外发布《关于加快零售业创新发展的意见》(下称意见)，力争到2030年，基本形成布局合理、供给优质、业态多元、智慧便捷、竞争有序的现代零售体系。",
+        "title": "AI重构创意生产 专家建言推动数字技术与广告产业深度融合",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655962.shtml",
+        "summary": "中新网北京7月9日电 (记者 张素)“在广告领域，人工智能(AI)不仅是提升效率的工具，更是重构创意生产、精准分发和商业变现的核心驱动力。”数字中国发展战略工作委员会主任石恒臣近日表示。",
         "image": "",
-        "publishedAt": "2026-07-09T02:56:38.000Z",
+        "publishedAt": "2026-07-09T07:32:58.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "中汽协：上半年汽车出口突破500万大关",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-09/10655946.shtml",
+        "summary": "中新网北京7月9日电(记者 张尼)记者从中国汽车工业协会(简称中汽协)了解到，今年1到6月，中国汽车出口达509.6万辆，同比增长65.3%。",
+        "image": "",
+        "publishedAt": "2026-07-09T07:30:34.000Z",
         "source": "中新网"
       }
     ],
     "worldTop": [
       {
+        "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+        "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates...",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
+        "publishedAt": "2026-07-09T06:28:08.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "US launches more strikes on Iran with blasts reported in south of country",
         "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
         "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
-        "publishedAt": "2026-07-09T03:58:23.000Z",
+        "publishedAt": "2026-07-09T05:21:29.000Z",
         "source": "BBC"
       },
       {
-        "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
-        "link": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
-        "summary": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c855cdd0-7b07-11f1-bf09-5b099a6fa87f.jpg",
-        "publishedAt": "2026-07-08T20:58:21.000Z",
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg",
+        "publishedAt": "2026-07-09T02:18:21.000Z",
         "source": "BBC"
       },
       {
-        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a3/live/c995b2c0-7b05-11f1-bee8-53ce494e1abc.jpg",
-        "publishedAt": "2026-07-08T20:40:11.000Z",
+        "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
+        "link": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+        "summary": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b8e/live/f4d9e6c0-7b2a-11f1-9510-1546718f668b.jpg",
+        "publishedAt": "2026-07-09T00:28:16.000Z",
         "source": "BBC"
       },
       {
-        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-        "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca1/live/ce2ce8c0-7af2-11f1-94d8-c95634a95d3e.jpg",
-        "publishedAt": "2026-07-08T17:18:14.000Z",
+        "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
+        "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
+        "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/763d/live/10c3a8c0-7b59-11f1-9510-1546718f668b.jpg",
+        "publishedAt": "2026-07-08T23:31:53.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "Flight school pilot jumps to his death midair, leaving student to land plane",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UdXNCUVk5c2xWR1RtYUt6OTNTeGNrSV9MUDN6b1ozejZfa3VpdU4wMmZoTVJqTmRpR3dsODhTRHlWUDIxMV9DeWQxVHZCYUgwVW9OeDdVemtSOFlXWmF3OXNuc1NpMmFIU2dydUdlUmFxTEw0UW9wZEVVNA?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-08T15:29:30.000Z",
-        "source": "CNN"
       }
     ],
     "worldBusiness": [
+      {
+        "title": "Life of Sizewell B extended by another 20 years",
+        "link": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+        "summary": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662f/live/b1f72150-7a0e-11f1-b151-87c0badc88c3.jpg",
+        "publishedAt": "2026-07-09T05:27:18.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+        "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1127/live/fbe04900-7b0c-11f1-bd97-bb877df31663.jpg",
+        "publishedAt": "2026-07-09T05:04:17.000Z",
+        "source": "BBC"
+      },
       {
         "title": "I run the UK's biggest bank, here are five ways to manage your money",
         "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
@@ -351,26 +367,10 @@
       {
         "title": "Why electric cars cost more to insure - and what's being done about it",
         "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-        "summary": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+        "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bac1/live/0041f990-7959-11f1-b976-0b9c15b0ccfc.jpg",
         "publishedAt": "2026-07-08T23:09:55.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fecf/live/40016180-7ace-11f1-a130-2b898c796aa9.jpg",
-        "publishedAt": "2026-07-08T19:23:33.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Trump is playing with economic fire by calling the peace deal with Iran ‘over’",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5Tk9GdGtTbEt3RWRLUUNXbUdKRXQ4a2xYcWpwUEpnT3M2Q3JxZ2UzRzc2RGRRNldVVnBLbGxfT3diVEtqX0ZPZjNVVTgySi1HbVhSQ3BEMVR6aW5iV2lxU0NvNHlGdjhlbkpjY1NkcTRSdkdVajd2R2tuUQ?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-08T14:14:25.000Z",
-        "source": "CNN"
       },
       {
         "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
@@ -383,27 +383,11 @@
     ],
     "worldTech": [
       {
-        "title": "Wealthy AI workers send San Francisco house prices soaring",
-        "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6c/live/84338380-79eb-11f1-b976-0b9c15b0ccfc.jpg",
-        "publishedAt": "2026-07-08T23:11:35.000Z",
-        "source": "BBC"
-      },
-      {
         "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
         "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
         "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa5/live/3d76fa30-7adb-11f1-bee8-53ce494e1abc.png",
         "publishedAt": "2026-07-08T12:28:03.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks",
-        "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Esports World Cup gets going in Paris after a last-minute move from Saudi Arabia. Is it any less controversial?",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761c/live/51aa33c0-7a2a-11f1-b976-0b9c15b0ccfc.jpg",
-        "publishedAt": "2026-07-08T08:43:00.000Z",
         "source": "BBC"
       },
       {
@@ -421,90 +405,106 @@
         "image": "",
         "publishedAt": "2026-07-06T17:53:31.000Z",
         "source": "CNN"
+      },
+      {
+        "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+        "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc35/live/26aac8a0-794f-11f1-bfee-d367081f1131.jpg",
+        "publishedAt": "2026-07-06T15:18:53.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Meet the engineer who literally lit up the world — and now wants to power it",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTFV0VG9GekxtWnVuTXQwVm1hVTd5am9PdFZTenpwcFlMQkdSd19xUG5Id2lEaFA2TzJ2Nzctbzk0LTUzMG16VnhpalJfYWlwbUJSSEFSNENjcHAtYVdhbThBZGRYSE9wai1FeFZDRDhSQWpRMUYyQXgwd2FzcENiQ0FxaUI4ajBNTVZpWVRGUEc4N0k?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-06T09:48:25.000Z",
+        "source": "CNN"
       }
     ],
     "domestic": [
       {
-        "title": "开局“十五五” 奋楫新征程丨农业产业 集群成势",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655745.shtml",
-        "summary": "天山网-新疆日报记者 刘毅",
+        "title": "中国将在上海举办2026世界人工智能大会暨人工智能全球治理高级别会议",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655992.shtml",
+        "summary": "中新网北京7月9日电 (记者 谢雁冰)中国外交部发言人毛宁7月9日主持例行记者会。有记者就中国与全球南方国家在人工智能领域合作提问。",
         "image": "",
-        "publishedAt": "2026-07-09T03:19:38.000Z",
+        "publishedAt": "2026-07-09T07:54:29.000Z",
         "source": "中新网"
       },
       {
-        "title": "两院院士热议“科技三会”：为中国建设世界科技强国指明方向",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655758.shtml",
-        "summary": "中新网北京7月9日电 (记者 孙自法)“这些重要论述为新时代中国科技创新发展和建设世界科技强国指明了方向”“做研究既要‘顶天’又要‘立地’”“科技创新是建设科技强国最重要的支撑”“科技创新进入AI引领的模式变革新时代”……",
+        "title": "中方：西藏事务纯属中国内政，任何外国无权干涉",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655987.shtml",
+        "summary": "中新网北京7月9日电 (记者 谢雁冰)中国外交部发言人毛宁7月9日主持例行记者会。",
         "image": "",
-        "publishedAt": "2026-07-09T03:11:50.000Z",
+        "publishedAt": "2026-07-09T07:49:57.000Z",
         "source": "中新网"
       },
       {
-        "title": "国家防总组织多部门联合会商 研究部署超强台风“巴威”防御工作",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655760.shtml",
-        "summary": "中新网7月9日电 据应急管理部网站消息，7月8日，国家防总在中央气象台组织应急管理部、中国气象局、自然资源部、住房城乡建设部、交通运输部、水利部、农业农村部等部门和上海、浙江、福建等重点省份进行联合会商，研判超强台风“巴威”发展趋势及影响，研究部署防汛防台风工作。",
+        "title": "中方：美方应认真倾听国际社会正义呼声，立即停止对古巴封锁制裁",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655986.shtml",
+        "summary": "中新网北京7月9日电 (记者 谢雁冰 李京泽)中国外交部发言人毛宁7月9日主持例行记者会。",
         "image": "",
-        "publishedAt": "2026-07-09T03:07:55.000Z",
+        "publishedAt": "2026-07-09T07:49:53.000Z",
         "source": "中新网"
       },
       {
-        "title": "贵州磷化(集团)有限责任公司原党委书记何光亮接受审查调查",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655709.shtml",
-        "summary": "中新网7月9日电 据贵州省纪委监委消息：贵州磷化(集团)有限责任公司原党委书记、董事长何光亮涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
+        "title": "中共中央办公厅、国务院办公厅印发《关于全力做好防汛抗旱工作的通知》",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655988.shtml",
+        "summary": "新华社北京7月9日电#8195;近日，中共中央办公厅、国务院办公厅印发《关于全力做好防汛抗旱工作的通知》(以下简称《通知》)，对全力做好防汛抗旱、抢险救灾各项工作作出部署。",
         "image": "",
-        "publishedAt": "2026-07-09T02:44:42.000Z",
+        "publishedAt": "2026-07-09T07:49:49.000Z",
         "source": "中新网"
       },
       {
-        "title": "人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655734.shtml",
-        "summary": "中新网7月9日电 据“人力资源和社会保障部”微信公众号消息，近日，人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》(以下简称《规划》)。《规划》深入贯彻党的二十届四中全会精神，细化落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》中关于人社领域的战略任务，是“十五五”时期...",
-        "image": "",
-        "publishedAt": "2026-07-09T02:44:22.000Z",
+        "title": "江西严查“两客一危”企业动态监控 整治各类违法违规问题",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-09/10655937.shtml",
+        "summary": "中新网南昌7月9日电 (朱熹 刘建珍)江西省交通运输执法局9日消息，该局已在江西全省范围内组织开展“两客一危”企业动态监控专项执法行动，系统整治动态监控方面各类违法违规问题。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260709/7ffef2f9-b2fa-405c-aa31-afb073a74696_zsite.jpg",
+        "publishedAt": "2026-07-09T07:46:21.000Z",
         "source": "中新网"
       }
     ],
     "international": [
       {
+        "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+        "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates...",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
+        "publishedAt": "2026-07-09T06:28:08.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "US launches more strikes on Iran with blasts reported in south of country",
         "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
         "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
-        "publishedAt": "2026-07-09T03:58:23.000Z",
+        "publishedAt": "2026-07-09T05:21:29.000Z",
         "source": "BBC"
       },
       {
-        "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
-        "link": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
-        "summary": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c855cdd0-7b07-11f1-bf09-5b099a6fa87f.jpg",
-        "publishedAt": "2026-07-08T20:58:21.000Z",
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg",
+        "publishedAt": "2026-07-09T02:18:21.000Z",
         "source": "BBC"
       },
       {
-        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a3/live/c995b2c0-7b05-11f1-bee8-53ce494e1abc.jpg",
-        "publishedAt": "2026-07-08T20:40:11.000Z",
+        "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
+        "link": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+        "summary": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b8e/live/f4d9e6c0-7b2a-11f1-9510-1546718f668b.jpg",
+        "publishedAt": "2026-07-09T00:28:16.000Z",
         "source": "BBC"
       },
       {
-        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-        "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca1/live/ce2ce8c0-7af2-11f1-94d8-c95634a95d3e.jpg",
-        "publishedAt": "2026-07-08T17:18:14.000Z",
+        "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
+        "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
+        "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/763d/live/10c3a8c0-7b59-11f1-9510-1546718f668b.jpg",
+        "publishedAt": "2026-07-08T23:31:53.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "Flight school pilot jumps to his death midair, leaving student to land plane",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UdXNCUVk5c2xWR1RtYUt6OTNTeGNrSV9MUDN6b1ozejZfa3VpdU4wMmZoTVJqTmRpR3dsODhTRHlWUDIxMV9DeWQxVHZCYUgwVW9OeDdVemtSOFlXWmF3OXNuc1NpMmFIU2dydUdlUmFxTEw0UW9wZEVVNA?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-08T15:29:30.000Z",
-        "source": "CNN"
       }
     ],
     "nba": []
