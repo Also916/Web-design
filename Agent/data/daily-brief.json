@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-20T03:53:29.587Z",
+  "generatedAt": "2026-07-20T06:55:35.282Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 28,
-      "weatherCode": 51,
-      "windSpeed": 9
+      "temperature": 26,
+      "weatherCode": 96,
+      "windSpeed": 6
     },
     "today": {
       "date": "2026-07-20",
       "weatherCode": 96,
       "description": "天气更新中",
-      "max": 31,
+      "max": 32,
       "min": 22,
       "precipitationProbability": 98
     },
@@ -20,7 +20,7 @@
         "date": "2026-07-20",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 31,
+        "max": 32,
         "min": 22,
         "precipitationProbability": 98
       },
@@ -28,7 +28,7 @@
         "date": "2026-07-21",
         "weatherCode": 51,
         "description": "毛毛雨",
-        "max": 29,
+        "max": 31,
         "min": 21,
         "precipitationProbability": 80
       },
@@ -36,7 +36,7 @@
         "date": "2026-07-22",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 30,
+        "max": 29,
         "min": 24,
         "precipitationProbability": 82
       },
@@ -44,7 +44,7 @@
         "date": "2026-07-23",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 30,
+        "max": 28,
         "min": 22,
         "precipitationProbability": 53
       },
@@ -173,131 +173,147 @@
   "news": {
     "chinaTop": [
       {
-        "title": "聚焦光信息光网络、AI与地学、核心工业软件 中国科协年会举办论坛",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662805.shtml",
-        "summary": "中新网北京7月20日电 (记者 孙自法)第二十八届中国科协年会“光信息与光网络技术”“数据驱动的地球科学：人工智能、大数据与地球系统研究的深度融合”“核心工业软件”专题论坛，近日在北京分别举办。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/287760f1-4f24-42d6-9c66-523fdd7a2b78_zsite.jpeg",
-        "publishedAt": "2026-07-20T03:44:47.000Z",
+        "title": "从“归国第一站”到“圆梦首选地” 海归创客圆梦上海奉贤海归小镇",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662905.shtml",
+        "summary": "中新网上海7月20日电 (范宇斌)眼下，欧美同学会海归小镇(奉贤·生物科技)正从“归国第一站”转变为“圆梦首选地”，随着“归·聚力创·未来——千个海归创客圆梦计划”的正式发布，全球创新创业的目光聚焦于这片热土。记者20日从上海市欧美同学会获悉，“千个海归创客圆梦计划”入围500强的项目名单出炉。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/497849c3-6576-4982-9f27-64c6db6da2e3_zsite.jpg",
+        "publishedAt": "2026-07-20T06:32:19.000Z",
         "source": "中新网"
       },
       {
-        "title": "赵乐际会见泰国总理阿努廷",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662840.shtml",
-        "summary": "新华社北京7月20日电 全国人大常委会委员长赵乐际7月20日上午在北京会见泰国总理阿努廷。",
+        "title": "“尖刀·使命”2026年全国公安特警挑战赛开赛 584人同台比拼",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662912.shtml",
+        "summary": "中新网乌鲁木齐7月20日电 (记者 郭超凯)7月20日，“尖刀·使命”2026年全国公安特警挑战赛在新疆乌鲁木齐开赛。来自全国各省、自治区、直辖市公安厅局，新疆生产建设兵团公安局，以及公安部特勤局、铁路公安局、海关总署缉私局、民航公安局、国家移民管理局等单位的55支参赛队、584名参赛队员齐聚天山脚...",
         "image": "",
-        "publishedAt": "2026-07-20T03:38:32.000Z",
+        "publishedAt": "2026-07-20T06:29:55.000Z",
         "source": "中新网"
       },
       {
-        "title": "两岸同胞北川“寻禹” 台湾“首来族”感受文化根脉",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662767.shtml",
-        "summary": "中新网绵阳7月20日电 (记者 王鹏)“大陆是我们的文化根源所在，我们理应多回来亲身感受。”19日，在四川省绵阳市北川羌族自治县，首次来到大陆的台湾华夏艺术画院青年学员吴同学说，希望未来有机会走访大陆更多地方，更深入了解中华传统文化。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/81ee668a-ffb8-41c1-a7cd-e8226f093bf0_zsite.jpeg",
-        "publishedAt": "2026-07-20T03:38:06.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "重庆彭水山体崩塌搜救持续进行 120余名专家现场协助救援处置",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662827.shtml",
-        "summary": "央视网消息：7月19日，重庆彭水山体崩塌现场人员搜救持续加紧进行，包括消防、中国安能在内的多支救援力量，在崩塌体两侧同时展开搜救作业。消防员与中国安能的大型机械相互配合，分区作业，对稳固废墟开展挖掘和破拆作业后，利用搜救犬和生命探测仪，不间断搜寻生命迹象。同时，消防出动水域救援编队，从下游6公里处沿...",
+        "title": "一名涉“银狐”木马病毒案犯罪嫌疑人从越南被押解回中国",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662915.shtml",
+        "summary": "中新社北京7月20日电 (记者 郭超凯)记者20日从中国公安部获悉，近日，按照公安部统一部署，在中国驻越南使馆全力支持以及越南公安部门积极配合下，山东省公安机关派出工作组赴越南成功接收某破坏计算机信息系统案首犯潘某君并将其押解回国。",
         "image": "",
-        "publishedAt": "2026-07-20T03:38:04.000Z",
+        "publishedAt": "2026-07-20T06:28:51.000Z",
         "source": "中新网"
       },
       {
-        "title": "国家主席习近平任免驻外大使",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662839.shtml",
-        "summary": "新华社北京7月20日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使：",
+        "title": "西藏专家：让AI“会说”藏语，藏语言文化迎“数智化重构”变革",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662899.shtml",
+        "summary": "中新社拉萨7月20日电 题：西藏专家：让AI“会说”藏语，藏语言文化迎“数智化重构”变革",
         "image": "",
-        "publishedAt": "2026-07-20T03:37:14.000Z",
+        "publishedAt": "2026-07-20T06:11:54.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "工信部：加快出台“人工智能+软件”行动方案",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662882.shtml",
+        "summary": "中新网7月20日电 7月20日，国新办就2026年上半年工业和信息化发展情况举行新闻发布会。工信部新闻发言人、运行监测协调局局长陶青透露，工信部将加快出台“人工智能+软件”行动方案，推动软件开发智能化转型、软件产品及服务智能化升级和智能体软件新业态培育。",
+        "image": "",
+        "publishedAt": "2026-07-20T06:08:14.000Z",
         "source": "中新网"
       }
     ],
     "chinaSociety": [
       {
-        "title": "针对违法生产非标电动自行车 浙江台州开展联合执法检查",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662845.shtml",
-        "summary": "总台报道有反馈丨针对违法生产非标电动自行车 浙江台州开展联合执法检查",
+        "title": "马拉松抽签，悄悄筛除老年人？",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662914.shtml",
+        "summary": "数据显示，截至2025年底，我国60岁及以上人口已达3.2亿，庞大的群体催生出旺盛的健身需求，“银发健身”逐步成为全民健身与银发经济的重要增长点。",
         "image": "",
-        "publishedAt": "2026-07-20T03:51:43.000Z",
+        "publishedAt": "2026-07-20T06:21:21.000Z",
         "source": "中新网"
       },
       {
-        "title": "健康传播国际学术研讨会举行 专家建言中医药参与全球慢病防治",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662781.shtml",
-        "summary": "中新网北京7月20日电 (王勇 张素)18日至19日，第九届“医学、人本与媒介”健康传播国际学术研讨会暨博士生论坛在北京大学举行。其间，中国脾胃病专家、塔吉克斯坦国家科学院外籍院士丁于洲谈到中医药参与全球慢病防治。",
+        "title": "晚高峰注意！北京今天白天至前半夜有雷阵雨 西部北部局地暴雨",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662910.shtml",
+        "summary": "中国天气网讯 受东移高空槽影响，今天(7月20日)白天至前半夜，北京有雷阵雨，城区明显降雨时段在傍晚至前半夜。北京市气象台已发布雷电黄色、暴雨蓝色预警信号，公众出行注意安全。",
         "image": "",
-        "publishedAt": "2026-07-20T03:48:55.000Z",
+        "publishedAt": "2026-07-20T06:14:50.000Z",
         "source": "中新网"
       },
       {
-        "title": "湖南出台管理办法鼓励组织或者个人依法设立科学技术奖",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662743.shtml",
-        "summary": "中新网长沙7月20日电(向一鹏)湖南省科学技术厅19日透露，该厅最新印发了《湖南省社会力量设立科学技术奖管理办法》(下称《办法》)。《办法》鼓励组织或者个人依法设立科学技术奖，支持在重点学科和关键领域创设高水平、专业化奖项，鼓励面向青年科技工作者、女性科技工作者以及基础和前沿领域研究人员设立奖项。",
-        "image": "",
-        "publishedAt": "2026-07-20T03:45:45.000Z",
+        "title": "甘肃临夏变迁里的看病“医”靠：从百里奔波到家门口就诊",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662897.shtml",
+        "summary": "中新网兰州7月20日电 (高文 杨乐 史逸茹)7月盛夏，甘肃省临夏回族自治州临夏县榆丰村，村医马利和给村民做例行健康检查，电子血压计精准测量血压，马利和说，从祖父的药箱到父亲的水银血压计，再到配备齐全的村卫生室，他们一家三代人的行医路，几十年间正在发生着天翻地覆的变化。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/327afa13-c609-4573-8e2a-bb3dffb2a7c6_zsite.jpg",
+        "publishedAt": "2026-07-20T05:58:09.000Z",
         "source": "中新网"
       },
       {
-        "title": "“七一勋章”获得者吾哈斯·苏来曼：马背上的健康卫士",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662841.shtml",
-        "summary": "央视网消息(新闻联播)：7月19日的“七一勋章 ”获得者，我们来认识新疆裕民县的吾哈斯·苏来曼医生。从医五十多年，他常年风雪无阻辗转牧区治病救人，守护牧民身体健康。",
+        "title": "河北发布山洪灾害气象风险预警 唐山、承德局地为黄色预警",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662894.shtml",
+        "summary": "中新网石家庄7月20日电 河北省水利厅和河北省气象局7月20日11时联合发布山洪灾害气象风险预警，预计7月20日11时至21日11时，唐山市(遵化市)、承德市(丰宁满族自治县、兴隆县、滦平县)等地局地发生山洪灾害可能性较大(黄色预警)。",
         "image": "",
-        "publishedAt": "2026-07-20T03:43:29.000Z",
+        "publishedAt": "2026-07-20T05:50:09.000Z",
         "source": "中新网"
       },
       {
-        "title": "6万通信人抢通“生命线” 广西受灾地区通信全面恢复",
-        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662774.shtml",
-        "summary": "中新网南宁7月20日电(记者 黄艳梅)记者19日从广西有关部门获悉，台风“美莎克”带来的洪涝灾害，让广西通信设施遭受历史罕见重创。7月18日晚，随着横州市镇龙乡那旭村六枧屯卫星基站的开通，广西因台风受灾地区的通信服务全部恢复。",
+        "title": "水利部：滇桂粤皖沪8条中小河流发生超警洪水",
+        "link": "https://www.chinanews.com.cn/sh/2026/07-20/10662902.shtml",
+        "summary": "记者从水利部了解到，7月19日8时至20日8时，受降雨影响，云南澜沧江支流弥苴河、金沙江支流漾弓江、普渡河支流鸣矣河，广西郁江支流田州河，广东北江支流官田河，安徽青弋江支流徽水，上海吴淞江及支流新泾港等8条中小河流发生超警洪水，最大超警幅度0.91米，目前大部已退至警戒水位以下。",
         "image": "",
-        "publishedAt": "2026-07-20T03:42:49.000Z",
+        "publishedAt": "2026-07-20T05:48:46.000Z",
         "source": "中新网"
       }
     ],
     "chinaFinance": [
       {
-        "title": "贵州“村超”赛场“长”出助农新场景",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662837.shtml",
-        "summary": "球场内，呐喊声、助威声此起彼伏；球场外，酸汤、刺梨汁、黄金百香果等贵州特色农产品摆满展台，游客边逛边尝，不时拿出手机拍照、扫码。18日至19日，随着贵州“村超”半决赛开赛，一场围绕贵州特色农产品展开的助农活动也在赛场外同步“升温”。",
-        "image": "https://www.chinanews.com/cr/2026/0720/2941179468.JPG",
-        "publishedAt": "2026-07-20T03:48:47.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "这张信用卡，有AI！",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662836.shtml",
-        "summary": "今日，在2026世界人工智能大会期间，农业银行携手万事达卡在上海推出尊然白金信用卡(智享AI版)。该产品重点面向科技型企业员工，依托农业银行与万事达卡在客户服务、支付网络和场景生态等方面的资源优势，共同探索数字时代信用卡服务新方向。",
+        "title": "新一代通信网“新”在哪？工信部详解四点",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662926.shtml",
+        "summary": "今年，中央就规划建设“六张网”作出决策部署。在7月20日国新办举行的新闻发布会上，工业和信息化部信息通信管理局局长谢存表示，工业和信息化部正在就新一代通信网建设开展研究。新一代通信网的“新”，主要有四个方面。",
         "image": "",
-        "publishedAt": "2026-07-20T03:47:49.000Z",
+        "publishedAt": "2026-07-20T06:37:00.000Z",
         "source": "中新网"
       },
       {
-        "title": "超聚变亮相WAIC 2026：共建智能体时代，看见智企进化新路径",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662835.shtml",
-        "summary": "近日，2026世界人工智能大会在上海开幕。超聚变以“共建智能体时代”为主题亮相大会，围绕智能体时代企业AI落地与智企进化，集中呈现超聚变#174;智企ERP、Token Factory智企AI生产系统、TokenBox#8482;企业Token生产平台及生态伙伴行业实践，系统展示企业从AI能力建设到...",
-        "image": "https://www.chinanews.com/cr/2026/0720/2816756101.JPG",
-        "publishedAt": "2026-07-20T03:47:05.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "上海发布经济“半年报” 货物进出口总额创历史新高",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662779.shtml",
-        "summary": "中新网上海7月20日电 (记者 李姝徵)7月20日，上海市统计局发布2026年上半年上海市国民经济运行情况。",
+        "title": "国家能源局：到2028年底 建成一批村镇微能网试点项目",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662918.shtml",
+        "summary": "记者今天从国家能源局了解到，为进一步深入推进农村能源革命，到2028年底，在全国范围内建成一批村镇微能网试点项目。",
         "image": "",
-        "publishedAt": "2026-07-20T03:46:29.000Z",
+        "publishedAt": "2026-07-20T06:24:33.000Z",
         "source": "中新网"
       },
       {
-        "title": "工信部：我国人形机器人整机产品超全球半数",
-        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662824.shtml",
-        "summary": "中新网7月20日电 7月20日，国新办就2026年上半年工业和信息化发展情况举行新闻发布会。会上，工信部总工程师王卫明透露，上半年，在智能机器人领域，我国研发的四足机器人占全球销量份额接近70%，人形机器人整机产品达400余款、超全球半数。",
-        "image": "",
-        "publishedAt": "2026-07-20T03:43:19.000Z",
+        "title": "（活力中国调研行）江苏以政府引导撬动社会资本聚力战略性新兴产业和未来产业",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662906.shtml",
+        "summary": "中新网常州7月20日电 (常慕城 王昊)2026年“活力中国调研行”江苏主题采访活动20日上午在常州启动。江苏省发展和改革委员会副主任王伟在活动现场介绍，江苏省战略性新兴产业母基金作为政府产业引导基金，充分发挥政府引导作用，撬动社会资本投向战略性新兴产业与未来产业，投资赋能成效持续显现。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/999c08bd-80be-4427-8558-f68bd1f394fb_zsite.jpg",
+        "publishedAt": "2026-07-20T06:21:59.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "江西上半年GDP同比增长4.0% 货物进出口快速增长",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662907.shtml",
+        "summary": "中新网南昌7月20日电 (记者 李韵涵)20日，江西省统计局、国家统计局江西调查总队召开新闻发布会发布了2026年上半年江西全省经济运行情况。记者从会上了解到，江西上半年GDP同比增长4.0%。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/f51455ff-df5b-4a61-801c-caebb214ebcd_zsite.jpg",
+        "publishedAt": "2026-07-20T06:16:16.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "为了尽快“上岗” 机器人有多努力→",
+        "link": "https://www.chinanews.com.cn/cj/2026/07-20/10662903.shtml",
+        "summary": "在2026世界人工智能大会上，一批聚焦百姓真实需求的AI技术集中亮相，让前沿科技真正融入日常生活。在浙江杭州具身智能展示与应用推广中心，百余台机器人正在进行工厂、餐厅、医院等近20个职业场景中的“实习工作”。训练中心通过“真实环境+虚拟仿真”采集数据、优化模型，加速机器人从实验室走向产业一线。具体有...",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/07/20/757a1957aef945959cce666a582c6fcc.gif",
+        "publishedAt": "2026-07-20T05:50:43.000Z",
         "source": "中新网"
       }
     ],
     "worldTop": [
+      {
+        "title": "‘You cannot hide from a drone strike’: The terror falling from the sky in Sudan",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FeE5VUmR0Vm1LeS1HbGQ5bGpKMFpvRGdVNlc3WnNDX3NuRkVQZDE3bDZMODlzaW8wZTNobGJsT2hkSTlxbU1BaUxzVjBqaXo3MlNpTzVnTlgyazB5VERQVUlWRDVleERfNENqRXN5QmJRVDN4REhDTlJpUQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-20T04:01:25.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Food delivery rider wins China's top literary prize",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg",
+        "publishedAt": "2026-07-20T03:53:07.000Z",
+        "source": "BBC"
+      },
       {
         "title": "Norway opens new memorial for victims of 2011 massacre",
         "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
@@ -310,7 +326,7 @@
         "title": "US soldier killed and one injured after Iranian attack in Iraq",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
         "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c6/live/42486a90-83fe-11f1-bee8-53ce494e1abc.jpg",
         "publishedAt": "2026-07-19T19:45:12.000Z",
         "source": "BBC"
       },
@@ -321,22 +337,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
         "publishedAt": "2026-07-19T18:25:40.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
-        "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
-        "publishedAt": "2026-07-19T14:50:11.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Tropical Depression Two forms in the Gulf, will bring heavy rain and coastal flooding",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTno5NmtySFJrTXd5UXd4Q0xyYlNZWFgxcjBYWFBUNzNPRzRoMGJlWnkxZlFtMmNVTXNqNUdWOElFZTFtOER0cGpwOTBXbkdQWjVKYU5mWmJPZUNvZ2JFMmZFemFjVEpGMll5OUdHanNKaFJ5TGZOdXJDMl9HellZZmh4TUJ6Zw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-19T13:41:57.000Z",
-        "source": "CNN"
       }
     ],
     "worldBusiness": [
@@ -344,7 +344,7 @@
         "title": "Are you a parent missing out on £27 a week? Here's how to check",
         "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
         "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2958/live/13ecab20-805c-11f1-a10f-077d9cf2208e.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c9/live/dabd5170-8401-11f1-b976-0b9c15b0ccfc.jpg",
         "publishedAt": "2026-07-19T23:16:47.000Z",
         "source": "BBC"
       },
@@ -425,47 +425,63 @@
     ],
     "domestic": [
       {
-        "title": "聚焦光信息光网络、AI与地学、核心工业软件 中国科协年会举办论坛",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662805.shtml",
-        "summary": "中新网北京7月20日电 (记者 孙自法)第二十八届中国科协年会“光信息与光网络技术”“数据驱动的地球科学：人工智能、大数据与地球系统研究的深度融合”“核心工业软件”专题论坛，近日在北京分别举办。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/287760f1-4f24-42d6-9c66-523fdd7a2b78_zsite.jpeg",
-        "publishedAt": "2026-07-20T03:44:47.000Z",
+        "title": "从“归国第一站”到“圆梦首选地” 海归创客圆梦上海奉贤海归小镇",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662905.shtml",
+        "summary": "中新网上海7月20日电 (范宇斌)眼下，欧美同学会海归小镇(奉贤·生物科技)正从“归国第一站”转变为“圆梦首选地”，随着“归·聚力创·未来——千个海归创客圆梦计划”的正式发布，全球创新创业的目光聚焦于这片热土。记者20日从上海市欧美同学会获悉，“千个海归创客圆梦计划”入围500强的项目名单出炉。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/497849c3-6576-4982-9f27-64c6db6da2e3_zsite.jpg",
+        "publishedAt": "2026-07-20T06:32:19.000Z",
         "source": "中新网"
       },
       {
-        "title": "赵乐际会见泰国总理阿努廷",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662840.shtml",
-        "summary": "新华社北京7月20日电 全国人大常委会委员长赵乐际7月20日上午在北京会见泰国总理阿努廷。",
+        "title": "“尖刀·使命”2026年全国公安特警挑战赛开赛 584人同台比拼",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662912.shtml",
+        "summary": "中新网乌鲁木齐7月20日电 (记者 郭超凯)7月20日，“尖刀·使命”2026年全国公安特警挑战赛在新疆乌鲁木齐开赛。来自全国各省、自治区、直辖市公安厅局，新疆生产建设兵团公安局，以及公安部特勤局、铁路公安局、海关总署缉私局、民航公安局、国家移民管理局等单位的55支参赛队、584名参赛队员齐聚天山脚...",
         "image": "",
-        "publishedAt": "2026-07-20T03:38:32.000Z",
+        "publishedAt": "2026-07-20T06:29:55.000Z",
         "source": "中新网"
       },
       {
-        "title": "两岸同胞北川“寻禹” 台湾“首来族”感受文化根脉",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662767.shtml",
-        "summary": "中新网绵阳7月20日电 (记者 王鹏)“大陆是我们的文化根源所在，我们理应多回来亲身感受。”19日，在四川省绵阳市北川羌族自治县，首次来到大陆的台湾华夏艺术画院青年学员吴同学说，希望未来有机会走访大陆更多地方，更深入了解中华传统文化。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260720/81ee668a-ffb8-41c1-a7cd-e8226f093bf0_zsite.jpeg",
-        "publishedAt": "2026-07-20T03:38:06.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "重庆彭水山体崩塌搜救持续进行 120余名专家现场协助救援处置",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662827.shtml",
-        "summary": "央视网消息：7月19日，重庆彭水山体崩塌现场人员搜救持续加紧进行，包括消防、中国安能在内的多支救援力量，在崩塌体两侧同时展开搜救作业。消防员与中国安能的大型机械相互配合，分区作业，对稳固废墟开展挖掘和破拆作业后，利用搜救犬和生命探测仪，不间断搜寻生命迹象。同时，消防出动水域救援编队，从下游6公里处沿...",
+        "title": "一名涉“银狐”木马病毒案犯罪嫌疑人从越南被押解回中国",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662915.shtml",
+        "summary": "中新社北京7月20日电 (记者 郭超凯)记者20日从中国公安部获悉，近日，按照公安部统一部署，在中国驻越南使馆全力支持以及越南公安部门积极配合下，山东省公安机关派出工作组赴越南成功接收某破坏计算机信息系统案首犯潘某君并将其押解回国。",
         "image": "",
-        "publishedAt": "2026-07-20T03:38:04.000Z",
+        "publishedAt": "2026-07-20T06:28:51.000Z",
         "source": "中新网"
       },
       {
-        "title": "国家主席习近平任免驻外大使",
-        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662839.shtml",
-        "summary": "新华社北京7月20日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使：",
+        "title": "西藏专家：让AI“会说”藏语，藏语言文化迎“数智化重构”变革",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662899.shtml",
+        "summary": "中新社拉萨7月20日电 题：西藏专家：让AI“会说”藏语，藏语言文化迎“数智化重构”变革",
         "image": "",
-        "publishedAt": "2026-07-20T03:37:14.000Z",
+        "publishedAt": "2026-07-20T06:11:54.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "工信部：加快出台“人工智能+软件”行动方案",
+        "link": "https://www.chinanews.com.cn/gn/2026/07-20/10662882.shtml",
+        "summary": "中新网7月20日电 7月20日，国新办就2026年上半年工业和信息化发展情况举行新闻发布会。工信部新闻发言人、运行监测协调局局长陶青透露，工信部将加快出台“人工智能+软件”行动方案，推动软件开发智能化转型、软件产品及服务智能化升级和智能体软件新业态培育。",
+        "image": "",
+        "publishedAt": "2026-07-20T06:08:14.000Z",
         "source": "中新网"
       }
     ],
     "international": [
+      {
+        "title": "‘You cannot hide from a drone strike’: The terror falling from the sky in Sudan",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FeE5VUmR0Vm1LeS1HbGQ5bGpKMFpvRGdVNlc3WnNDX3NuRkVQZDE3bDZMODlzaW8wZTNobGJsT2hkSTlxbU1BaUxzVjBqaXo3MlNpTzVnTlgyazB5VERQVUlWRDVleERfNENqRXN5QmJRVDN4REhDTlJpUQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-07-20T04:01:25.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Food delivery rider wins China's top literary prize",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg",
+        "publishedAt": "2026-07-20T03:53:07.000Z",
+        "source": "BBC"
+      },
       {
         "title": "Norway opens new memorial for victims of 2011 massacre",
         "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
@@ -478,7 +494,7 @@
         "title": "US soldier killed and one injured after Iranian attack in Iraq",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
         "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c6/live/42486a90-83fe-11f1-bee8-53ce494e1abc.jpg",
         "publishedAt": "2026-07-19T19:45:12.000Z",
         "source": "BBC"
       },
@@ -489,22 +505,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
         "publishedAt": "2026-07-19T18:25:40.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
-        "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
-        "publishedAt": "2026-07-19T14:50:11.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Tropical Depression Two forms in the Gulf, will bring heavy rain and coastal flooding",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTno5NmtySFJrTXd5UXd4Q0xyYlNZWFgxcjBYWFBUNzNPRzRoMGJlWnkxZlFtMmNVTXNqNUdWOElFZTFtOER0cGpwOTBXbkdQWjVKYU5mWmJPZUNvZ2JFMmZFemFjVEpGMll5OUdHanNKaFJ5TGZOdXJDMl9HellZZmh4TUJ6Zw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-07-19T13:41:57.000Z",
-        "source": "CNN"
       }
     ],
     "nba": []
