@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-19T04:44:27.410Z",
+  "generatedAt": "2026-08-19T08:47:56.517Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
       "temperature": 30,
-      "weatherCode": 2,
-      "windSpeed": 4
+      "weatherCode": 95,
+      "windSpeed": 8
     },
     "today": {
       "date": "2026-08-19",
-      "weatherCode": 51,
-      "description": "毛毛雨",
-      "max": 30,
+      "weatherCode": 55,
+      "description": "中雨",
+      "max": 32,
       "min": 22,
       "precipitationProbability": 51
     },
     "forecast": [
       {
         "date": "2026-08-19",
-        "weatherCode": 51,
-        "description": "毛毛雨",
-        "max": 30,
+        "weatherCode": 55,
+        "description": "中雨",
+        "max": 32,
         "min": 22,
         "precipitationProbability": 51
       },
@@ -34,26 +34,26 @@
       },
       {
         "date": "2026-08-21",
-        "weatherCode": 80,
-        "description": "阵雨",
-        "max": 31,
-        "min": 23,
+        "weatherCode": 51,
+        "description": "毛毛雨",
+        "max": 32,
+        "min": 22,
         "precipitationProbability": 80
       },
       {
         "date": "2026-08-22",
         "weatherCode": 95,
         "description": "雷暴",
-        "max": 31,
+        "max": 30,
         "min": 23,
         "precipitationProbability": 78
       },
       {
         "date": "2026-08-23",
-        "weatherCode": 53,
-        "description": "小雨",
+        "weatherCode": 95,
+        "description": "雷暴",
         "max": 32,
-        "min": 23,
+        "min": 25,
         "precipitationProbability": 55
       }
     ]
@@ -173,153 +173,137 @@
   "news": {
     "chinaTop": [
       {
-        "title": "首颗“雄安造”卫星成功入轨",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680202.shtml",
-        "summary": "中新社河北雄安8月19日电 (赵丹媚 韩冰)北京时间2026年8月19日，蓝箭鸿擎(雄安)空间科技有限公司(以下简称鸿擎科技)自主研制的鸿鹄03星，由朱雀三号遥二运载火箭于东风商业航天创新试验区成功发射入轨，卫星太阳翼顺利展开，各项遥测参数正常，发射任务取得圆满成功。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:35:56.000Z",
+        "title": "学习新语｜广大医务人员是最美的天使",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680425.shtml",
+        "summary": "视频：学习新语｜广大医务人员是最美的天使来源：新华社",
+        "image": "https://poss-videocloud.cns.com.cn/oss/2026/08/19/chinanews/MEIZI_YUNSHI/onair/2D0CD9DD7CD14877AF61AEC0AE9CBB82.mp4",
+        "publishedAt": "2026-08-19T08:45:39.000Z",
         "source": "中新网"
       },
       {
-        "title": "国家医保局发布《全民医疗保障“十五五”规划》解读",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680199.shtml",
-        "summary": "中新网8月19日电 据国家医保局网站消息，19日，国家医疗保障局发布《全民医疗保障“十五五”规划》解读。",
+        "title": "严查违规设立分支机构，民政部通报5起社会团体违法典型案例",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680390.shtml",
+        "summary": "中新网8月19日电 据民政部网站消息，8月19日，民政部社会组织管理局通报5起社会团体分支机构、代表机构违法典型案例。",
         "image": "",
-        "publishedAt": "2026-08-19T04:17:27.000Z",
+        "publishedAt": "2026-08-19T08:30:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "宜兴高铁即将开通 目前已转入运行试验阶段",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680196.shtml",
-        "summary": "中新网8月19日电 据“中国铁路”微信公众号消息，8月18日，55106次试验动车组列车从兴山站缓缓驶出，沿着新建宜昌至兴山高速铁路(以下简称“宜兴高铁”)驶向宜昌方向，标志着宜兴高铁从联调联试阶段正式转入运行试验阶段。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:14:10.000Z",
+        "title": "学习手记｜努力做党和人民信赖的好医生",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680404.shtml",
+        "summary": "2026年8月19日，第九个中国医师节。",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/860f2cd4a9754941b02eb792206bc483.png",
+        "publishedAt": "2026-08-19T08:23:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "近期货车肇事导致的群死群伤事故多发 公安部交管局发布提醒",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680190.shtml",
-        "summary": "中新网8月19日电 据公安部交管局消息，近期，辽宁、四川、江西、广西、山西、陕西等地接连发生货车肇事导致的群死群伤事故，需引起警醒警示。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:11:04.000Z",
+        "title": "外交部：中方愿同印尼遵循两国元首战略引领 办好两大机制会议",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680383.shtml",
+        "summary": "中新网北京8月19日电 (记者 郭超凯 谢雁冰)中国外交部发言人19日宣布：应韩国外长赵显、印尼外长苏吉约诺邀请，中共中央政治局委员、外交部长王毅将于8月19日至22日访问韩国、印尼。访问印尼期间，王毅将主持中国印尼全面战略对话机制首次会议，与国防部长董军共同出席中印尼外长防长“2＋2”对话机制第二...",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/96839aa8b184438aa02e94eb45d963f7.jpg",
+        "publishedAt": "2026-08-19T08:13:28.000Z",
         "source": "中新网"
       },
       {
-        "title": "“媚日恋殖”篡改历史 “终战”话术暗藏“台独”祸心",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680156.shtml",
-        "summary": "81年前的8月15日，日本宣布无条件投降。历经十四年浴血奋战，中国人民赢得抗日战争伟大胜利，台湾随之重回祖国怀抱。这是全体中华儿女共同的历史记忆，不容任何篡改与消解。",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/9e3d9d9add714122907f59c014213968.jpeg",
-        "publishedAt": "2026-08-19T04:05:50.000Z",
+        "title": "王毅将访问韩国 外交部介绍此访期待",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680384.shtml",
+        "summary": "中新网北京8月19日电(记者 郭超凯 李京泽)中国外交部发言人林剑19日主持例行记者会。",
+        "image": "",
+        "publishedAt": "2026-08-19T08:12:28.000Z",
         "source": "中新网"
       }
     ],
     "chinaSociety": [
       {
-        "title": "青海海西州直辖区5.6级地震 中国地震局启动四级应急响应",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680195.shtml",
-        "summary": "中新网北京8月19日电 (记者 孙自法)记者8月19日从中国地震局获悉，青海海西州直辖区当天清晨发生5.6级地震后，中国地震局迅即开展应急处置工作，启动四级应急响应。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:30:01.000Z",
+        "title": "全球首张食蟹猴全生命周期脑图谱揭示脑衰老真相",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680409.shtml",
+        "summary": "中新网深圳8月19日电 (索有为 王彧恬)总部位于深圳的华大集团19日发布消息称，由华大生命科学研究院牵头建设的基因组多维解析技术全国重点实验室、吉林大学人畜共患传染病重症诊治全国重点实验室主导，联合国内外科研团队绘制出全球首张覆盖全生命周期的食蟹猴脑多模态细胞图谱，完整还原灵长类大脑衰老的演变过程...",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260819/6d38a43d-506b-4f95-a44f-f02a77176fe7_zsite.jpg",
+        "publishedAt": "2026-08-19T08:38:33.000Z",
         "source": "中新网"
       },
       {
-        "title": "中国团队提出海岸带互花米草差异化治理新方案",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680193.shtml",
-        "summary": "中新网天津8月19日电 (记者 周亚强)记者19日从中国地质调查局天津地质调查中心获悉，该中心海岸带研究团队联合南京大学、南开大学科研团队，提出针对中国海岸带外来入侵物种互花米草的差异化治理新方案。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:19:55.000Z",
+        "title": "海外博主看中国｜中国机器人凭什么吸引全球采购商？",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680413.shtml",
+        "summary": "机器人产业被视作极具潜力的赛道，中国机器人产业的蓬勃发展活力也吸引了众多海外从业人员。来自法国的塞巴斯蒂安近日就来到深圳，为他所在的跨境采购企业寻找中国机器人领域的最新创新成果。",
+        "image": "https://poss-videocloud.cns.com.cn/oss/2026/08/19/chinanews/MEIZI_YUNSHI/onair/BDA0B47100984A3989C4C09AA6F99B01.mp4",
+        "publishedAt": "2026-08-19T08:31:19.000Z",
         "source": "中新网"
       },
       {
-        "title": "江苏推进中小学人工智能通识教育全覆盖",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680192.shtml",
-        "summary": "中新网南京8月19日电 (记者 徐珊珊)江苏省中小学人工智能通识教育课全覆盖项目18日在南京正式启动。该项目旨在落实国家教育数字化战略，推动基础教育高质量发展，确保秋季学期全面开课。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:19:29.000Z",
+        "title": "深圳注册医师超8万人 较去年同期增长3.87%",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680394.shtml",
+        "summary": "中新网深圳8月19日电 (索有为 深卫信 王彧恬)8月19日是第九个“中国医师节”。据深圳市卫生健康委当日发布的统计数据，截至7月31日，全市注册医师突破8万大关，达80876人，较去年同期增长3.87%。其中，执业医师76169人，占94.18%；执业助理医师4707人。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260819/43cdd57a-6bd8-49b5-afb5-58bf64e63c65_zsite.jpg",
+        "publishedAt": "2026-08-19T08:27:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "车泡水田被淹房受损，保险怎么赔",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680183.shtml",
-        "summary": "近日，今年第13号台风“白海豚”登陆后，华东沿海多地出现强降雨，车辆被淹、农田受灾、房屋和企业财产受损。据统计，截至8月11日12时，浙江、上海、江苏、江西等地区辖内保险机构共接报案近10万件，估损12亿元。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:10:24.000Z",
+        "title": "长江十年行｜城乡共饮一江水",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680412.shtml",
+        "summary": "临近傍晚，邓万秀放下手中的活计，准备接水做饭。",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/a256a672efd54e92ae9725d046235f15.jpg",
+        "publishedAt": "2026-08-19T08:27:28.000Z",
         "source": "中新网"
       },
       {
-        "title": "暑期入境游火爆 “真实的中国”圈粉全球游客",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680136.shtml",
-        "summary": "新华视点｜暑期入境游火爆 “真实的中国”圈粉全球游客",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/d5e6516fa73c4fe78d0a0f0277266dff.jpg",
-        "publishedAt": "2026-08-19T03:45:38.000Z",
+        "title": "“真实的中国新疆，远比想象中迷人”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680388.shtml",
+        "summary": "8月的龟兹故地，果蔬飘香。8月15日上午，“海外高校教师看新疆”参访团一行来到库车市。他们循着历史的足迹，先后走进龟兹非遗工坊、龟兹博物馆，在千年文明的脉络中，触摸这片土地的厚重与鲜活。",
+        "image": "",
+        "publishedAt": "2026-08-19T08:19:32.000Z",
         "source": "中新网"
       }
     ],
     "chinaFinance": [
       {
-        "title": "农村也要优化营商环境——推进乡村全面振兴系列谈之二",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680180.shtml",
-        "summary": "随着越来越多青年创业者返乡，乡村人气逐渐集聚，业态日益丰富。在一些地区，“营商环境”成为涉及农村产业发展的关键词之一，优化农村营商环境既有必要性，也有紧迫性。",
+        "title": "广西贵港出台“千帆计划” 全面融入平陆运河经济带建设",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680411.shtml",
+        "summary": "中新网贵港8月19日电(黄艳梅 李孔兰)西部陆海新通道骨干工程平陆运河通航进入倒计时之际，广西贵港市于日前正式出台《平陆运河赋能贵港发展“千帆计划”工作方案(2026—2028年)》，锚定“通航即运营”目标，加快培育超千艘现代化适航船队，全面融入平陆运河经济带建设。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260819/836809b3-534b-4950-a11a-7b0365308b70_zsite.jpg",
+        "publishedAt": "2026-08-19T08:40:15.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "宇树科技上市首日股价大涨 收盘市值超3400亿元",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680407.shtml",
+        "summary": "中新社北京8月19日电 (记者 陈康亮)备受关注的宇树科技19日正式登陆A股。当天宇树科技股价开盘大涨，随后涨幅有所收窄；截至收盘，宇树科技股价报每股845元(人民币，下同)，涨幅为460.34%，市值超3400亿元。",
         "image": "",
-        "publishedAt": "2026-08-19T04:13:10.000Z",
+        "publishedAt": "2026-08-19T08:36:51.000Z",
         "source": "中新网"
       },
       {
-        "title": "动能向新、结构向优 四大亮点解读1—7月经济数据",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680185.shtml",
-        "summary": "理响中国·聚焦2026中国经济丨动能向新、结构向优 四大亮点解读1—7月经济数据",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/953905c2d1b74d159e14c8dea42c33f0.png",
-        "publishedAt": "2026-08-19T04:06:46.000Z",
+        "title": "2026汽车轻量化大会向全球发出“英雄帖”：直击四大行业痛点",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680403.shtml",
+        "summary": "中新网扬州8月19日电 (徐珊珊 张子诺)8月19日，2026(第十九届)汽车轻量化大会组委会正式发布企业核心技术需求清单，面向全球征集解决方案。作为汽车轻量化领域极具行业影响力的年度盛会，本届大会将于9月9日至11日在江苏扬州会议中心举办，由中国汽车工程学会与汽车轻量化技术创新战略联盟联合主办。大...",
+        "image": "",
+        "publishedAt": "2026-08-19T08:35:39.000Z",
         "source": "中新网"
       },
       {
-        "title": "海南产经新观察：聚焦产业，海口塑造高质量发展新动能",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680158.shtml",
-        "summary": "中新网海口8月19日电 (张茜翼 张芷懿)步入“十五五”，海口将产业作为高质量发展的核心支撑。在18日举行的“开局起步‘十五五’”系列主题新闻发布会海口市专场上，海口亮出产业发展“施工图”，以“五型”产业锚定新赛道，用制造业升级和精准招商打开实体新空间。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260819/4dba25ed-b52b-4cc4-a90e-f13c92980bd2_zsite.jpg",
-        "publishedAt": "2026-08-19T03:38:18.000Z",
+        "title": "国产算力支撑4D世界模型加速产业化 魔芯科技完成新一轮5亿元融资",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680389.shtml",
+        "summary": "近日，位于杭州、专注4D世界模型研发应用的企业魔芯科技完成新一轮5亿元人民币融资。过去8个月，该公司已连续完成4轮融资，累计融资近10亿元。",
+        "image": "https://www.chinanews.com/cr/2026/0819/2091173550.JPG",
+        "publishedAt": "2026-08-19T08:22:26.000Z",
         "source": "中新网"
       },
       {
-        "title": "辽宁抚顺加快“三个转型” 系统重塑城市发展内生动力",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680135.shtml",
-        "summary": "中新网沈阳8月19日电 (王翕瞳)记者18日从辽宁省政府新闻办召开的发布会上获悉，辽宁抚顺加快“三个转型”，系统重塑城市发展内生动力。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260819/c66161d4-1386-467a-8399-5065cc1ac5c8_zsite.jpeg",
-        "publishedAt": "2026-08-19T03:28:05.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "海南产经新观察：扩消费，海口多措并举",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680141.shtml",
-        "summary": "中新网海口8月19日电 (张茜翼 张芷懿)“十五五”开局之年，海南自贸港核心城市海口亮出扩消费“路线图”。海口市商务局局长胡珊在海南省新闻办公室18日举行的新闻发布会上表示，海口将聚焦商品消费扩容升级、服务消费提质惠民、消费业态场景丰富、城乡消费融合发展四大领域，多措并举激活市场消费活力。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260819/17e22f80-3e07-48b4-a40e-d8f1b36c3140_zsite.jpg",
-        "publishedAt": "2026-08-19T03:24:15.000Z",
+        "title": "8月19日“农产品批发价格200指数”比昨天上升0.07个点",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680325.shtml",
+        "summary": "中新网8月19日电 据农业农村部网站消息，据农业农村部监测，8月19日“农产品批发价格200指数”为115.68，比昨天上升0.07个点，“菜篮子”产品批发价格指数为116.21，比昨天上升0.07个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为16.09元/公斤，比昨天上升0.6%；牛...",
+        "image": "",
+        "publishedAt": "2026-08-19T08:07:39.000Z",
         "source": "中新网"
       }
     ],
     "worldTop": [
       {
-        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade de...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-        "publishedAt": "2026-08-19T03:56:35.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jo...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
-        "publishedAt": "2026-08-19T03:39:41.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Husband and mother-in-law charged over Indian bride's death",
-        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-        "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg",
-        "publishedAt": "2026-08-19T03:04:07.000Z",
+        "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+        "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+        "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg",
+        "publishedAt": "2026-08-19T08:25:03.000Z",
         "source": "BBC"
       },
       {
@@ -327,7 +311,23 @@
         "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
-        "publishedAt": "2026-08-19T01:31:15.000Z",
+        "publishedAt": "2026-08-19T07:14:50.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jo...",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
+        "publishedAt": "2026-08-19T05:53:53.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+        "publishedAt": "2026-08-19T03:56:35.000Z",
         "source": "BBC"
       },
       {
@@ -341,19 +341,11 @@
     ],
     "worldBusiness": [
       {
-        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
         "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade de...",
+        "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
         "publishedAt": "2026-08-19T03:56:35.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Chinese robotics giant Unitree soars in stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
-        "publishedAt": "2026-08-19T03:26:27.000Z",
         "source": "BBC"
       },
       {
@@ -365,10 +357,18 @@
         "source": "CNN"
       },
       {
+        "title": "The critical tech staying safe by going underground",
+        "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+        "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
+        "publishedAt": "2026-08-18T23:25:21.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
         "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
         "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4b/live/92808ad0-97f7-11f1-9577-b1309b6ea3af.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fb/live/447e52e0-9ba3-11f1-a291-b542ee92de7c.jpg",
         "publishedAt": "2026-08-18T23:14:49.000Z",
         "source": "BBC"
       },
@@ -382,14 +382,6 @@
       }
     ],
     "worldTech": [
-      {
-        "title": "From heated rivalry to frenemies: Inside the cutthroat business of ruling tech in Asia",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14LV9ZdlhHcF9RTV9hM2JWWWJhXzR4c2dsUll2VDNCQ0FHb2ZKSzUtcTdDMmpfLWMxQ1YwYk1TOE9iYkM1Y3NodUVlWllYcnRuVXpIYkptX3hBbm5SRG04eGV2bmtzN2xQT0E2NFFYWQ?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-08-18T23:52:33.000Z",
-        "source": "CNN"
-      },
       {
         "title": "The critical tech staying safe by going underground",
         "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
@@ -415,6 +407,14 @@
         "source": "BBC"
       },
       {
+        "title": "Meta is back in the courtroom to face its biggest social media addiction trial yet",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE9GZktPRG1jdTVDZExPZThRU3V2VU8yS0REbXQwdHZDTWx1MktrLVBVWTVMcldlM2daQS1iZ0tiYV9ZOUp0NWR5UTRpZTRGTEVueWJ0RWp3S3ZaaGxIUVdLcjNzUkJBTER1dXI5ZTNVRHJmRWs4ekx4VGRObnY2eS1MelExVGRYRkV4bElZVXJKc3F6Y1FR?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-08-18T11:00:30.000Z",
+        "source": "CNN"
+      },
+      {
         "title": "AI to help planes avoid climate-warming 'sky graffiti'",
         "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
         "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
@@ -425,69 +425,53 @@
     ],
     "domestic": [
       {
-        "title": "首颗“雄安造”卫星成功入轨",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680202.shtml",
-        "summary": "中新社河北雄安8月19日电 (赵丹媚 韩冰)北京时间2026年8月19日，蓝箭鸿擎(雄安)空间科技有限公司(以下简称鸿擎科技)自主研制的鸿鹄03星，由朱雀三号遥二运载火箭于东风商业航天创新试验区成功发射入轨，卫星太阳翼顺利展开，各项遥测参数正常，发射任务取得圆满成功。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:35:56.000Z",
+        "title": "学习新语｜广大医务人员是最美的天使",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680425.shtml",
+        "summary": "视频：学习新语｜广大医务人员是最美的天使来源：新华社",
+        "image": "https://poss-videocloud.cns.com.cn/oss/2026/08/19/chinanews/MEIZI_YUNSHI/onair/2D0CD9DD7CD14877AF61AEC0AE9CBB82.mp4",
+        "publishedAt": "2026-08-19T08:45:39.000Z",
         "source": "中新网"
       },
       {
-        "title": "国家医保局发布《全民医疗保障“十五五”规划》解读",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680199.shtml",
-        "summary": "中新网8月19日电 据国家医保局网站消息，19日，国家医疗保障局发布《全民医疗保障“十五五”规划》解读。",
+        "title": "严查违规设立分支机构，民政部通报5起社会团体违法典型案例",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680390.shtml",
+        "summary": "中新网8月19日电 据民政部网站消息，8月19日，民政部社会组织管理局通报5起社会团体分支机构、代表机构违法典型案例。",
         "image": "",
-        "publishedAt": "2026-08-19T04:17:27.000Z",
+        "publishedAt": "2026-08-19T08:30:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "宜兴高铁即将开通 目前已转入运行试验阶段",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680196.shtml",
-        "summary": "中新网8月19日电 据“中国铁路”微信公众号消息，8月18日，55106次试验动车组列车从兴山站缓缓驶出，沿着新建宜昌至兴山高速铁路(以下简称“宜兴高铁”)驶向宜昌方向，标志着宜兴高铁从联调联试阶段正式转入运行试验阶段。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:14:10.000Z",
+        "title": "学习手记｜努力做党和人民信赖的好医生",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680404.shtml",
+        "summary": "2026年8月19日，第九个中国医师节。",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/860f2cd4a9754941b02eb792206bc483.png",
+        "publishedAt": "2026-08-19T08:23:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "近期货车肇事导致的群死群伤事故多发 公安部交管局发布提醒",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680190.shtml",
-        "summary": "中新网8月19日电 据公安部交管局消息，近期，辽宁、四川、江西、广西、山西、陕西等地接连发生货车肇事导致的群死群伤事故，需引起警醒警示。",
-        "image": "",
-        "publishedAt": "2026-08-19T04:11:04.000Z",
+        "title": "外交部：中方愿同印尼遵循两国元首战略引领 办好两大机制会议",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680383.shtml",
+        "summary": "中新网北京8月19日电 (记者 郭超凯 谢雁冰)中国外交部发言人19日宣布：应韩国外长赵显、印尼外长苏吉约诺邀请，中共中央政治局委员、外交部长王毅将于8月19日至22日访问韩国、印尼。访问印尼期间，王毅将主持中国印尼全面战略对话机制首次会议，与国防部长董军共同出席中印尼外长防长“2＋2”对话机制第二...",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/96839aa8b184438aa02e94eb45d963f7.jpg",
+        "publishedAt": "2026-08-19T08:13:28.000Z",
         "source": "中新网"
       },
       {
-        "title": "“媚日恋殖”篡改历史 “终战”话术暗藏“台独”祸心",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680156.shtml",
-        "summary": "81年前的8月15日，日本宣布无条件投降。历经十四年浴血奋战，中国人民赢得抗日战争伟大胜利，台湾随之重回祖国怀抱。这是全体中华儿女共同的历史记忆，不容任何篡改与消解。",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/19/9e3d9d9add714122907f59c014213968.jpeg",
-        "publishedAt": "2026-08-19T04:05:50.000Z",
+        "title": "王毅将访问韩国 外交部介绍此访期待",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680384.shtml",
+        "summary": "中新网北京8月19日电(记者 郭超凯 李京泽)中国外交部发言人林剑19日主持例行记者会。",
+        "image": "",
+        "publishedAt": "2026-08-19T08:12:28.000Z",
         "source": "中新网"
       }
     ],
     "international": [
       {
-        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade de...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-        "publishedAt": "2026-08-19T03:56:35.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jo...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
-        "publishedAt": "2026-08-19T03:39:41.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Husband and mother-in-law charged over Indian bride's death",
-        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-        "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg",
-        "publishedAt": "2026-08-19T03:04:07.000Z",
+        "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+        "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+        "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg",
+        "publishedAt": "2026-08-19T08:25:03.000Z",
         "source": "BBC"
       },
       {
@@ -495,7 +479,23 @@
         "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
-        "publishedAt": "2026-08-19T01:31:15.000Z",
+        "publishedAt": "2026-08-19T07:14:50.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jo...",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
+        "publishedAt": "2026-08-19T05:53:53.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+        "publishedAt": "2026-08-19T03:56:35.000Z",
         "source": "BBC"
       },
       {
