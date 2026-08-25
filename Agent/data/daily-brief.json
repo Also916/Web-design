@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T04:47:12.930Z",
+  "generatedAt": "2026-08-25T08:52:01.342Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 31,
-      "weatherCode": 96,
-      "windSpeed": 6
+      "temperature": 24,
+      "weatherCode": 81,
+      "windSpeed": 2
     },
     "today": {
       "date": "2026-08-25",
       "weatherCode": 96,
       "description": "天气更新中",
-      "max": 30,
+      "max": 31,
       "min": 24,
       "precipitationProbability": 100
     },
@@ -20,14 +20,14 @@
         "date": "2026-08-25",
         "weatherCode": 96,
         "description": "天气更新中",
-        "max": 30,
+        "max": 31,
         "min": 24,
         "precipitationProbability": 100
       },
       {
         "date": "2026-08-26",
-        "weatherCode": 55,
-        "description": "中雨",
+        "weatherCode": 61,
+        "description": "小雨",
         "max": 24,
         "min": 22,
         "precipitationProbability": 84
@@ -36,24 +36,24 @@
         "date": "2026-08-27",
         "weatherCode": 3,
         "description": "阴天",
-        "max": 29,
+        "max": 30,
         "min": 21,
         "precipitationProbability": 11
       },
       {
         "date": "2026-08-28",
-        "weatherCode": 63,
+        "weatherCode": 55,
         "description": "中雨",
-        "max": 23,
-        "min": 18,
+        "max": 25,
+        "min": 20,
         "precipitationProbability": 63
       },
       {
         "date": "2026-08-29",
-        "weatherCode": 3,
-        "description": "阴天",
-        "max": 28,
-        "min": 17,
+        "weatherCode": 2,
+        "description": "局部多云",
+        "max": 31,
+        "min": 18,
         "precipitationProbability": 1
       }
     ]
@@ -173,145 +173,153 @@
   "news": {
     "chinaTop": [
       {
-        "title": "韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683747.shtml",
-        "summary": "新华社北京8月25日电 国家副主席韩正25日在北京会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔。",
+        "title": "十四届全国人大常委会第二十四次会议在京举行 审议医疗保障法草案、道路交通安全法修订草案等 赵乐际主持",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683947.shtml",
+        "summary": "新华社北京8月25日电 十四届全国人大常委会第二十四次会议25日上午在北京人民大会堂举行第一次全体会议。赵乐际委员长主持。",
         "image": "",
-        "publishedAt": "2026-08-25T04:33:51.000Z",
+        "publishedAt": "2026-08-25T08:48:47.000Z",
         "source": "中新网"
       },
       {
-        "title": "两部门针对京津冀蒙青启动防汛四级应急响应",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683746.shtml",
-        "summary": "据气象部门预报，未来三天，西北地区、内蒙古、华北等地有明显降雨过程，青海东部和南部、内蒙古西部、河北中部、北京、天津等地部分地区有大到暴雨，其中部分地区有大暴雨，局地有特大暴雨。",
+        "title": "全球媒体聚焦｜中东媒体：约旦国王访华 两国合作发展迎来新机遇",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683939.shtml",
+        "summary": "约旦国王阿卜杜拉二世8月18日至24日对中国进行国事访问。访问期间，两国元首举行了会谈。双方发表关于深化中约战略伙伴关系的联合声明。连日来，多家中东媒体持续关注。",
         "image": "",
-        "publishedAt": "2026-08-25T04:31:03.000Z",
+        "publishedAt": "2026-08-25T08:46:21.000Z",
         "source": "中新网"
       },
       {
-        "title": "两部门针对浙江启动防汛防台风四级应急响应",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683745.shtml",
-        "summary": "今年第18号台风“沙德尔”(强台风级)将于8月26日进入东海，并向浙闽一带沿海靠近。受其影响，浙江东南部等地部分地区有大到暴雨。",
+        "title": "天津中医药大学第一附属医院原院长王金贵接受审查调查",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683914.shtml",
+        "summary": "中新网8月25日电 据天津市纪委监委消息：天津中医药大学第一附属医院原党委副书记、院长王金贵涉嫌严重违纪违法，目前正接受天津市纪委监委纪律审查和监察调查。",
         "image": "",
-        "publishedAt": "2026-08-25T04:27:31.000Z",
+        "publishedAt": "2026-08-25T08:28:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "一箭七星 长征六号丙运载火箭发射成功",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683743.shtml",
-        "summary": "中新网北京8月25日电 (马帅莎 李宸)北京时间8月25日11时21分，长征六号丙运载火箭在太原卫星发射中心发射升空，将中科卫星14星、中科卫星15星、木铎1A卫星、木铎1B卫星、静安梦想星、八一04星、银河航天灵知09泰国立方星等7颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/25/4fca044aa9194444b5f7a30a092add69.jpg",
-        "publishedAt": "2026-08-25T04:14:56.000Z",
+        "title": "张华林同志逝世",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683923.shtml",
+        "summary": "新华社北京8月25日电 原中央纪委驻文化部纪检组组长、原文化部党组成员张华林同志，因病于2026年8月7日在北京逝世，享年92岁。",
+        "image": "",
+        "publishedAt": "2026-08-25T08:27:32.000Z",
         "source": "中新网"
       },
       {
-        "title": "一箭七星！长征六号丙遥一运载火箭发射成功",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683732.shtml",
-        "summary": "北京时间2026年8月25日11时21分，长征六号丙遥一运载火箭在太原卫星发射中心发射升空，将中科卫星14星、中科卫星15星、木铎1A卫星、木铎1B卫星、静安梦想星、八一04星、银河航天灵知09泰国立方星等7颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
+        "title": "贵州省铜仁市人大常委会原党组书记胡洪成接受审查调查",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683912.shtml",
+        "summary": "中新网8月25日电 据贵州省纪委监委消息：贵州省铜仁市人大常委会原党组书记胡洪成涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
         "image": "",
-        "publishedAt": "2026-08-25T03:49:14.000Z",
+        "publishedAt": "2026-08-25T08:24:06.000Z",
         "source": "中新网"
       }
     ],
     "chinaSociety": [
       {
-        "title": "首条横跨京冀城市轨道有望年底开通",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683750.shtml",
-        "summary": "记者从北京市重大项目办和京投轨道公司获悉，今天(25日)，轨道交通22号线(红庙—平谷)正式开启空载试运行。该线作为“轨道上的京津冀”标志性工程，是首条横跨京冀两地的城市轨道交通线路。空载试运行标志着22号线向年底基本具备开通条件目标迈出了关键一步，京津冀交通一体化正从蓝图加速驶向现实。",
+        "title": "台湾台东县海域发生5.5级地震 福建沿海多地有明显震感",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683938.shtml",
+        "summary": "中新网福州8月25日电 (郑江洛)台湾台东县海域25日15时00分发生5.5级地震，福建沿海多地有明显震感。",
         "image": "",
-        "publishedAt": "2026-08-25T04:44:02.000Z",
+        "publishedAt": "2026-08-25T08:46:53.000Z",
         "source": "中新网"
       },
       {
-        "title": "“中国科技游”这把火，值得烧得更旺",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683741.shtml",
-        "summary": "创新谈丨“中国科技游”这把火，值得烧得更旺",
-        "image": "",
-        "publishedAt": "2026-08-25T04:08:18.000Z",
+        "title": "（乡村行·看振兴）江西临川凝聚乡贤力量 发展黄瓜产业助农增收",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683918.shtml",
+        "summary": "中新网抚州8月25日电 (付丽玲 李颖婷)“分叉必须拔掉，不然养分供应不足，瓜就长歪了。”时值八月，江西省抚州市临川区高坪镇贺坊村宝阳农业专业合作社种植基地内，一排排整齐的塑料大棚在阳光下格外醒目。大棚内，绿意盎然的藤蔓上挂满了鲜嫩饱满的黄瓜，基地负责人杨卫华正在熟练地给黄瓜整枝打杈。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/7ccf8c50-f77a-49a5-86cc-d7a6ec58ed9a_zsite.jpg",
+        "publishedAt": "2026-08-25T08:44:51.000Z",
         "source": "中新网"
       },
       {
-        "title": "广西左江龙州县城河段出现1986年以来最大洪水",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683717.shtml",
-        "summary": "中新网南宁8月25日电(陈沿佑 周也茹)广西壮族自治区水文中心25日提供的信息显示，8月25日3时10分，左江龙州水文站出现124.54米的洪峰水位(警戒水位117.20米)，超警7.34米，相应流量6780立方米每秒，为1986年以来实测最大洪水。",
-        "image": "",
-        "publishedAt": "2026-08-25T03:32:54.000Z",
+        "title": "我国老年助餐点达8.2万家 多元供给格局初步形成",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683930.shtml",
+        "summary": "中新网武汉8月25日电 (记者 马芙蓉)民政部养老服务司副司长孙文灿25日在武汉介绍，截至目前，全国老年助餐点达到8.2万家，每天为400万余人次老年人提供助餐服务，助餐服务网络覆盖城乡，多元供给格局初步形成。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/4273f802-3d7b-439d-8d3b-118c8b47aec7_zsite.jpg",
+        "publishedAt": "2026-08-25T08:41:39.000Z",
         "source": "中新网"
       },
       {
-        "title": "河北启动重大气象灾害（暴雨）Ⅲ级应急响应",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683714.shtml",
-        "summary": "中新网石家庄8月25日电 (王夏菲 冯艳蕊)河北省气象灾害防御指挥部于8月25日10时启动重大气象灾害(暴雨)Ⅲ级应急响应。",
-        "image": "",
-        "publishedAt": "2026-08-25T03:30:59.000Z",
+        "title": "活力中国调研行｜“全国最牛的5A级菜市场”，厉害在哪儿？",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683921.shtml",
+        "summary": "视频：活力中国调研行｜“全国最牛的5A级菜市场”，厉害在哪儿？来源：人民日报客户端",
+        "image": "https://poss-videocloud.cns.com.cn/oss/2026/08/25/chinanews/MEIZI_YUNSHI/onair/0A85CCEFF82341738777665E0C3C6AEF.mp4",
+        "publishedAt": "2026-08-25T08:27:02.000Z",
         "source": "中新网"
       },
       {
-        "title": "南宁市发布通告：受洪水影响 部分区域进入紧急防汛期",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683722.shtml",
-        "summary": "8月25日，广西南宁市应急管理委员会发布通告，全文如下：",
-        "image": "",
-        "publishedAt": "2026-08-25T03:30:21.000Z",
+        "title": "西双版纳会龙村：望天树下，幸福生活节节高",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683909.shtml",
+        "summary": "中新网云南西双版纳8月25日电 题：西双版纳会龙村：望天树下，幸福生活节节高",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/2845e90c-9f1c-46cf-9d1e-df660cb2129e_zsite.jpg",
+        "publishedAt": "2026-08-25T08:22:14.000Z",
         "source": "中新网"
       }
     ],
     "chinaFinance": [
       {
-        "title": "【理响中国·经视图】更好发挥财政职能作用优化投资方向",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683739.shtml",
-        "summary": "来源：中国经济网",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/25/b9dc299b50b64eae97e1128708d34595.jpg",
-        "publishedAt": "2026-08-25T04:02:48.000Z",
+        "title": "补链条、兴业态 农业大市山西运城推动现代农业发展",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683929.shtml",
+        "summary": "中新网太原8月25日电 (魏宇昕 李庭耀)25日，中共山西省委宣传部、山西省人民政府新闻办公室举办开局起步“十五五”系列主题新闻发布会。运城市副市长尚玉良表示，“十五五”期间，运城将坚定不移走好农业高质量发展之路，实施农业“特优”战略，做足做活“土特产”文章，强龙头、补链条、兴业态、树品牌，加快培育...",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/588207d9-a3bb-4230-96e0-689d19ddce73_zsite.jpg",
+        "publishedAt": "2026-08-25T08:46:15.000Z",
         "source": "中新网"
       },
       {
-        "title": "读懂“钟才文”，就是读懂了中国宏观经济治理的内在逻辑",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683736.shtml",
-        "summary": "8月22日至25日，《人民日报》又一次连续刊发四篇署名“钟才文”的系列文章，对如何看待中国经济形势和走势进行了深入分析。“钟才文”作为经济领域一个极有分量的符号，屡在重要时间节点发声，深度阐释经济工作考量和部署，已经成为所有研究中国经济的人士都必须关注的信息源。读懂这一次的“钟才文”四篇文章，需要找...",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/25/6b69d79a5f654ffcb81ecd37fa12e98f.jpg",
-        "publishedAt": "2026-08-25T03:54:43.000Z",
+        "title": "2026文昌国际航空航天论坛开幕 共探商业航天发展新路径",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683936.shtml",
+        "summary": "中新网海南文昌8月25日电 (记者 符宇群王晓斌)2026文昌国际航空航天论坛25日在海南省文昌市开幕。本届论坛以“箭返自贸港星启航天城”为主题，汇聚全球航天领域的院士专家、政府机构代表、领军企业负责人、投资界人士及国际组织代表等嘉宾，共探商业航天发展新路径，共谋产业合作新机遇。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/3f611c3b-acf0-427b-b77a-52047fd2bc4c_zsite.jpg",
+        "publishedAt": "2026-08-25T08:45:35.000Z",
         "source": "中新网"
       },
       {
-        "title": "A股午评：超3600只个股飘红，三大指数集体收跌",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683725.shtml",
-        "summary": "A股午评：超3600只个股飘红，三大指数集体收跌；餐饮旅游、港口、农业、地产上涨；黄金股大跌，半导体、海运、通信设备下挫",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/25/49d6dbfa51634eeb913d2bf017b5a7d6.jpg",
-        "publishedAt": "2026-08-25T03:43:54.000Z",
+        "title": "直播海报：国新办就全力抓好“十五五”规划实施，加快推进新型工业化有关情况举行发布会",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683932.shtml",
+        "summary": "",
+        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/25/8570ef91df304dd39f78ca5349a80771.jpg",
+        "publishedAt": "2026-08-25T08:36:57.000Z",
         "source": "中新网"
       },
       {
-        "title": "广州海关累计监管市场采购出口化妆品货值超4900万元",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683716.shtml",
-        "summary": "中新网广州8月25日电 (许青青 关悦)广州海关25日发布信息显示，全国首批市场采购贸易方式出口化妆品试点业务自2025年8月落地广州一年来，广州海关累计监管市场采购出口化妆品货值超4900万元，主要出口阿尔及利亚、摩洛哥、安哥拉等25个国家和地区。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/e1c75ffc-0009-4a84-b653-48b24d5c6ca5_zsite.jpg",
-        "publishedAt": "2026-08-25T03:35:26.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "HICOOL2026全球创业者峰会将启幕 参赛人数创新高",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683713.shtml",
-        "summary": "中新网北京8月25日电 (记者 陈杭 徐婧)8月26日至29日，HICOOL2026全球创业者峰会将在北京中国国际展览中心(顺义馆)举行。本届峰会以“从创新源头到产业潮头”为主题，会期首次延长至4天，预计汇聚超5万人次来自世界各地的创新力量。",
+        "title": "今年1-7月份我国高技术产业吸引外资同比增长32.7%",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683904.shtml",
+        "summary": "中新网8月25日电 国务院新闻办公室25日举行新闻发布会，介绍第二十六届中国国际投资贸易洽谈会有关情况。",
         "image": "",
-        "publishedAt": "2026-08-25T03:29:13.000Z",
+        "publishedAt": "2026-08-25T08:22:04.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "辽宁北镇：一颗葡萄串起四季增收链",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683903.shtml",
+        "summary": "中新网锦州8月25日电 题：辽宁北镇：一颗葡萄串起四季增收链",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/260825/2f6cbc36-043d-406d-8408-ebf6d3ed2a89_zsite.jpeg",
+        "publishedAt": "2026-08-25T08:21:58.000Z",
         "source": "中新网"
       }
     ],
     "worldTop": [
       {
-        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
         "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-        "publishedAt": "2026-08-25T03:50:06.000Z",
+        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg",
+        "publishedAt": "2026-08-25T08:08:26.000Z",
         "source": "BBC"
       },
       {
-        "title": "NZ religious sect leader jailed over death of Chinese follower",
-        "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-        "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/cb512020-a02d-11f1-a291-b542ee92de7c.jpg",
-        "publishedAt": "2026-08-25T03:07:34.000Z",
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg",
+        "publishedAt": "2026-08-25T06:59:03.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/46b9e240-a049-11f1-aed2-8d6da8d75094.jpg",
+        "publishedAt": "2026-08-25T04:06:34.000Z",
         "source": "BBC"
       },
       {
@@ -320,14 +328,6 @@
         "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg",
         "publishedAt": "2026-08-25T02:08:57.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-        "publishedAt": "2026-08-25T01:48:24.000Z",
         "source": "BBC"
       },
       {
@@ -341,47 +341,55 @@
     ],
     "worldBusiness": [
       {
-        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
         "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-        "publishedAt": "2026-08-25T03:50:06.000Z",
+        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg",
+        "publishedAt": "2026-08-25T08:08:26.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "How Canada could hit back to hurt the US economy - and Trump",
-        "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-        "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
-        "publishedAt": "2026-08-25T02:49:22.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Target apologizes for children’s clown Halloween costume after backlash",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSndsYU5lNTZkVFVabV9FUnQtbndyNUIzQTZ4ZnhzUFNLeTVSUEJpUUVBY0xxcUNUcmZ0MFd4WnlReW9GdkJRelNYekhTUWRwZFE3Ukt6LTlwZHVpU2hDTlhkMkdEQU5lY08wSURjWUY1SVcxR3gxOXk4UFAtYTk2UEU0SktkZkpSSW14bVBnVXoxZw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-08-25T02:06:00.000Z",
-        "source": "CNN"
       },
       {
         "title": "Burnham refuses to rule out tax rises in autumn Budget",
         "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
         "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg",
-        "publishedAt": "2026-08-25T01:35:47.000Z",
+        "publishedAt": "2026-08-25T06:40:33.000Z",
         "source": "BBC"
       },
       {
-        "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-        "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
-        "publishedAt": "2026-08-24T23:04:17.000Z",
+        "title": "The US says it’ll crack down on countries doing business with Iran. Who’s buying Iranian oil?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYWU0ZFZja1B4NEJzcDZpbEJqTGlfMW52X1VlRFNMc0dzdnRQSXFRS3NuSXFKRnlmdHFnQVNTYUx3RlVHaW1JRkNSeVpaaGRNQjZQZEJiMnlRTFRpX1diaGE5dkdyVFozdWl3emdpWmpXNkpnOFE?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-08-25T06:00:29.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Young Americans have higher credit scores today than before Covid",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGZueHdGa0NMZ1lWQ2JHNVYyWXhvUTc5ZU1FTkkxNUdmQ243a0cyNi1MQkRLdjRzdjN1SHhub3VlUHBqd1hFa0NhRVJEdEhWSS1pRnd0dW9acFZRQ2dHTHZiWjJUalFTMkQwVHRyR09PTXhGcEZnMUlGZS1VWUtUYmxpZkFaVXVtOTNJcEtNTkY?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-08-25T04:05:29.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "How Canada could hit back to hurt the US economy - and Trump",
+        "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+        "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+        "publishedAt": "2026-08-25T02:49:22.000Z",
         "source": "BBC"
       }
     ],
     "worldTech": [
+      {
+        "title": "Songs created by AI banned from Australia's music charts",
+        "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+        "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
+        "publishedAt": "2026-08-25T04:54:01.000Z",
+        "source": "BBC"
+      },
       {
         "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
         "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
@@ -413,73 +421,73 @@
         "image": "",
         "publishedAt": "2026-08-24T07:38:00.000Z",
         "source": "CNN"
-      },
-      {
-        "title": "Drones are the latest buzzy tech aimed at stopping a school shooting. They’re part of a billion-dollar industry",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzZ19hZzdOa3BRbEZhT3lOOHphb2VtUVZySlJOT09qRDViY2lyTHlzNG14WldZMzlacU9CWVJuSVpMcWoycWRLUE5rUVk4LU80a1RMR2JHUlgzcWhzcWZlMG02emdIb3pyQWdLVXpVa0RSbF93TVItaXpxZURVblU?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-08-24T07:00:29.000Z",
-        "source": "CNN"
       }
     ],
     "domestic": [
       {
-        "title": "韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683747.shtml",
-        "summary": "新华社北京8月25日电 国家副主席韩正25日在北京会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔。",
+        "title": "十四届全国人大常委会第二十四次会议在京举行 审议医疗保障法草案、道路交通安全法修订草案等 赵乐际主持",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683947.shtml",
+        "summary": "新华社北京8月25日电 十四届全国人大常委会第二十四次会议25日上午在北京人民大会堂举行第一次全体会议。赵乐际委员长主持。",
         "image": "",
-        "publishedAt": "2026-08-25T04:33:51.000Z",
+        "publishedAt": "2026-08-25T08:48:47.000Z",
         "source": "中新网"
       },
       {
-        "title": "两部门针对京津冀蒙青启动防汛四级应急响应",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683746.shtml",
-        "summary": "据气象部门预报，未来三天，西北地区、内蒙古、华北等地有明显降雨过程，青海东部和南部、内蒙古西部、河北中部、北京、天津等地部分地区有大到暴雨，其中部分地区有大暴雨，局地有特大暴雨。",
+        "title": "全球媒体聚焦｜中东媒体：约旦国王访华 两国合作发展迎来新机遇",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683939.shtml",
+        "summary": "约旦国王阿卜杜拉二世8月18日至24日对中国进行国事访问。访问期间，两国元首举行了会谈。双方发表关于深化中约战略伙伴关系的联合声明。连日来，多家中东媒体持续关注。",
         "image": "",
-        "publishedAt": "2026-08-25T04:31:03.000Z",
+        "publishedAt": "2026-08-25T08:46:21.000Z",
         "source": "中新网"
       },
       {
-        "title": "两部门针对浙江启动防汛防台风四级应急响应",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683745.shtml",
-        "summary": "今年第18号台风“沙德尔”(强台风级)将于8月26日进入东海，并向浙闽一带沿海靠近。受其影响，浙江东南部等地部分地区有大到暴雨。",
+        "title": "天津中医药大学第一附属医院原院长王金贵接受审查调查",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683914.shtml",
+        "summary": "中新网8月25日电 据天津市纪委监委消息：天津中医药大学第一附属医院原党委副书记、院长王金贵涉嫌严重违纪违法，目前正接受天津市纪委监委纪律审查和监察调查。",
         "image": "",
-        "publishedAt": "2026-08-25T04:27:31.000Z",
+        "publishedAt": "2026-08-25T08:28:40.000Z",
         "source": "中新网"
       },
       {
-        "title": "一箭七星 长征六号丙运载火箭发射成功",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683743.shtml",
-        "summary": "中新网北京8月25日电 (马帅莎 李宸)北京时间8月25日11时21分，长征六号丙运载火箭在太原卫星发射中心发射升空，将中科卫星14星、中科卫星15星、木铎1A卫星、木铎1B卫星、静安梦想星、八一04星、银河航天灵知09泰国立方星等7颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/08/25/4fca044aa9194444b5f7a30a092add69.jpg",
-        "publishedAt": "2026-08-25T04:14:56.000Z",
+        "title": "张华林同志逝世",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683923.shtml",
+        "summary": "新华社北京8月25日电 原中央纪委驻文化部纪检组组长、原文化部党组成员张华林同志，因病于2026年8月7日在北京逝世，享年92岁。",
+        "image": "",
+        "publishedAt": "2026-08-25T08:27:32.000Z",
         "source": "中新网"
       },
       {
-        "title": "一箭七星！长征六号丙遥一运载火箭发射成功",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683732.shtml",
-        "summary": "北京时间2026年8月25日11时21分，长征六号丙遥一运载火箭在太原卫星发射中心发射升空，将中科卫星14星、中科卫星15星、木铎1A卫星、木铎1B卫星、静安梦想星、八一04星、银河航天灵知09泰国立方星等7颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
+        "title": "贵州省铜仁市人大常委会原党组书记胡洪成接受审查调查",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683912.shtml",
+        "summary": "中新网8月25日电 据贵州省纪委监委消息：贵州省铜仁市人大常委会原党组书记胡洪成涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
         "image": "",
-        "publishedAt": "2026-08-25T03:49:14.000Z",
+        "publishedAt": "2026-08-25T08:24:06.000Z",
         "source": "中新网"
       }
     ],
     "international": [
       {
-        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
         "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-        "publishedAt": "2026-08-25T03:50:06.000Z",
+        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg",
+        "publishedAt": "2026-08-25T08:08:26.000Z",
         "source": "BBC"
       },
       {
-        "title": "NZ religious sect leader jailed over death of Chinese follower",
-        "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-        "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/cb512020-a02d-11f1-a291-b542ee92de7c.jpg",
-        "publishedAt": "2026-08-25T03:07:34.000Z",
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg",
+        "publishedAt": "2026-08-25T06:59:03.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/46b9e240-a049-11f1-aed2-8d6da8d75094.jpg",
+        "publishedAt": "2026-08-25T04:06:34.000Z",
         "source": "BBC"
       },
       {
@@ -488,14 +496,6 @@
         "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg",
         "publishedAt": "2026-08-25T02:08:57.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-        "publishedAt": "2026-08-25T01:48:24.000Z",
         "source": "BBC"
       },
       {
