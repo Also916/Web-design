@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-03T19:09:29.358Z",
+  "generatedAt": "2026-10-03T22:48:39.806Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 15,
+      "temperature": 14,
       "weatherCode": 1,
-      "windSpeed": 24
+      "windSpeed": 19
     },
     "today": {
       "date": "2026-10-04",
@@ -315,14 +315,6 @@
         "source": "BBC"
       },
       {
-        "title": "2 Iranian men charged over alleged bomb plot to target UK Jewish community appear in court",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkVlZjN5ay1lbzVTMnhIUkc3Z1N6STlNRVAxb282OGpacVptaVFlc184eWlDQU5ubmMxWjRQWFVoQjdzaGZVbFVBSEprd3lBeEhwaUJFWTR6cW85d2thX0gxUFV4YWFwOTJNX1RZaXhza2UyTnZYbWZHT3JETnMycEh6N0tUbnBPaVJj?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-10-03T14:38:00.000Z",
-        "source": "CNN"
-      },
-      {
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
         "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
@@ -336,6 +328,14 @@
         "summary": "",
         "image": "",
         "publishedAt": "2026-10-03T14:02:50.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "One dead and scores rescued in floods in Spain",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTzlNU0pfZ0Q4V2VXTkVId21pdTYwd3pteXZJR3NSYUdET2pKWVNzS0hqTmV6XzE1ZzRkdnh6ZE1KcXV1VHRLUjBFWHVSdDV0Vk1QYTZ0ZE1IbzBFT093eWVmeVpIUURKREMyYm9zYkduN1p0LS1qNkg1TQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-10-03T13:43:12.000Z",
         "source": "CNN"
       }
     ],
@@ -373,12 +373,12 @@
         "source": "CNN"
       },
       {
-        "title": "Black unemployment just rose at its fastest pace since Covid",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sdzliSXN1NFVNVG1Uc19KQ0NSeTFkcXBGdFVabDNIbWo1eDA0MVZvck9kV3E0T0drYThOQVRJQldHdFE2TTlvVjBycTR4U3Zfczc4U1VSSnZ0ODVCakNkWTlWZWNtQ014VEl2dHZ5dw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-10-02T17:52:24.000Z",
-        "source": "CNN"
+        "title": "UK diesel prices top £2 a litre for first time, RAC says",
+        "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg",
+        "publishedAt": "2026-10-02T15:50:05.000Z",
+        "source": "BBC"
       }
     ],
     "worldTech": [
@@ -483,14 +483,6 @@
         "source": "BBC"
       },
       {
-        "title": "2 Iranian men charged over alleged bomb plot to target UK Jewish community appear in court",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkVlZjN5ay1lbzVTMnhIUkc3Z1N6STlNRVAxb282OGpacVptaVFlc184eWlDQU5ubmMxWjRQWFVoQjdzaGZVbFVBSEprd3lBeEhwaUJFWTR6cW85d2thX0gxUFV4YWFwOTJNX1RZaXhza2UyTnZYbWZHT3JETnMycEh6N0tUbnBPaVJj?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-10-03T14:38:00.000Z",
-        "source": "CNN"
-      },
-      {
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
         "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
@@ -504,6 +496,14 @@
         "summary": "",
         "image": "",
         "publishedAt": "2026-10-03T14:02:50.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "One dead and scores rescued in floods in Spain",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTzlNU0pfZ0Q4V2VXTkVId21pdTYwd3pteXZJR3NSYUdET2pKWVNzS0hqTmV6XzE1ZzRkdnh6ZE1KcXV1VHRLUjBFWHVSdDV0Vk1QYTZ0ZE1IbzBFT093eWVmeVpIUURKREMyYm9zYkduN1p0LS1qNkg1TQ?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-10-03T13:43:12.000Z",
         "source": "CNN"
       }
     ],
