@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-15T04:22:44.402Z",
+  "generatedAt": "2026-10-15T13:18:24.146Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 25,
-      "weatherCode": 0,
-      "windSpeed": 4
+      "temperature": 19,
+      "weatherCode": 1,
+      "windSpeed": 5
     },
     "today": {
       "date": "2026-10-15",
-      "weatherCode": 3,
-      "description": "阴天",
-      "max": 26,
+      "weatherCode": 1,
+      "description": "基本晴",
+      "max": 27,
       "min": 10,
       "precipitationProbability": 0
     },
     "forecast": [
       {
         "date": "2026-10-15",
-        "weatherCode": 3,
-        "description": "阴天",
-        "max": 26,
+        "weatherCode": 1,
+        "description": "基本晴",
+        "max": 27,
         "min": 10,
         "precipitationProbability": 0
       },
@@ -29,24 +29,24 @@
         "weatherCode": 53,
         "description": "小雨",
         "max": 18,
-        "min": 14,
-        "precipitationProbability": 55
+        "min": 13,
+        "precipitationProbability": 53
       },
       {
         "date": "2026-10-17",
-        "weatherCode": 82,
-        "description": "暴雨",
-        "max": 15,
+        "weatherCode": 81,
+        "description": "强阵雨",
+        "max": 17,
         "min": 12,
         "precipitationProbability": 100
       },
       {
         "date": "2026-10-18",
-        "weatherCode": 51,
-        "description": "毛毛雨",
+        "weatherCode": 3,
+        "description": "阴天",
         "max": 17,
-        "min": 7,
-        "precipitationProbability": 44
+        "min": 9,
+        "precipitationProbability": 68
       },
       {
         "date": "2026-10-19",
@@ -54,7 +54,7 @@
         "description": "阴天",
         "max": 17,
         "min": 6,
-        "precipitationProbability": 0
+        "precipitationProbability": 2
       }
     ]
   },
@@ -173,137 +173,161 @@
   "news": {
     "chinaTop": [
       {
-        "title": "成都市原市长王凤朝涉嫌受贿被公诉",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714900.shtml",
-        "summary": "中新社北京10月15日电 (记者 张素)中国最高人民检察院15日通报四川省成都市委原副书记、市政府原市长王凤朝涉嫌受贿一案进展。最高检依法以涉嫌受贿罪对王凤朝作出逮捕决定，并指定由湖南省长沙市人民检察院审查起诉。",
+        "title": "李强同多哥部长会议主席福雷会谈",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715303.shtml",
+        "summary": "中新社北京10月15日电 10月15日下午，中国国务院总理李强在北京人民大会堂同来华进行正式访问的多哥部长会议主席福雷举行会谈。",
         "image": "",
-        "publishedAt": "2026-10-15T04:04:36.000Z",
+        "publishedAt": "2026-10-15T13:13:58.000Z",
         "source": "中新网"
       },
       {
-        "title": "青海省果洛州政府原党组成员、副州长西热被查",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714884.shtml",
-        "summary": "中新网10月15日电 据青海省纪委监委消息：青海省果洛州政府原党组成员、副州长西热涉嫌严重违纪违法，主动投案，目前正接受青海省纪委监委纪律审查和监察调查。",
+        "title": "李强会见博茨瓦纳总统博科",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715302.shtml",
+        "summary": "中新社北京10月15日电 10月15日下午，中国国务院总理李强在北京人民大会堂会见来华进行国事访问的博茨瓦纳总统博科。",
         "image": "",
-        "publishedAt": "2026-10-15T03:16:38.000Z",
+        "publishedAt": "2026-10-15T13:13:46.000Z",
         "source": "中新网"
       },
       {
-        "title": "“人工智能污染”来袭，如何应对",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714886.shtml",
-        "summary": "【光明青年论坛】",
+        "title": "阁皂山祭祖典礼在“中国药都”樟树举行",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715268.shtml",
+        "summary": "中新网樟树10月15日电 (熊锦阳)10月15日，阁皂山祭祖典礼在江西省樟树市举行，前来参加樟树第57届全国药材药品交易会的药企药商、社会各界人士参加活动。",
         "image": "",
-        "publishedAt": "2026-10-15T03:14:28.000Z",
+        "publishedAt": "2026-10-15T12:39:46.000Z",
         "source": "中新网"
       },
       {
-        "title": "以大湾区为创新实践沃土 专家研讨涉外检察制度建构与实践探索",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714883.shtml",
-        "summary": "中新网北京10月15日电 (记者 张素)“粤港澳大湾区作为国家对外开放前沿阵地，涉外要素集中、跨境场景丰富，是涉外检察创新实践的重要沃土。”最高人民检察院国际合作局局长刘志远近日在一场活动上说。",
+        "title": "“长城-2026”反恐国际论坛在北京闭幕",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715258.shtml",
+        "summary": "中新社北京10月15日电 (记者 李纯)由中国人民武装警察部队举办的“长城-2026”反恐国际论坛15日在北京闭幕。",
         "image": "",
-        "publishedAt": "2026-10-15T03:10:43.000Z",
+        "publishedAt": "2026-10-15T12:30:24.000Z",
         "source": "中新网"
       },
       {
-        "title": "何立峰会见美国桥水投资公司创始人达利欧",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714859.shtml",
-        "summary": "中新社北京10月15日电 中共中央政治局委员、中央财办主任何立峰14日在北京会见美国桥水投资公司创始人达利欧。",
+        "title": "中华人民共和国政府和多哥共和国政府关于构建新时代中多命运共同体的联合声明",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715249.shtml",
+        "summary": "新华社北京10月15日电",
         "image": "",
-        "publishedAt": "2026-10-15T03:09:25.000Z",
+        "publishedAt": "2026-10-15T12:16:37.000Z",
         "source": "中新网"
       }
     ],
     "chinaSociety": [
       {
-        "title": "说到“长征”，你最先想到的是什么？长征记忆从哪来？",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714891.shtml",
-        "summary": "原标题：提到“长征”，69.7%受访者首先想到爬雪山过草地",
+        "title": "山西省消协提醒老年消费者：警惕私域直播、免费体验等消费陷阱",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715283.shtml",
+        "summary": "中新网太原10月15日电 (记者 杨杰英)重阳节将至，老年消费市场迎来旺季。当前，山西省2026年“敬老月”活动正在开展，主题为“强化权益保障守护银龄安全”。为维护老年消费者合法权益，引导科学、理性、安全消费，山西省消协发布消费安全提示。",
         "image": "",
-        "publishedAt": "2026-10-15T03:21:30.000Z",
+        "publishedAt": "2026-10-15T12:43:37.000Z",
         "source": "中新网"
       },
       {
-        "title": "2026年崔致远祭享活动在扬州举行 120余名韩国崔氏宗亲缅怀先贤",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714882.shtml",
-        "summary": "中新网扬州10月15日电 (徐珊珊 邢熠)10月15日是扬州市“中韩友好交流日”。当日，文昌侯崔致远先生祭享活动在位于扬州蜀冈唐子城之上的崔致远纪念馆举行。韩国庆州崔氏中央宗亲会访问团120余名崔氏宗亲与扬州崔致远纪念馆全体员工相聚一堂，缅怀先贤、共叙情谊。扬州市政府外事办公室主任袁慧中参加活动。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/90e1b0d7-0b29-497c-ac46-e0c92036dda8_zsite.jpeg",
-        "publishedAt": "2026-10-15T03:10:17.000Z",
+        "title": "安徽膏方节“新表达” 留学生成中医粉",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715279.shtml",
+        "summary": "中新网合肥10月15日电 (记者 储玮玮)“今天在现场我感觉很震撼，第一次接触了艾灸。作为大一新生，我来中国留学，就是想把中医药文化带回马来西亚去发扬光大。”15日，在安徽省中医院第十九届膏方文化传承节现场，安徽中医药大学的马来西亚籍留学生吴宜丰说。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/b1e0f3ae-57d8-4348-8674-35c0e0fa5267_zsite.jpg",
+        "publishedAt": "2026-10-15T12:43:31.000Z",
         "source": "中新网"
       },
       {
-        "title": "探访厦门同安台创园：一颗杨桃 台农三代接力",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714879.shtml",
-        "summary": "中新网厦门10月15日电 (记者 林永传)金秋时节，中新网记者走进厦门同安台湾农民创业园(简称“台创园”)内的芳都观光果园，只见100多亩果园里，杨桃、芭乐长势正旺，一串串金黄杨桃挂满枝头。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/e1ec3d29-4f73-4b1c-8b4c-3d9f2c450245_zsite.jpg",
-        "publishedAt": "2026-10-15T03:07:31.000Z",
+        "title": "广州秋游旺季来临 慢病中老年出游需警惕带状疱疹风险",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715278.shtml",
+        "summary": "中新网广州10月15日电 (记者 蔡敏婕)秋高气爽，广州迎来出游旺季。对于中老年慢病人群而言，出游不仅是一场旅程，也是一场健康管理能力的考验。",
+        "image": "",
+        "publishedAt": "2026-10-15T12:43:27.000Z",
         "source": "中新网"
       },
       {
-        "title": "北方大部气温将转为偏低 长江及其以北大部地区多降水",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714873.shtml",
-        "summary": "中新网10月15日电 据中央气象台网站消息，未来10天(10月15日-24日)，西北地区东部、华北中北部、黄淮、江淮和东北地区大部累计降水量有10～30毫米，长江中下游地区、黄淮南部和东北地区南部累计降水量有50～80毫米，其中四川东北部、重庆北部、贵州东北部、湖北、湖南北部等地有100～150毫米...",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/10/15/5b0043789d5d46049aa9af0292abd9de.jpg",
-        "publishedAt": "2026-10-15T03:02:15.000Z",
+        "title": "黑龙江10月17日将迎雨雪大风降温 大兴安岭局地有暴雪",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715274.shtml",
+        "summary": "中新网哈尔滨10月15日电(记者 王妮娜)黑龙江省气象局10月15日发布消息，预计10月17日至19日，黑龙江省大部有一次雨雪、大风、降温天气过程。其中17日和18日，大兴安岭局部地区有暴雪。",
+        "image": "",
+        "publishedAt": "2026-10-15T12:41:18.000Z",
         "source": "中新网"
       },
       {
-        "title": "湖北湖南江西重庆贵州等地将有短时强降水天气",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714845.shtml",
-        "summary": "中新网10月15日电 据中央气象台网站消息，10月15日，中央气象台发布强对流天气预报。",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/10/15/9bc64efa6edd45008d2ed2bf7dc27d1b.jpg",
-        "publishedAt": "2026-10-15T02:49:46.000Z",
+        "title": "山西省2026年“敬老月”活动启动 守护老年群体合法权益",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715277.shtml",
+        "summary": "中新网忻州10月15日电 (刘小红)15日，2026年山西省“敬老月”活动暨忻州市“敬老月”主题活动启动仪式在忻州市举办，此次活动主题为“强化权益保障 守护银龄安全”。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/2aecb114-d4d4-40eb-8d66-ae1d372a5ab0_zsite.jpg",
+        "publishedAt": "2026-10-15T12:41:16.000Z",
         "source": "中新网"
       }
     ],
     "chinaFinance": [
       {
-        "title": "专家：中欧混动汽车贸易达成“三大原则”稳预期利好多",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714905.shtml",
-        "summary": "中新社北京10月15日电 (段修健)近日，中欧双方就混动汽车贸易达成谅解，双方强调并确认了三项基本原则：尊重事实、非歧视、合规。专家认为，通过谈判达成共识，有利于稳定市场预期，将为中国企业带来诸多利好。",
+        "title": "2026动物福利与可持续农食大会在北京开幕 助力中非农业合作",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715281.shtml",
+        "summary": "中新网北京10月15日电 (记者 徐婧)2026动物福利与可持续农食大会15日在北京市平谷区金海湖国际会展中心开幕。大会开展多层次对话交流，发布多项行业研究成果，落地系列产业合作签约，推动国际理念、技术、资源持续集聚，助力区域产业高质量发展。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/ba8357b8-1d59-4283-8ca7-6a4920627318_zsite.jpg",
+        "publishedAt": "2026-10-15T12:43:33.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "江淮运河航运枢纽能力实现重大升级",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715271.shtml",
+        "summary": "中新网合肥10月15日电 (记者 张强)记者15日从安徽省引江济淮集团有限公司获悉，引江济淮蜀山复线船闸当日启动试运行，标志着江淮运河航运枢纽能力实现重大升级。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/008d2555-07b5-414b-9d59-238da3bfdde4_zsite.jpg",
+        "publishedAt": "2026-10-15T12:39:54.000Z",
+        "source": "中新网"
+      },
+      {
+        "title": "“并购六条”实施两周年：沪市主板重组不断“进化”",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715269.shtml",
+        "summary": "中新网上海10月15日电 (高志苗)记者15日从上海证券交易所获悉，“并购六条”发布两年来，沪市主板重组保持活跃并不断“进化”：数量上，新增披露现金非重大类重组超过1200单、披露重大资产重组117单。整合方向上，产业化并购的逻辑不断强化，发展新质生产力、产业转型升级的案例层出不穷、大型重组与常态化...",
         "image": "",
-        "publishedAt": "2026-10-15T04:13:35.000Z",
+        "publishedAt": "2026-10-15T12:39:50.000Z",
         "source": "中新网"
       },
       {
-        "title": "韩国股市暴跌触发熔断机制",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714908.shtml",
-        "summary": "韩国综合股价指数(KOSPI)15日盘中一度暴跌超8%，触发市场熔断机制。",
-        "image": "",
-        "publishedAt": "2026-10-15T04:07:53.000Z",
+        "title": "海南澄迈跨境电商成型起势",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715266.shtml",
+        "summary": "中新网海口10月15日电 (陈英清)自海南获批跨境电子商务综合试验区以来，澄迈县抢抓机遇、先行先试，全力擦亮“要出海、来澄迈”城市标签。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/a43fbd73-b1f5-4d56-8611-28d7266a99bb_zsite.jpg",
+        "publishedAt": "2026-10-15T12:39:42.000Z",
         "source": "中新网"
       },
       {
-        "title": "9月广东CPI、PPI同比涨幅均扩大",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714899.shtml",
-        "summary": "中新社广州10月15日电 (记者 许青青)据中国国家统计局广东调查总队15日在官网发布的数据，9月，广东居民消费价格指数(CPI)同比、环比涨幅均有所扩大。受国际能源价格上行、上游关键原材料价格波动等因素影响，广东工业生产者出厂价格指数(PPI)同比涨幅扩大、环比保持上涨。",
-        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/4a28c4fa-5e5f-41ec-bcd3-586e3072c7db_zsite.jpeg",
-        "publishedAt": "2026-10-15T04:01:02.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "“守护乐龄 大家同行”十二城老年防诈公益宣传走进郑州",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714897.shtml",
-        "summary": "10月13日，正值2026年养老金融宣传推动月期间，“守护乐龄大家同行”十二城老年防诈公益宣传活动在大家的家·郑州金水社区举办。本次活动由中国老年学和老年医学学会老龄金融分会主办，大家人寿保险股份有限公司支持，聚焦养老金融知识普及与老年防诈宣传，旨在提升老年群体识别和防范电信网络诈骗的意识和能力。",
-        "image": "https://www.chinanews.com/cr/2026/1015/1321856151.JPG",
-        "publishedAt": "2026-10-15T03:50:08.000Z",
-        "source": "中新网"
-      },
-      {
-        "title": "A股午评：超5000只个股飘绿，三大指数集体收跌",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714896.shtml",
-        "summary": "",
-        "image": "https://i2.chinanews.com.cn/simg/cmshd/2026/10/15/2553f0d0c0884f7bb53cb07445209195.jpg",
-        "publishedAt": "2026-10-15T03:41:35.000Z",
+        "title": "秋糖会三度落子南京：面对年轻市场 酒企集体“微醺就好”",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715262.shtml",
+        "summary": "中新网南京10月15日电 (张传明 唐娟)10月15日，第115届全国糖酒商品交易会(下文简称秋糖会)在南京国际博览中心启幕。作为中国食品和酒类行业的“风向标”，今年展馆里最显著的变化，莫过于一场围绕年轻消费者的集体“降度”。",
+        "image": "https://i2.chinanews.com.cn/simg/ypt/2026/261015/aefad41e-1f5c-49c8-84b2-7051bf2b56a0_zsite.jpg",
+        "publishedAt": "2026-10-15T12:31:02.000Z",
         "source": "中新网"
       }
     ],
     "worldTop": [
       {
-        "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-        "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6b/live/96412140-c847-11f1-9a39-31b474234113.jpg",
-        "publishedAt": "2026-10-15T03:26:36.000Z",
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
+        "publishedAt": "2026-10-15T12:28:26.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b54/live/4c6fe8b0-c899-11f1-a64c-550be9e3c66b.jpg",
+        "publishedAt": "2026-10-15T12:03:51.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+        "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+        "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd7f/live/80f03ac0-c88c-11f1-9a39-31b474234113.jpg",
+        "publishedAt": "2026-10-15T11:12:54.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/9c970420-c869-11f1-971b-634f423608e9.jpg",
+        "publishedAt": "2026-10-15T10:05:29.000Z",
         "source": "BBC"
       },
       {
@@ -311,84 +335,68 @@
         "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
         "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg",
-        "publishedAt": "2026-10-15T03:03:16.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers sai...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/491e/live/40de5ca0-c841-11f1-afe1-c9348bd7f501.jpg",
-        "publishedAt": "2026-10-15T02:26:07.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7e/live/76dbc1b0-c848-11f1-94ec-7f952cae1636.jpg",
-        "publishedAt": "2026-10-14T20:55:24.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Student protesters attack government buildings in Albania",
-        "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
-        "publishedAt": "2026-10-14T20:29:05.000Z",
+        "publishedAt": "2026-10-15T08:41:04.000Z",
         "source": "BBC"
       }
     ],
     "worldBusiness": [
       {
-        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+        "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+        "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717e/live/d95f6d50-c898-11f1-b0a4-81e564f1cfaa.jpg",
+        "publishedAt": "2026-10-15T13:16:13.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
         "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
         "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
-        "publishedAt": "2026-10-15T04:19:17.000Z",
+        "publishedAt": "2026-10-15T11:34:55.000Z",
         "source": "BBC"
       },
       {
-        "title": "How backlash against data centres could shape the US midterm elections",
-        "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-        "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
-        "publishedAt": "2026-10-14T23:02:57.000Z",
+        "title": "Global tech selloff deepens as enthusiasm for AI stocks wobbles",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QURFNXNKc2JOay1PenlxMHdlOGxDMzd5a2xiV1ZXWmtmT2FEWTJ0NVJPSVBOTGs2YnFXUFJQWWtPQ3phYnhIMXZheTRfc051QUczOU9Md1NFRFdhZlVnZ0R3Y1pvSGU0SlBHV1l5TFBydjdwS3c?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-10-15T10:46:22.000Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+        "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/a9237850-c87c-11f1-bc2e-018d645d8d21.jpg",
+        "publishedAt": "2026-10-15T09:29:54.000Z",
         "source": "BBC"
       },
       {
-        "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-        "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-        "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
-        "publishedAt": "2026-10-14T17:46:30.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/877e/live/417f8270-c7f0-11f1-a64c-550be9e3c66b.jpg",
-        "publishedAt": "2026-10-14T16:47:32.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
-        "publishedAt": "2026-10-14T15:54:04.000Z",
+        "title": "'I paid thousands to a company for jobs that never came'",
+        "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df3/live/28665390-c246-11f1-9670-0b564215b759.jpg",
+        "publishedAt": "2026-10-15T05:02:37.000Z",
         "source": "BBC"
       }
     ],
     "worldTech": [
       {
-        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
         "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
         "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
-        "publishedAt": "2026-10-15T04:19:17.000Z",
+        "publishedAt": "2026-10-15T11:34:55.000Z",
         "source": "BBC"
+      },
+      {
+        "title": "Global tech selloff deepens as enthusiasm for AI stocks wobbles",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QURFNXNKc2JOay1PenlxMHdlOGxDMzd5a2xiV1ZXWmtmT2FEWTJ0NVJPSVBOTGs2YnFXUFJQWWtPQ3phYnhIMXZheTRfc051QUczOU9Md1NFRFdhZlVnZ0R3Y1pvSGU0SlBHV1l5TFBydjdwS3c?oc=5",
+        "summary": "",
+        "image": "",
+        "publishedAt": "2026-10-15T10:46:22.000Z",
+        "source": "CNN"
       },
       {
         "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
@@ -397,14 +405,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
         "publishedAt": "2026-10-14T15:54:04.000Z",
         "source": "BBC"
-      },
-      {
-        "title": "What we know about the fatal roller coaster incident at Six Flags Over Georgia",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94M0FFYmpma1g3Qzk5emc2QVA1ZzQtckRDUUhzejRlcUNBamtvX2R3eUU1ckwzRjVTaDNpUnV3MzlUemd3WTBDWDRvNTVjS3BNb0Y1V0dKZXdLYlk0RlBHR0Y1MTUzbmtiYi1HZnZ0NFF4WmNVRHBUTjRqczBkd0E?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-10-14T08:44:54.000Z",
-        "source": "CNN"
       },
       {
         "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
@@ -425,53 +425,77 @@
     ],
     "domestic": [
       {
-        "title": "成都市原市长王凤朝涉嫌受贿被公诉",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714900.shtml",
-        "summary": "中新社北京10月15日电 (记者 张素)中国最高人民检察院15日通报四川省成都市委原副书记、市政府原市长王凤朝涉嫌受贿一案进展。最高检依法以涉嫌受贿罪对王凤朝作出逮捕决定，并指定由湖南省长沙市人民检察院审查起诉。",
+        "title": "李强同多哥部长会议主席福雷会谈",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715303.shtml",
+        "summary": "中新社北京10月15日电 10月15日下午，中国国务院总理李强在北京人民大会堂同来华进行正式访问的多哥部长会议主席福雷举行会谈。",
         "image": "",
-        "publishedAt": "2026-10-15T04:04:36.000Z",
+        "publishedAt": "2026-10-15T13:13:58.000Z",
         "source": "中新网"
       },
       {
-        "title": "青海省果洛州政府原党组成员、副州长西热被查",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714884.shtml",
-        "summary": "中新网10月15日电 据青海省纪委监委消息：青海省果洛州政府原党组成员、副州长西热涉嫌严重违纪违法，主动投案，目前正接受青海省纪委监委纪律审查和监察调查。",
+        "title": "李强会见博茨瓦纳总统博科",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715302.shtml",
+        "summary": "中新社北京10月15日电 10月15日下午，中国国务院总理李强在北京人民大会堂会见来华进行国事访问的博茨瓦纳总统博科。",
         "image": "",
-        "publishedAt": "2026-10-15T03:16:38.000Z",
+        "publishedAt": "2026-10-15T13:13:46.000Z",
         "source": "中新网"
       },
       {
-        "title": "“人工智能污染”来袭，如何应对",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714886.shtml",
-        "summary": "【光明青年论坛】",
+        "title": "阁皂山祭祖典礼在“中国药都”樟树举行",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715268.shtml",
+        "summary": "中新网樟树10月15日电 (熊锦阳)10月15日，阁皂山祭祖典礼在江西省樟树市举行，前来参加樟树第57届全国药材药品交易会的药企药商、社会各界人士参加活动。",
         "image": "",
-        "publishedAt": "2026-10-15T03:14:28.000Z",
+        "publishedAt": "2026-10-15T12:39:46.000Z",
         "source": "中新网"
       },
       {
-        "title": "以大湾区为创新实践沃土 专家研讨涉外检察制度建构与实践探索",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714883.shtml",
-        "summary": "中新网北京10月15日电 (记者 张素)“粤港澳大湾区作为国家对外开放前沿阵地，涉外要素集中、跨境场景丰富，是涉外检察创新实践的重要沃土。”最高人民检察院国际合作局局长刘志远近日在一场活动上说。",
+        "title": "“长城-2026”反恐国际论坛在北京闭幕",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715258.shtml",
+        "summary": "中新社北京10月15日电 (记者 李纯)由中国人民武装警察部队举办的“长城-2026”反恐国际论坛15日在北京闭幕。",
         "image": "",
-        "publishedAt": "2026-10-15T03:10:43.000Z",
+        "publishedAt": "2026-10-15T12:30:24.000Z",
         "source": "中新网"
       },
       {
-        "title": "何立峰会见美国桥水投资公司创始人达利欧",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10714859.shtml",
-        "summary": "中新社北京10月15日电 中共中央政治局委员、中央财办主任何立峰14日在北京会见美国桥水投资公司创始人达利欧。",
+        "title": "中华人民共和国政府和多哥共和国政府关于构建新时代中多命运共同体的联合声明",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715249.shtml",
+        "summary": "新华社北京10月15日电",
         "image": "",
-        "publishedAt": "2026-10-15T03:09:25.000Z",
+        "publishedAt": "2026-10-15T12:16:37.000Z",
         "source": "中新网"
       }
     ],
     "international": [
       {
-        "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-        "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6b/live/96412140-c847-11f1-9a39-31b474234113.jpg",
-        "publishedAt": "2026-10-15T03:26:36.000Z",
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
+        "publishedAt": "2026-10-15T12:28:26.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b54/live/4c6fe8b0-c899-11f1-a64c-550be9e3c66b.jpg",
+        "publishedAt": "2026-10-15T12:03:51.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+        "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+        "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd7f/live/80f03ac0-c88c-11f1-9a39-31b474234113.jpg",
+        "publishedAt": "2026-10-15T11:12:54.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/9c970420-c869-11f1-971b-634f423608e9.jpg",
+        "publishedAt": "2026-10-15T10:05:29.000Z",
         "source": "BBC"
       },
       {
@@ -479,31 +503,7 @@
         "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
         "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg",
-        "publishedAt": "2026-10-15T03:03:16.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers sai...",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/491e/live/40de5ca0-c841-11f1-afe1-c9348bd7f501.jpg",
-        "publishedAt": "2026-10-15T02:26:07.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7e/live/76dbc1b0-c848-11f1-94ec-7f952cae1636.jpg",
-        "publishedAt": "2026-10-14T20:55:24.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Student protesters attack government buildings in Albania",
-        "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
-        "publishedAt": "2026-10-14T20:29:05.000Z",
+        "publishedAt": "2026-10-15T08:41:04.000Z",
         "source": "BBC"
       }
     ],
