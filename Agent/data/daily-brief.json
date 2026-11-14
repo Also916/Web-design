@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-13T19:33:06.016Z",
+  "generatedAt": "2026-11-14T00:50:28.665Z",
   "weather": {
     "location": "北京市海淀区",
     "current": {
-      "temperature": 3,
-      "weatherCode": 0,
-      "windSpeed": 4
+      "temperature": 6,
+      "weatherCode": 3,
+      "windSpeed": 5
     },
     "today": {
       "date": "2026-11-14",
-      "weatherCode": 2,
-      "description": "局部多云",
-      "max": 12,
-      "min": 2,
+      "weatherCode": 3,
+      "description": "阴天",
+      "max": 13,
+      "min": 3,
       "precipitationProbability": 0
     },
     "forecast": [
       {
         "date": "2026-11-14",
-        "weatherCode": 2,
-        "description": "局部多云",
-        "max": 12,
-        "min": 2,
+        "weatherCode": 3,
+        "description": "阴天",
+        "max": 13,
+        "min": 3,
         "precipitationProbability": 0
       },
       {
@@ -30,21 +30,21 @@
         "description": "阴天",
         "max": 12,
         "min": 4,
-        "precipitationProbability": 10
+        "precipitationProbability": 2
       },
       {
         "date": "2026-11-16",
         "weatherCode": 51,
         "description": "毛毛雨",
         "max": 6,
-        "min": 2,
-        "precipitationProbability": 41
+        "min": 3,
+        "precipitationProbability": 42
       },
       {
         "date": "2026-11-17",
         "weatherCode": 51,
         "description": "毛毛雨",
-        "max": 6,
+        "max": 5,
         "min": 1,
         "precipitationProbability": 25
       },
@@ -54,7 +54,7 @@
         "description": "阴天",
         "max": 4,
         "min": -2,
-        "precipitationProbability": 17
+        "precipitationProbability": 13
       }
     ]
   },
@@ -299,35 +299,35 @@
     ],
     "worldTop": [
       {
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+        "publishedAt": "2026-11-13T23:40:45.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
         "publishedAt": "2026-11-13T18:36:57.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-        "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-        "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
-        "publishedAt": "2026-11-13T15:42:52.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-        "publishedAt": "2026-11-13T15:40:08.000Z",
         "source": "BBC"
       },
       {
@@ -341,11 +341,11 @@
     ],
     "worldBusiness": [
       {
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-        "publishedAt": "2026-11-13T18:36:57.000Z",
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+        "publishedAt": "2026-11-13T21:14:22.000Z",
         "source": "BBC"
       },
       {
@@ -353,7 +353,15 @@
         "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
         "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-        "publishedAt": "2026-11-13T15:40:08.000Z",
+        "publishedAt": "2026-11-13T19:53:57.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+        "publishedAt": "2026-11-13T18:36:57.000Z",
         "source": "BBC"
       },
       {
@@ -365,45 +373,45 @@
         "source": "BBC"
       },
       {
-        "title": "Millions affected as Microsoft outage continues",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUl4cEQtbHdWdVRZSzNlSVV1VlBIbWdpbXcxamVjWm1Hb3FLcWEtZTdWekZaZjZpSmh4SXQ1aS04Zng5WVN4T0tHWWkxU3ZFcGo2dHNOREVieWRGb3JoNElaLVBUUDJjMEhUbXpuNG5RQkJTdVlILVJTenlSdGp1NDJITzYtM2tIVll3R3BjTjl1a2FQYzlpVjNPR3RrLTFjZlE?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-11-13T11:13:00.000Z",
-        "source": "CNN"
-      },
-      {
-        "title": "Trump’s tariffs face a new threat: Republicans",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-        "summary": "",
-        "image": "",
-        "publishedAt": "2026-11-13T10:00:15.000Z",
-        "source": "CNN"
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
+        "source": "BBC"
       }
     ],
     "worldTech": [
       {
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-        "publishedAt": "2026-11-13T18:36:57.000Z",
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The next title in the series is expected to be the biggest video game release ever.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+        "publishedAt": "2026-11-14T00:37:01.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg",
+        "publishedAt": "2026-11-13T23:00:31.000Z",
         "source": "BBC"
       },
       {
         "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
         "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
         "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
-        "publishedAt": "2026-11-13T17:38:19.000Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
+        "publishedAt": "2026-11-13T21:15:41.000Z",
         "source": "BBC"
       },
       {
-        "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-        "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-        "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg",
-        "publishedAt": "2026-11-13T17:34:58.000Z",
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+        "publishedAt": "2026-11-13T21:14:22.000Z",
         "source": "BBC"
       },
       {
@@ -411,15 +419,7 @@
         "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
         "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-        "publishedAt": "2026-11-13T15:40:08.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "NHS, schools and police forces hit by Microsoft outage",
-        "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-        "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg",
-        "publishedAt": "2026-11-13T13:41:25.000Z",
+        "publishedAt": "2026-11-13T19:53:57.000Z",
         "source": "BBC"
       }
     ],
@@ -467,35 +467,35 @@
     ],
     "international": [
       {
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+        "publishedAt": "2026-11-13T23:40:45.000Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "source": "BBC"
+      },
+      {
         "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
         "publishedAt": "2026-11-13T18:36:57.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-        "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-        "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
-        "publishedAt": "2026-11-13T15:42:52.000Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-        "publishedAt": "2026-11-13T15:40:08.000Z",
         "source": "BBC"
       },
       {
@@ -507,10 +507,59 @@
         "source": "BBC"
       }
     ],
-    "nba": []
+    "nba": [
+      {
+        "title": "Murray wants trade from Pelicans; both sides working on resolution",
+        "link": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans",
+        "summary": "Pelicans guard Dejounte Murray wants a trade from the franchise, and his agent, Klutch Sports CEO Rich Paul, and team officials have started working o...",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0302%2Fr1622171_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-13T23:48:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Redick says Lakers' Reaves day-to-day with left heel bruise",
+        "link": "https://www.espn.com/nba/story/_/id/50475090/lakers-austin-reaves-day-day-left-heel-bruise",
+        "summary": "Lakers guard Austin Reaves is considered day-to-day as he deals with a left heel bruise, coach JJ Redick said Friday.",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745465_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-13T23:48:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Former lottery pick McDermott retires after 12 NBA seasons",
+        "link": "https://www.espn.com/nba/story/_/id/50473335/ex-lottery-pick-doug-mcdermott-retires-12-nba-seasons",
+        "summary": "Three-point specialist Doug McDermott has retired from the NBA after 12 seasons spent with seven teams.",
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745362_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-13T23:48:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Prosecutors: Text shows plan to bet unders on Rozier's teammate",
+        "link": "https://www.espn.com/nba/story/_/id/50472807/terry-rozier-unders-bet-hornets-teammate",
+        "summary": "A co-defendant in an NBA betting case told a gambler that he and Terry Rozier were planning a wagering scheme centered on another Hornets player, fede...",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745307_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-13T23:48:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Cade authors NBA's first 50-point, 10-assist, 0-turnover game in 2OT thriller",
+        "link": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards",
+        "summary": "Cade Cunningham had 52 points, 11 assists and no turnovers as the Pistons outlasted the Wizards in double overtime Thursday night.",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745154_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-13T23:48:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Warriors' Curry out at least 2 weeks with oblique injury, could miss a month",
+        "link": "https://www.espn.com/nba/story/_/id/50462899/warriors-stephen-curry-least-2-weeks-oblique-tear",
+        "summary": "Stephen Curry will miss at least two weeks with an oblique abdominal tear, but sources told ESPN that the Warriors are bracing for him to be out close...",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1112%2Fr1744663_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-13T23:48:06.000Z",
+        "source": "ESPN"
+      }
+    ]
   },
   "nbaScoreboard": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "games": []
   },
   "aiPapers": {
